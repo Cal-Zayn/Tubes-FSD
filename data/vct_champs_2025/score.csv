@@ -1,0 +1,89 @@
+match_id,game_id,team_1,team_1_ct,team_1_t,team_1_ot,team_1_total,team_1_wl,team_1_id,team_2,team_2_ct,team_2_t,team_2_ot,team_2_total,team_2_wl,team_2_id,team_1_walot,team_2_walot,team_1_walot_l,team_2_walot_l,event_name
+542195,233397,Paper Rex,6,7,0,13,win,624,Xi Lai Gaming,3,6,0,9,lose,13581,no,no,no,no,Group Stage:  Opening (A)
+542195,233398,Paper Rex,8,5,0,13,win,624,Xi Lai Gaming,1,4,0,5,lose,13581,yes,no,no,no,Group Stage:  Opening (A)
+542196,233400,GIANTX,6,0,0,6,lose,14419,Sentinels,7,6,0,13,win,2,no,no,no,no,Group Stage:  Opening (A)
+542196,233401,GIANTX,10,3,0,13,win,14419,Sentinels,2,2,0,4,lose,2,yes,no,no,no,Group Stage:  Opening (A)
+542196,233402,GIANTX,4,9,0,13,win,14419,Sentinels,1,8,0,9,lose,2,no,yes,no,yes,Group Stage:  Opening (A)
+542207,233430,NRG,2,10,5,17,win,1034,EDward Gaming,2,10,3,15,win,1120,no,yes,no,no,Group Stage:  Opening (C)
+542207,233431,NRG,6,7,0,13,win,1034,EDward Gaming,5,6,0,11,lose,1120,no,no,no,no,Group Stage:  Opening (C)
+542205,233427,Team Liquid,6,2,0,8,lose,474,DRX,7,6,0,13,win,8185,no,no,no,no,Group Stage:  Opening (C)
+542205,233428,Team Liquid,6,4,0,10,lose,474,DRX,7,6,0,13,win,8185,no,no,no,no,Group Stage:  Opening (C)
+542212,233445,Dragon Ranger Gaming,5,7,1,13,win,11981,T1,5,7,3,15,win,14,no,no,no,no,Group Stage:  Opening (D)
+542212,233446,Dragon Ranger Gaming,7,5,2,14,win,11981,T1,7,5,4,16,win,14,no,no,no,no,Group Stage:  Opening (D)
+542211,233442,G2 Esports,8,2,0,10,lose,11058,Team Heretics,9,4,0,13,win,1001,yes,no,yes,no,Group Stage:  Opening (D)
+542211,233443,G2 Esports,7,3,0,10,lose,11058,Team Heretics,8,5,0,13,win,1001,no,no,no,no,Group Stage:  Opening (D)
+542200,233412,Bilibili Gaming,2,0,0,2,lose,12010,MIBR,3,10,0,13,win,7386,no,yes,no,no,Group Stage:  Opening (B)
+542200,233413,Bilibili Gaming,7,2,0,9,lose,12010,MIBR,8,5,0,13,win,7386,no,no,no,no,Group Stage:  Opening (B)
+542201,233415,Rex Regum Qeon,5,5,0,10,lose,878,FNATIC,6,7,0,13,win,2593,no,no,no,no,Group Stage:  Opening (B)
+542201,233416,Rex Regum Qeon,0,7,0,7,lose,878,FNATIC,5,8,0,13,win,2593,no,no,no,no,Group Stage:  Opening (B)
+542197,233403,Paper Rex,7,4,0,11,lose,624,GIANTX,8,5,0,13,win,14419,no,no,no,no,Group Stage:  Winner's (A)
+542197,233404,Paper Rex,5,8,0,13,win,624,GIANTX,4,6,0,10,lose,14419,yes,no,no,no,Group Stage:  Winner's (A)
+542197,233405,Paper Rex,6,7,0,13,win,624,GIANTX,5,1,0,6,lose,14419,no,no,no,no,Group Stage:  Winner's (A)
+542208,233433,DRX,5,8,0,13,win,8185,NRG,4,0,0,4,lose,1034,yes,no,no,no,Group Stage:  Winner's (C)
+542208,233434,DRX,4,7,0,11,lose,8185,NRG,5,8,0,13,win,1034,no,no,no,no,Group Stage:  Winner's (C)
+542208,233435,DRX,3,8,0,11,lose,8185,NRG,4,9,0,13,win,1034,yes,no,yes,no,Group Stage:  Winner's (C)
+542213,233448,Team Heretics,8,5,0,13,win,1001,T1,6,4,0,10,lose,14,yes,no,no,no,Group Stage:  Winner's (D)
+542213,233449,Team Heretics,6,7,0,13,win,1001,T1,5,6,0,11,lose,14,no,no,no,no,Group Stage:  Winner's (D)
+542202,233418,MIBR,6,7,0,13,win,7386,FNATIC,5,0,0,5,lose,2593,no,no,no,no,Group Stage:  Winner's (B)
+542202,233419,MIBR,0,7,0,7,lose,7386,FNATIC,5,8,0,13,win,2593,no,no,no,no,Group Stage:  Winner's (B)
+542202,233420,MIBR,6,4,0,10,lose,7386,FNATIC,8,5,0,13,win,2593,no,yes,no,no,Group Stage:  Winner's (B)
+542209,233436,Team Liquid,2,1,0,3,lose,474,EDward Gaming,11,2,0,13,win,1120,no,yes,no,no,Group Stage:  Elimination (C)
+542209,233437,Team Liquid,4,9,0,13,win,474,EDward Gaming,3,3,0,6,lose,1120,yes,no,no,no,Group Stage:  Elimination (C)
+542209,233438,Team Liquid,6,6,3,15,win,474,EDward Gaming,6,6,1,13,win,1120,no,no,no,no,Group Stage:  Elimination (C)
+542198,233406,Xi Lai Gaming,5,5,0,10,lose,13581,Sentinels,6,7,0,13,win,2,no,no,no,no,Group Stage:  Elimination (A)
+542198,233407,Xi Lai Gaming,4,9,0,13,win,13581,Sentinels,3,8,0,11,lose,2,yes,no,no,no,Group Stage:  Elimination (A)
+542198,233408,Xi Lai Gaming,6,7,0,13,win,13581,Sentinels,5,3,0,8,lose,2,no,no,no,no,Group Stage:  Elimination (A)
+542203,233421,Bilibili Gaming,7,6,0,13,win,12010,Rex Regum Qeon,6,1,0,7,lose,878,no,no,no,no,Group Stage:  Elimination (B)
+542203,233422,Bilibili Gaming,3,5,0,8,lose,12010,Rex Regum Qeon,7,6,0,13,win,878,no,no,no,no,Group Stage:  Elimination (B)
+542203,233423,Bilibili Gaming,4,0,0,4,lose,12010,Rex Regum Qeon,5,8,0,13,win,878,no,yes,no,no,Group Stage:  Elimination (B)
+542214,233451,G2 Esports,7,6,0,13,win,11058,Dragon Ranger Gaming,6,1,0,7,lose,11981,no,no,no,no,Group Stage:  Elimination (D)
+542214,233452,G2 Esports,6,7,0,13,win,11058,Dragon Ranger Gaming,1,6,0,7,lose,11981,no,no,no,no,Group Stage:  Elimination (D)
+542210,233439,DRX,6,7,0,13,win,8185,Team Liquid,2,6,0,8,lose,474,no,no,no,no,Group Stage:  Decider (C)
+542210,233440,DRX,6,7,0,13,win,8185,Team Liquid,1,6,0,7,lose,474,no,no,no,no,Group Stage:  Decider (C)
+542199,233409,GIANTX,4,8,2,14,win,14419,Xi Lai Gaming,4,8,0,12,lose,13581,no,yes,no,yes,Group Stage:  Decider (A)
+542199,233410,GIANTX,8,5,0,13,win,14419,Xi Lai Gaming,7,3,0,10,lose,13581,no,no,no,no,Group Stage:  Decider (A)
+542215,233454,T1,5,4,0,9,lose,14,G2 Esports,8,5,0,13,win,11058,no,yes,no,no,Group Stage:  Decider (D)
+542215,233455,T1,4,4,0,8,lose,14,G2 Esports,5,8,0,13,win,11058,no,yes,no,no,Group Stage:  Decider (D)
+542204,233424,MIBR,4,9,0,13,win,7386,Rex Regum Qeon,3,2,0,5,lose,878,yes,no,no,no,Group Stage:  Decider (B)
+542204,233425,MIBR,8,5,0,13,win,7386,Rex Regum Qeon,1,4,0,5,lose,878,yes,no,no,no,Group Stage:  Decider (B)
+542265,233460,Paper Rex,6,7,0,13,win,624,G2 Esports,5,6,0,11,lose,11058,no,no,no,no,Playoffs:  Upper Quarterfinals
+542265,233461,Paper Rex,6,6,1,13,win,624,G2 Esports,6,6,3,15,win,11058,no,no,no,no,Playoffs:  Upper Quarterfinals
+542265,233462,Paper Rex,4,9,0,13,win,624,G2 Esports,3,8,0,11,lose,11058,no,yes,no,yes,Playoffs:  Upper Quarterfinals
+542264,233457,FNATIC,2,11,0,13,win,2593,DRX,1,10,0,11,lose,8185,no,yes,no,yes,Playoffs:  Upper Quarterfinals
+542264,233458,FNATIC,2,6,0,8,lose,2593,DRX,6,7,0,13,win,8185,no,no,no,no,Playoffs:  Upper Quarterfinals
+542264,233459,FNATIC,5,8,0,13,win,2593,DRX,4,1,0,5,lose,8185,yes,no,no,no,Playoffs:  Upper Quarterfinals
+542266,233463,Team Heretics,4,8,0,12,lose,1001,MIBR,4,8,2,14,win,7386,no,yes,no,no,Playoffs:  Upper Quarterfinals
+542266,233464,Team Heretics,3,3,0,6,lose,1001,MIBR,9,4,0,13,win,7386,no,yes,no,no,Playoffs:  Upper Quarterfinals
+542267,233466,NRG,2,11,0,13,win,1034,GIANTX,1,0,0,1,lose,14419,yes,no,no,no,Playoffs:  Upper Quarterfinals
+542267,233467,NRG,4,9,0,13,win,1034,GIANTX,3,3,0,6,lose,14419,yes,no,no,no,Playoffs:  Upper Quarterfinals
+542273,233483,DRX,4,3,0,7,lose,8185,G2 Esports,5,8,0,13,win,11058,no,yes,no,no,Playoffs:  Lower Round 1
+542273,233484,DRX,5,8,0,13,win,8185,G2 Esports,4,6,0,10,lose,11058,yes,no,no,no,Playoffs:  Lower Round 1
+542273,233485,DRX,10,3,0,13,win,8185,G2 Esports,5,2,0,7,lose,11058,yes,no,no,no,Playoffs:  Lower Round 1
+542274,233486,Team Heretics,8,5,0,13,win,1001,GIANTX,0,4,0,4,lose,14419,yes,no,no,no,Playoffs:  Lower Round 1
+542274,233487,Team Heretics,3,0,0,3,lose,1001,GIANTX,4,9,0,13,win,14419,no,yes,no,no,Playoffs:  Lower Round 1
+542274,233488,Team Heretics,8,5,0,13,win,1001,GIANTX,7,2,0,9,lose,14419,no,no,no,no,Playoffs:  Lower Round 1
+542268,233469,FNATIC,7,3,0,10,lose,2593,Paper Rex,8,5,0,13,win,624,no,no,no,no,Playoffs:  Upper Semifinals
+542268,233470,FNATIC,5,8,0,13,win,2593,Paper Rex,4,0,0,4,lose,624,yes,no,no,no,Playoffs:  Upper Semifinals
+542268,233471,FNATIC,10,3,0,13,win,2593,Paper Rex,9,0,0,9,lose,624,no,yes,no,yes,Playoffs:  Upper Semifinals
+542269,233472,MIBR,6,6,2,14,win,7386,NRG,6,6,4,16,win,1034,no,no,no,no,Playoffs:  Upper Semifinals
+542269,233473,MIBR,10,3,0,13,win,7386,NRG,2,2,0,4,lose,1034,yes,no,no,no,Playoffs:  Upper Semifinals
+542269,233474,MIBR,5,7,2,14,win,7386,NRG,5,7,4,16,win,1034,no,no,no,no,Playoffs:  Upper Semifinals
+542277,233492,Paper Rex,4,9,0,13,win,624,Team Heretics,3,8,0,11,lose,1001,no,yes,no,yes,Playoffs:  Lower Round 2
+542277,233493,Paper Rex,7,2,0,9,lose,624,Team Heretics,8,5,0,13,win,1001,no,no,no,no,Playoffs:  Lower Round 2
+542277,233494,Paper Rex,5,8,0,13,win,624,Team Heretics,4,0,0,4,lose,1001,yes,no,no,no,Playoffs:  Lower Round 2
+542276,233489,MIBR,10,3,0,13,win,7386,DRX,9,1,0,10,lose,8185,no,yes,no,yes,Playoffs:  Lower Round 2
+542276,233490,MIBR,5,7,1,13,win,7386,DRX,5,7,3,15,win,8185,no,no,no,no,Playoffs:  Lower Round 2
+542276,233491,MIBR,4,6,0,10,lose,7386,DRX,6,7,0,13,win,8185,no,no,no,no,Playoffs:  Lower Round 2
+542270,233475,FNATIC,8,4,0,12,lose,2593,NRG,8,4,2,14,win,1034,no,yes,no,no,Playoffs:  Upper Final
+542270,233476,FNATIC,1,4,0,5,lose,2593,NRG,2,11,0,13,win,1034,no,yes,no,no,Playoffs:  Upper Final
+542278,233495,DRX,9,3,3,15,win,8185,Paper Rex,9,3,1,13,win,624,no,yes,no,no,Playoffs:  Lower Round 3
+542278,233496,DRX,6,7,0,13,win,8185,Paper Rex,5,3,0,8,lose,624,no,no,no,no,Playoffs:  Lower Round 3
+542279,233498,FNATIC,4,4,0,8,lose,2593,DRX,8,5,0,13,win,8185,no,yes,no,no,Playoffs:  Lower Final
+542279,233499,FNATIC,2,11,0,13,win,2593,DRX,1,2,0,3,lose,8185,yes,no,no,no,Playoffs:  Lower Final
+542279,233500,FNATIC,6,7,0,13,win,2593,DRX,5,6,0,11,lose,8185,no,no,no,no,Playoffs:  Lower Final
+542279,233501,FNATIC,3,10,0,13,win,2593,DRX,2,2,0,4,lose,8185,yes,no,no,no,Playoffs:  Lower Final
+542272,233478,NRG,9,4,0,13,win,1034,FNATIC,0,3,0,3,lose,2593,yes,no,no,no,Playoffs:  Grand Final
+542272,233479,NRG,4,9,0,13,win,1034,FNATIC,3,3,0,6,lose,2593,yes,no,no,no,Playoffs:  Grand Final
+542272,233480,NRG,11,1,1,13,win,1034,FNATIC,11,1,3,15,win,2593,yes,no,no,no,Playoffs:  Grand Final
+542272,233481,NRG,4,4,0,8,lose,1034,FNATIC,5,8,0,13,win,2593,no,yes,no,no,Playoffs:  Grand Final
+542272,233482,NRG,4,9,0,13,win,1034,FNATIC,3,2,0,5,lose,2593,yes,no,no,no,Playoffs:  Grand Final

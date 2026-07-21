@@ -1,0 +1,1761 @@
+match_id,game_id,side,player,player_id,agent,team_id,country,rating,acs,kill,death,assist,deltakda,kast,adr,hs,fk,fd,deltafkfd,event_name
+542195,233397,t,something,17086,Yoru,624,Russia,1.33,199,7,5,6,+2,100%,137,16%,1,0,+1,Group Stage:  Opening (A)
+542195,233397,t,Jinggg,7378,Raze,624,Singapore,1.11,239,8,7,2,+1,80%,148,13%,3,2,+1,Group Stage:  Opening (A)
+542195,233397,t,f0rsakeN,9801,Brimstone,624,Indonesia,1.99,341,14,4,7,+10,100%,218,38%,1,1,0,Group Stage:  Opening (A)
+542195,233397,t,d4v41,9803,Viper,624,Malaysia,1.37,236,9,5,1,+4,100%,167,14%,1,0,+1,Group Stage:  Opening (A)
+542195,233397,t,PatMen,13744,Fade,624,Philippines,0.99,173,6,4,1,+2,80%,118,28%,0,1,-1,Group Stage:  Opening (A)
+542195,233397,t,Rarga,22047,Raze,13581,Russia,0.90,197,8,9,2,-1,75%,138,36%,2,1,+1,Group Stage:  Opening (A)
+542195,233397,t,Viva,36415,Brimstone,13581,China,1.13,194,9,8,2,+1,58%,133,50%,0,1,-1,Group Stage:  Opening (A)
+542195,233397,t,NoMan,11527,Skye,13581,Hong Kong,1.06,249,11,10,0,+1,75%,157,46%,0,0,0,Group Stage:  Opening (A)
+542195,233397,t,coconut,12365,Gekko,13581,Hong Kong,0.51,148,6,9,2,-3,58%,94,43%,3,2,+1,Group Stage:  Opening (A)
+542195,233397,t,happywei,37927,Viper,13581,Taiwan,0.70,162,7,9,1,-2,67%,119,30%,1,2,-1,Group Stage:  Opening (A)
+542195,233397,ct,something,17086,Yoru,624,Russia,1.88,308,14,7,6,+7,83%,192,13%,3,0,+3,Group Stage:  Opening (A)
+542195,233397,ct,Jinggg,7378,Raze,624,Singapore,1.87,380,16,7,5,+9,83%,256,21%,2,0,+2,Group Stage:  Opening (A)
+542195,233397,ct,f0rsakeN,9801,Brimstone,624,Indonesia,0.49,114,4,9,6,-5,58%,94,32%,1,4,-3,Group Stage:  Opening (A)
+542195,233397,ct,d4v41,9803,Viper,624,Malaysia,0.59,126,5,9,4,-4,67%,98,38%,0,1,-1,Group Stage:  Opening (A)
+542195,233397,ct,PatMen,13744,Fade,624,Philippines,0.79,152,6,9,4,-3,58%,104,41%,0,1,-1,Group Stage:  Opening (A)
+542195,233397,ct,Rarga,22047,Raze,13581,Russia,1.08,167,6,7,1,-1,50%,121,13%,1,0,+1,Group Stage:  Opening (A)
+542195,233397,ct,Viva,36415,Brimstone,13581,China,0.67,159,5,8,3,-3,50%,88,25%,0,2,-2,Group Stage:  Opening (A)
+542195,233397,ct,NoMan,11527,Skye,13581,Hong Kong,0.57,188,6,10,1,-4,50%,117,23%,3,1,+2,Group Stage:  Opening (A)
+542195,233397,ct,coconut,12365,Gekko,13581,Hong Kong,0.65,194,7,10,1,-3,60%,108,33%,0,1,-1,Group Stage:  Opening (A)
+542195,233397,ct,happywei,37927,Viper,13581,Taiwan,0.25,66,1,9,6,-8,30%,43,11%,0,2,-2,Group Stage:  Opening (A)
+542195,233398,t,f0rsakeN,9801,Omen,624,Indonesia,1.37,288,8,5,3,+3,83%,144,29%,2,0,+2,Group Stage:  Opening (A)
+542195,233398,t,something,17086,Sova,624,Russia,2.11,392,8,3,3,+5,83%,275,50%,0,1,-1,Group Stage:  Opening (A)
+542195,233398,t,Jinggg,7378,Raze,624,Singapore,0.91,268,4,6,3,-2,67%,171,22%,1,1,0,Group Stage:  Opening (A)
+542195,233398,t,d4v41,9803,Sage,624,Malaysia,1.45,180,6,2,2,+4,67%,76,15%,1,0,+1,Group Stage:  Opening (A)
+542195,233398,t,PatMen,13744,Viper,624,Philippines,0.08,25,0,4,1,-4,50%,25,33%,0,0,0,Group Stage:  Opening (A)
+542195,233398,t,NoMan,11527,Neon,13581,Hong Kong,1.05,221,9,9,2,0,67%,152,31%,2,3,-1,Group Stage:  Opening (A)
+542195,233398,t,happywei,37927,Cypher,13581,Taiwan,1.30,282,12,9,2,+3,67%,209,47%,2,1,+1,Group Stage:  Opening (A)
+542195,233398,t,Rarga,22047,Yoru,13581,Russia,1.00,214,9,10,3,-1,75%,125,35%,1,1,0,Group Stage:  Opening (A)
+542195,233398,t,coconut,12365,Omen,13581,Hong Kong,0.50,130,5,11,6,-6,75%,77,25%,1,1,0,Group Stage:  Opening (A)
+542195,233398,t,Viva,36415,Sova,13581,China,0.57,120,5,9,3,-4,75%,88,27%,0,0,0,Group Stage:  Opening (A)
+542195,233398,ct,f0rsakeN,9801,Omen,624,Indonesia,1.70,335,15,7,1,+8,75%,202,44%,2,2,0,Group Stage:  Opening (A)
+542195,233398,ct,something,17086,Sova,624,Russia,1.30,267,11,8,6,+3,83%,181,16%,2,0,+2,Group Stage:  Opening (A)
+542195,233398,ct,Jinggg,7378,Raze,624,Singapore,1.16,253,11,7,2,+4,75%,144,9%,0,2,-2,Group Stage:  Opening (A)
+542195,233398,ct,d4v41,9803,Sage,624,Malaysia,0.58,120,5,9,5,-4,58%,83,29%,0,2,-2,Group Stage:  Opening (A)
+542195,233398,ct,PatMen,13744,Viper,624,Philippines,0.53,130,6,9,1,-3,67%,84,38%,2,0,+2,Group Stage:  Opening (A)
+542195,233398,ct,NoMan,11527,Neon,13581,Hong Kong,1.84,415,9,5,2,+4,100%,248,36%,1,0,+1,Group Stage:  Opening (A)
+542195,233398,ct,happywei,37927,Cypher,13581,Taiwan,0.32,75,1,5,4,-4,50%,86,38%,0,3,-3,Group Stage:  Opening (A)
+542195,233398,ct,Rarga,22047,Yoru,13581,Russia,0.81,181,4,6,3,-2,67%,105,22%,1,1,0,Group Stage:  Opening (A)
+542195,233398,ct,coconut,12365,Omen,13581,Hong Kong,1.12,224,5,5,3,0,67%,154,50%,0,0,0,Group Stage:  Opening (A)
+542195,233398,ct,Viva,36415,Sova,13581,China,0.35,82,1,5,3,-4,33%,54,33%,0,0,0,Group Stage:  Opening (A)
+542196,233400,t,ara,11332,Yoru,14419,Romania,0.12,123,3,7,0,-4,43%,60,25%,0,2,-2,Group Stage:  Opening (A)
+542196,233400,t,Cloud,4181,Fade,14419,Russia,0.51,177,4,7,1,-3,71%,106,14%,0,2,-2,Group Stage:  Opening (A)
+542196,233400,t,westside,34684,Vyse,14419,Poland,0.15,25,0,7,0,-7,,25,0%,0,0,0,Group Stage:  Opening (A)
+542196,233400,t,Flickless,6959,Viper,14419,Belgium,0.03,57,1,7,1,-6,43%,35,25%,0,0,0,Group Stage:  Opening (A)
+542196,233400,t,grubinho,5550,Omen,14419,Poland,0.34,113,3,7,0,-4,43%,51,33%,2,1,+1,Group Stage:  Opening (A)
+542196,233400,t,N4RRATE,36245,Fade,2,United States,1.11,154,6,6,3,0,75%,109,23%,0,1,-1,Group Stage:  Opening (A)
+542196,233400,t,johnqt,1265,Viper,2,Morocco,0.91,125,5,5,1,0,75%,79,31%,1,1,0,Group Stage:  Opening (A)
+542196,233400,t,bang,3880,Omen,2,United States,1.04,182,8,7,5,+1,75%,102,37%,3,2,+1,Group Stage:  Opening (A)
+542196,233400,t,zekken,4004,Neon,2,United States,0.88,232,9,8,4,+1,67%,151,44%,1,2,-1,Group Stage:  Opening (A)
+542196,233400,t,Zellsis,729,Vyse,2,United States,0.90,167,8,7,2,+1,75%,98,18%,1,0,+1,Group Stage:  Opening (A)
+542196,233400,ct,ara,11332,Yoru,14419,Romania,1.27,192,7,5,1,+2,67%,124,41%,1,1,0,Group Stage:  Opening (A)
+542196,233400,ct,Cloud,4181,Fade,14419,Russia,0.93,133,5,7,3,-2,50%,96,22%,2,1,+1,Group Stage:  Opening (A)
+542196,233400,ct,westside,34684,Vyse,14419,Poland,1.09,243,10,9,0,+1,58%,141,58%,2,0,+2,Group Stage:  Opening (A)
+542196,233400,ct,Flickless,6959,Viper,14419,Belgium,0.96,136,6,6,3,0,75%,86,24%,1,3,-2,Group Stage:  Opening (A)
+542196,233400,ct,grubinho,5550,Omen,14419,Poland,0.67,134,5,9,2,-4,50%,114,29%,0,1,-1,Group Stage:  Opening (A)
+542196,233400,ct,N4RRATE,36245,Fade,2,United States,2.39,384,9,2,12,+7,86%,202,43%,1,0,+1,Group Stage:  Opening (A)
+542196,233400,ct,johnqt,1265,Viper,2,Morocco,2.03,297,8,2,5,+6,100%,152,35%,1,0,+1,Group Stage:  Opening (A)
+542196,233400,ct,bang,3880,Omen,2,United States,1.66,169,6,1,3,+5,100%,89,18%,0,0,0,Group Stage:  Opening (A)
+542196,233400,ct,zekken,4004,Neon,2,United States,1.69,433,11,5,5,+6,86%,247,23%,3,2,+1,Group Stage:  Opening (A)
+542196,233400,ct,Zellsis,729,Vyse,2,United States,1.06,53,1,1,3,0,100%,39,11%,0,0,0,Group Stage:  Opening (A)
+542196,233401,t,Cloud,4181,Sova,14419,Russia,2.60,488,9,3,1,+6,100%,300,33%,0,0,0,Group Stage:  Opening (A)
+542196,233401,t,westside,34684,Cypher,14419,Poland,1.30,275,5,3,0,+2,40%,175,67%,0,1,-1,Group Stage:  Opening (A)
+542196,233401,t,Flickless,6959,Breach,14419,Belgium,1.18,185,4,3,1,+1,100%,137,44%,0,1,-1,Group Stage:  Opening (A)
+542196,233401,t,ara,11332,Neon,14419,Romania,0.15,62,1,5,1,-4,40%,42,50%,0,2,-2,Group Stage:  Opening (A)
+542196,233401,t,grubinho,5550,Omen,14419,Poland,0.13,131,2,5,3,-3,80%,73,14%,1,0,+1,Group Stage:  Opening (A)
+542196,233401,t,johnqt,1265,Cypher,2,Morocco,1.50,260,12,10,4,+2,75%,149,38%,0,0,0,Group Stage:  Opening (A)
+542196,233401,t,N4RRATE,36245,Fade,2,United States,0.84,185,7,10,4,-3,75%,111,18%,1,2,-1,Group Stage:  Opening (A)
+542196,233401,t,Zellsis,729,Breach,2,United States,0.67,125,5,10,4,-5,50%,93,22%,0,2,-2,Group Stage:  Opening (A)
+542196,233401,t,zekken,4004,Neon,2,United States,0.22,139,4,12,2,-8,42%,94,17%,1,4,-3,Group Stage:  Opening (A)
+542196,233401,t,bang,3880,Omen,2,United States,0.05,34,1,10,2,-9,33%,23,33%,0,2,-2,Group Stage:  Opening (A)
+542196,233401,ct,Cloud,4181,Sova,14419,Russia,1.82,311,14,6,4,+8,92%,192,33%,4,0,+4,Group Stage:  Opening (A)
+542196,233401,ct,westside,34684,Cypher,14419,Poland,1.46,220,10,5,4,+5,92%,158,48%,1,0,+1,Group Stage:  Opening (A)
+542196,233401,ct,Flickless,6959,Breach,14419,Belgium,1.36,217,9,5,10,+4,92%,138,26%,0,0,0,Group Stage:  Opening (A)
+542196,233401,ct,ara,11332,Neon,14419,Romania,1.15,203,10,6,2,+4,83%,126,28%,2,2,0,Group Stage:  Opening (A)
+542196,233401,ct,grubinho,5550,Omen,14419,Poland,1.13,226,9,7,8,+2,92%,146,21%,3,0,+3,Group Stage:  Opening (A)
+542196,233401,ct,johnqt,1265,Cypher,2,Morocco,1.06,212,4,4,2,0,80%,115,14%,1,0,+1,Group Stage:  Opening (A)
+542196,233401,ct,N4RRATE,36245,Fade,2,United States,1.66,281,5,3,3,+2,100%,179,27%,1,0,+1,Group Stage:  Opening (A)
+542196,233401,ct,Zellsis,729,Breach,2,United States,0.22,128,2,5,2,-3,80%,77,8%,1,0,+1,Group Stage:  Opening (A)
+542196,233401,ct,zekken,4004,Neon,2,United States,0.89,164,4,4,0,0,80%,154,20%,0,1,-1,Group Stage:  Opening (A)
+542196,233401,ct,bang,3880,Omen,2,United States,0.78,200,4,5,2,-1,60%,129,30%,1,0,+1,Group Stage:  Opening (A)
+542196,233402,t,Cloud,4181,Sova,14419,Russia,1.93,357,13,4,3,+9,70%,224,15%,0,0,0,Group Stage:  Opening (A)
+542196,233402,t,ara,11332,Neon,14419,Romania,1.38,355,12,9,3,+3,90%,240,29%,6,1,+5,Group Stage:  Opening (A)
+542196,233402,t,Flickless,6959,Breach,14419,Belgium,1.15,156,6,5,4,+1,100%,104,33%,0,0,0,Group Stage:  Opening (A)
+542196,233402,t,grubinho,5550,Omen,14419,Poland,1.42,211,9,5,4,+4,90%,126,16%,0,2,-2,Group Stage:  Opening (A)
+542196,233402,t,westside,34684,Cypher,14419,Poland,0.90,140,6,4,2,+2,80%,94,46%,0,1,-1,Group Stage:  Opening (A)
+542196,233402,t,zekken,4004,Neon,2,United States,1.75,325,13,7,3,+6,92%,221,29%,5,1,+4,Group Stage:  Opening (A)
+542196,233402,t,johnqt,1265,Viper,2,Morocco,1.18,166,8,5,2,+3,75%,125,55%,0,2,-2,Group Stage:  Opening (A)
+542196,233402,t,Zellsis,729,Killjoy,2,United States,0.73,149,7,8,0,-1,50%,84,3%,2,0,+2,Group Stage:  Opening (A)
+542196,233402,t,bang,3880,Omen,2,United States,0.71,135,5,7,2,-2,75%,85,42%,0,2,-2,Group Stage:  Opening (A)
+542196,233402,t,N4RRATE,36245,Sova,2,United States,0.85,203,8,9,3,-1,67%,146,44%,0,0,0,Group Stage:  Opening (A)
+542196,233402,ct,Cloud,4181,Sova,14419,Russia,0.74,162,6,9,3,-3,58%,103,46%,0,2,-2,Group Stage:  Opening (A)
+542196,233402,ct,ara,11332,Neon,14419,Romania,0.92,230,10,8,1,+2,92%,138,35%,4,1,+3,Group Stage:  Opening (A)
+542196,233402,ct,Flickless,6959,Breach,14419,Belgium,0.94,172,6,6,8,0,92%,125,20%,0,1,-1,Group Stage:  Opening (A)
+542196,233402,ct,grubinho,5550,Omen,14419,Poland,0.64,184,8,9,3,-1,75%,114,53%,1,1,0,Group Stage:  Opening (A)
+542196,233402,ct,westside,34684,Cypher,14419,Poland,0.60,154,6,9,1,-3,50%,105,43%,0,2,-2,Group Stage:  Opening (A)
+542196,233402,ct,zekken,4004,Neon,2,United States,0.47,184,5,10,4,-5,70%,127,19%,0,3,-3,Group Stage:  Opening (A)
+542196,233402,ct,johnqt,1265,Viper,2,Morocco,1.02,216,9,9,3,0,90%,121,17%,1,0,+1,Group Stage:  Opening (A)
+542196,233402,ct,Zellsis,729,Killjoy,2,United States,0.77,189,5,8,5,-3,40%,137,20%,2,1,+1,Group Stage:  Opening (A)
+542196,233402,ct,bang,3880,Omen,2,United States,0.69,138,5,9,1,-4,60%,99,33%,0,0,0,Group Stage:  Opening (A)
+542196,233402,ct,N4RRATE,36245,Sova,2,United States,0.23,113,3,10,2,-7,40%,99,43%,1,2,-1,Group Stage:  Opening (A)
+542207,233430,t,mada,5132,Yoru,1034,Canada,1.71,381,22,10,3,+12,75%,273,34%,3,2,+1,Group Stage:  Opening (C)
+542207,233430,t,skuba,11118,Vyse,1034,United States,1.17,196,13,8,5,+5,81%,125,18%,1,0,+1,Group Stage:  Opening (C)
+542207,233430,t,brawk,2172,Sova,1034,United States,1.07,210,12,9,3,+3,69%,143,17%,3,0,+3,Group Stage:  Opening (C)
+542207,233430,t,Ethan,11225,Omen,1034,United States,1.36,245,13,9,9,+4,69%,178,50%,1,4,-3,Group Stage:  Opening (C)
+542207,233430,t,s0m,4164,Harbor,1034,United States,0.86,148,8,10,7,-2,88%,107,25%,0,2,-2,Group Stage:  Opening (C)
+542207,233430,t,Smoggy,4742,Omen,1120,China,1.57,239,16,7,5,+9,75%,158,41%,0,0,0,Group Stage:  Opening (C)
+542207,233430,t,nobody,3017,Sova,1120,China,0.85,124,8,9,2,-1,75%,90,38%,1,1,0,Group Stage:  Opening (C)
+542207,233430,t,ZmjjKK,3520,Yoru,1120,China,0.83,179,11,11,2,0,88%,112,24%,3,4,-1,Group Stage:  Opening (C)
+542207,233430,t,CHICHOO,15559,Sage,1120,China,1.30,244,14,10,9,+4,81%,174,38%,2,0,+2,Group Stage:  Opening (C)
+542207,233430,t,Jieni7,51244,Neon,1120,China,1.15,283,16,13,5,+3,81%,184,32%,2,3,-1,Group Stage:  Opening (C)
+542207,233430,ct,mada,5132,Yoru,1034,Canada,0.75,179,9,14,1,-5,69%,108,15%,2,2,0,Group Stage:  Opening (C)
+542207,233430,ct,skuba,11118,Vyse,1034,United States,1.13,264,15,13,0,+2,69%,154,40%,1,0,+1,Group Stage:  Opening (C)
+542207,233430,ct,brawk,2172,Sova,1034,United States,0.97,191,9,11,4,-2,63%,153,25%,2,2,0,Group Stage:  Opening (C)
+542207,233430,ct,Ethan,11225,Omen,1034,United States,0.68,167,7,13,6,-6,63%,112,33%,1,2,-1,Group Stage:  Opening (C)
+542207,233430,ct,s0m,4164,Harbor,1034,United States,0.75,187,10,14,3,-4,44%,112,32%,2,2,0,Group Stage:  Opening (C)
+542207,233430,ct,Smoggy,4742,Omen,1120,China,1.09,178,10,10,6,0,81%,118,21%,1,0,+1,Group Stage:  Opening (C)
+542207,233430,ct,nobody,3017,Sova,1120,China,1.09,229,12,13,3,-1,69%,154,38%,1,0,+1,Group Stage:  Opening (C)
+542207,233430,ct,ZmjjKK,3520,Yoru,1120,China,0.94,246,12,15,5,-3,50%,150,32%,5,3,+2,Group Stage:  Opening (C)
+542207,233430,ct,CHICHOO,15559,Sage,1120,China,0.41,138,7,15,3,-8,50%,87,15%,1,4,-3,Group Stage:  Opening (C)
+542207,233430,ct,Jieni7,51244,Neon,1120,China,0.32,99,5,15,3,-10,56%,62,20%,0,1,-1,Group Stage:  Opening (C)
+542207,233431,t,Ethan,11225,Kayo,1034,United States,1.73,310,13,8,8,+5,83%,205,26%,1,1,0,Group Stage:  Opening (C)
+542207,233431,t,s0m,4164,Omen,1034,United States,1.50,318,15,9,6,+6,92%,215,28%,0,1,-1,Group Stage:  Opening (C)
+542207,233431,t,skuba,11118,Viper,1034,United States,0.81,169,6,9,4,-3,67%,124,47%,0,3,-3,Group Stage:  Opening (C)
+542207,233431,t,brawk,2172,Sova,1034,United States,0.66,147,5,10,8,-5,75%,91,13%,0,1,-1,Group Stage:  Opening (C)
+542207,233431,t,mada,5132,Waylay,1034,Canada,0.81,171,8,9,3,-1,58%,114,28%,2,3,-1,Group Stage:  Opening (C)
+542207,233431,t,ZmjjKK,3520,Yoru,1120,China,1.41,244,11,7,2,+4,67%,164,40%,1,1,0,Group Stage:  Opening (C)
+542207,233431,t,Smoggy,4742,Omen,1120,China,1.11,176,7,6,5,+1,83%,119,35%,0,0,0,Group Stage:  Opening (C)
+542207,233431,t,nobody,3017,Fade,1120,China,0.82,174,7,10,2,-3,75%,106,30%,0,1,-1,Group Stage:  Opening (C)
+542207,233431,t,CHICHOO,15559,Viper,1120,China,1.13,179,8,7,0,+1,75%,130,27%,2,2,0,Group Stage:  Opening (C)
+542207,233431,t,Jieni7,51244,Neon,1120,China,0.68,164,7,9,1,-2,58%,107,17%,3,2,+1,Group Stage:  Opening (C)
+542207,233431,ct,Ethan,11225,Kayo,1034,United States,0.87,163,6,8,9,-2,58%,106,13%,1,1,0,Group Stage:  Opening (C)
+542207,233431,ct,s0m,4164,Omen,1034,United States,1.10,188,8,8,6,0,67%,117,21%,1,1,0,Group Stage:  Opening (C)
+542207,233431,ct,skuba,11118,Viper,1034,United States,1.76,320,13,6,5,+7,100%,212,41%,2,1,+1,Group Stage:  Opening (C)
+542207,233431,ct,brawk,2172,Sova,1034,United States,0.74,186,5,9,4,-4,75%,141,14%,1,1,0,Group Stage:  Opening (C)
+542207,233431,ct,mada,5132,Waylay,1034,Canada,0.57,133,7,9,2,-2,58%,89,22%,1,2,-1,Group Stage:  Opening (C)
+542207,233431,ct,ZmjjKK,3520,Yoru,1120,China,1.32,321,12,10,4,+2,75%,207,31%,3,1,+2,Group Stage:  Opening (C)
+542207,233431,ct,Smoggy,4742,Omen,1120,China,1.06,298,13,11,5,+2,67%,182,33%,1,0,+1,Group Stage:  Opening (C)
+542207,233431,ct,nobody,3017,Fade,1120,China,1.11,176,8,7,3,+1,75%,129,22%,2,1,+1,Group Stage:  Opening (C)
+542207,233431,ct,CHICHOO,15559,Viper,1120,China,0.75,152,6,9,4,-3,75%,113,7%,0,1,-1,Group Stage:  Opening (C)
+542207,233431,ct,Jieni7,51244,Neon,1120,China,0.66,126,6,10,1,-4,83%,75,11%,3,0,+3,Group Stage:  Opening (C)
+542205,233427,t,keiko,11494,Omen,474,United Kingdom,1.01,223,6,8,3,-2,56%,132,46%,0,0,0,Group Stage:  Opening (C)
+542205,233427,t,trexx,2168,Sova,474,Russia,0.61,144,4,8,1,-4,44%,96,17%,0,1,-1,Group Stage:  Opening (C)
+542205,233427,t,kamo,14681,Jett,474,Poland,0.47,113,4,8,0,-4,67%,61,33%,3,5,-2,Group Stage:  Opening (C)
+542205,233427,t,paTiTek,309,Kayo,474,Poland,1.01,164,5,7,5,-2,56%,110,32%,0,0,0,Group Stage:  Opening (C)
+542205,233427,t,nAts,457,Cypher,474,Russia,0.34,45,1,7,1,-6,56%,38,25%,0,0,0,Group Stage:  Opening (C)
+542205,233427,t,MaKo,4462,Omen,8185,South Korea,0.80,119,4,8,8,-4,75%,78,50%,0,1,-1,Group Stage:  Opening (C)
+542205,233427,t,Flashback,35013,Yoru,8185,South Korea,1.40,290,14,9,2,+5,67%,173,30%,2,2,0,Group Stage:  Opening (C)
+542205,233427,t,free1ng,1916,Cypher,8185,South Korea,0.63,122,5,9,3,-4,75%,82,25%,1,1,0,Group Stage:  Opening (C)
+542205,233427,t,BeYN,4678,Sova,8185,South Korea,0.75,121,4,7,4,-3,92%,88,33%,0,0,0,Group Stage:  Opening (C)
+542205,233427,t,HYUNMIN,28400,Waylay,8185,South Korea,0.62,129,6,8,0,-2,58%,88,60%,2,3,-1,Group Stage:  Opening (C)
+542205,233427,ct,keiko,11494,Omen,474,United Kingdom,1.27,250,11,9,5,+2,75%,158,58%,4,1,+3,Group Stage:  Opening (C)
+542205,233427,ct,trexx,2168,Sova,474,Russia,1.29,202,8,6,4,+2,75%,116,25%,1,1,0,Group Stage:  Opening (C)
+542205,233427,ct,kamo,14681,Jett,474,Poland,1.30,302,13,8,2,+5,75%,210,42%,1,1,0,Group Stage:  Opening (C)
+542205,233427,ct,paTiTek,309,Kayo,474,Poland,0.89,183,7,9,5,-2,58%,124,17%,1,1,0,Group Stage:  Opening (C)
+542205,233427,ct,nAts,457,Cypher,474,Russia,0.66,58,2,5,2,-3,92%,42,25%,0,1,-1,Group Stage:  Opening (C)
+542205,233427,ct,MaKo,4462,Omen,8185,South Korea,2.20,332,13,2,2,+11,89%,219,46%,2,1,+1,Group Stage:  Opening (C)
+542205,233427,ct,Flashback,35013,Yoru,8185,South Korea,1.32,204,7,3,3,+4,89%,151,40%,0,1,-1,Group Stage:  Opening (C)
+542205,233427,ct,free1ng,1916,Cypher,8185,South Korea,1.36,251,8,5,5,+3,100%,189,45%,2,0,+2,Group Stage:  Opening (C)
+542205,233427,ct,BeYN,4678,Sova,8185,South Korea,0.89,192,5,6,8,-1,100%,125,19%,1,1,0,Group Stage:  Opening (C)
+542205,233427,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.00,150,5,4,2,+1,78%,113,46%,1,0,+1,Group Stage:  Opening (C)
+542205,233428,t,keiko,11494,Brimstone,474,United Kingdom,1.21,209,8,6,2,+2,73%,139,54%,2,0,+2,Group Stage:  Opening (C)
+542205,233428,t,nAts,457,Viper,474,Russia,0.84,136,4,6,2,-2,55%,95,55%,1,2,-1,Group Stage:  Opening (C)
+542205,233428,t,paTiTek,309,Skye,474,Poland,0.93,134,6,6,1,0,64%,81,42%,0,1,-1,Group Stage:  Opening (C)
+542205,233428,t,kamo,14681,Raze,474,Poland,0.54,178,6,10,0,-4,27%,107,14%,1,4,-3,Group Stage:  Opening (C)
+542205,233428,t,trexx,2168,Gekko,474,Russia,0.19,37,0,9,1,-9,36%,35,0%,0,0,0,Group Stage:  Opening (C)
+542205,233428,t,MaKo,4462,Brimstone,8185,South Korea,1.06,202,9,7,6,+2,92%,137,26%,1,1,0,Group Stage:  Opening (C)
+542205,233428,t,BeYN,4678,Fade,8185,South Korea,1.09,186,8,7,5,+1,67%,123,39%,0,1,-1,Group Stage:  Opening (C)
+542205,233428,t,HYUNMIN,28400,Waylay,8185,South Korea,1.38,278,13,7,2,+6,92%,153,48%,2,0,+2,Group Stage:  Opening (C)
+542205,233428,t,Flashback,35013,Yoru,8185,South Korea,0.79,167,6,9,3,-3,58%,111,21%,3,3,0,Group Stage:  Opening (C)
+542205,233428,t,free1ng,1916,Viper,8185,South Korea,1.00,194,9,7,3,+2,83%,143,22%,1,0,+1,Group Stage:  Opening (C)
+542205,233428,ct,keiko,11494,Brimstone,474,United Kingdom,1.07,176,7,9,6,-2,67%,113,50%,0,0,0,Group Stage:  Opening (C)
+542205,233428,ct,nAts,457,Viper,474,Russia,1.35,235,10,7,3,+3,67%,140,42%,2,0,+2,Group Stage:  Opening (C)
+542205,233428,ct,paTiTek,309,Skye,474,Poland,0.67,168,7,10,3,-3,42%,108,32%,0,3,-3,Group Stage:  Opening (C)
+542205,233428,ct,kamo,14681,Raze,474,Poland,0.90,183,7,9,1,-2,58%,119,14%,2,1,+1,Group Stage:  Opening (C)
+542205,233428,ct,trexx,2168,Gekko,474,Russia,0.80,176,6,10,6,-4,42%,125,14%,1,3,-2,Group Stage:  Opening (C)
+542205,233428,ct,MaKo,4462,Brimstone,8185,South Korea,1.42,210,8,3,3,+5,91%,121,50%,0,0,0,Group Stage:  Opening (C)
+542205,233428,ct,BeYN,4678,Fade,8185,South Korea,1.32,266,11,6,2,+5,73%,165,32%,3,2,+1,Group Stage:  Opening (C)
+542205,233428,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.97,120,5,4,1,+1,64%,86,42%,2,1,+1,Group Stage:  Opening (C)
+542205,233428,ct,Flashback,35013,Yoru,8185,South Korea,1.24,267,10,5,2,+5,73%,175,11%,1,0,+1,Group Stage:  Opening (C)
+542205,233428,ct,free1ng,1916,Viper,8185,South Korea,0.68,97,3,6,5,-3,64%,68,33%,1,1,0,Group Stage:  Opening (C)
+542212,233445,t,SpiritZ1,31753,Yoru,11981,Taiwan,1.21,233,11,8,5,+3,86%,148,32%,4,1,+3,Group Stage:  Opening (D)
+542212,233445,t,Nicc,11524,Breach,11981,Taiwan,1.29,236,13,8,4,+5,93%,142,31%,0,0,0,Group Stage:  Opening (D)
+542212,233445,t,Demon1,26171,Vyse,11981,Russia,1.22,203,11,7,0,+4,79%,135,35%,0,0,0,Group Stage:  Opening (D)
+542212,233445,t,Akeman,52904,Waylay,11981,China,0.76,205,10,11,3,-1,64%,118,30%,4,3,+1,Group Stage:  Opening (D)
+542212,233445,t,Flex1n,4705,Omen,11981,China,0.88,155,8,9,8,-1,86%,91,13%,1,1,0,Group Stage:  Opening (D)
+542212,233445,t,DH,43057,Omen,14,South Korea,1.98,335,16,8,9,+8,100%,215,23%,2,0,+2,Group Stage:  Opening (D)
+542212,233445,t,iZu,29833,Yoru,14,South Korea,0.78,206,10,12,3,-2,71%,130,28%,4,1,+3,Group Stage:  Opening (D)
+542212,233445,t,BuZz,804,Neon,14,South Korea,1.11,265,12,11,5,+1,79%,176,20%,2,1,+1,Group Stage:  Opening (D)
+542212,233445,t,stax,485,Fade,14,South Korea,0.85,162,9,9,7,0,86%,96,35%,0,1,-1,Group Stage:  Opening (D)
+542212,233445,t,Meteor,13039,Vyse,14,South Korea,0.98,163,8,10,1,-2,64%,119,29%,1,2,-1,Group Stage:  Opening (D)
+542212,233445,ct,SpiritZ1,31753,Yoru,11981,Taiwan,1.66,369,15,13,9,+2,86%,262,27%,2,0,+2,Group Stage:  Opening (D)
+542212,233445,ct,Nicc,11524,Breach,11981,Taiwan,1.19,243,12,10,4,+2,86%,171,34%,0,0,0,Group Stage:  Opening (D)
+542212,233445,ct,Demon1,26171,Vyse,11981,Russia,0.81,169,10,9,0,+1,64%,104,34%,1,1,0,Group Stage:  Opening (D)
+542212,233445,ct,Akeman,52904,Waylay,11981,China,0.70,164,9,11,2,-2,57%,104,32%,2,5,-3,Group Stage:  Opening (D)
+542212,233445,ct,Flex1n,4705,Omen,11981,China,0.23,96,4,12,4,-8,57%,69,22%,0,3,-3,Group Stage:  Opening (D)
+542212,233445,ct,DH,43057,Omen,14,South Korea,1.16,219,11,10,4,+1,64%,126,34%,1,2,-1,Group Stage:  Opening (D)
+542212,233445,ct,iZu,29833,Yoru,14,South Korea,1.11,227,12,10,3,+2,71%,119,28%,3,3,0,Group Stage:  Opening (D)
+542212,233445,ct,BuZz,804,Neon,14,South Korea,0.74,121,5,9,5,-4,50%,96,14%,0,3,-3,Group Stage:  Opening (D)
+542212,233445,ct,stax,485,Fade,14,South Korea,0.87,178,7,11,7,-4,57%,113,44%,1,0,+1,Group Stage:  Opening (D)
+542212,233445,ct,Meteor,13039,Vyse,14,South Korea,0.70,183,8,13,2,-5,57%,125,30%,0,1,-1,Group Stage:  Opening (D)
+542212,233446,t,SpiritZ1,31753,Yoru,11981,Taiwan,0.70,146,9,12,3,-3,93%,96,38%,1,2,-1,Group Stage:  Opening (D)
+542212,233446,t,Nicc,11524,Fade,11981,Taiwan,1.39,311,17,11,5,+6,93%,182,38%,2,0,+2,Group Stage:  Opening (D)
+542212,233446,t,Demon1,26171,Cypher,11981,Russia,1.14,193,10,11,3,-1,60%,142,42%,1,0,+1,Group Stage:  Opening (D)
+542212,233446,t,Flex1n,4705,Omen,11981,China,0.67,170,9,12,4,-3,67%,109,37%,1,4,-3,Group Stage:  Opening (D)
+542212,233446,t,Akeman,52904,Neon,11981,China,0.63,177,8,14,3,-6,60%,126,19%,1,3,-2,Group Stage:  Opening (D)
+542212,233446,t,Meteor,13039,Cypher,14,South Korea,1.82,372,19,10,3,+9,80%,222,54%,1,0,+1,Group Stage:  Opening (D)
+542212,233446,t,BuZz,804,Neon,14,South Korea,0.87,195,12,11,1,+1,73%,117,33%,1,5,-4,Group Stage:  Opening (D)
+542212,233446,t,iZu,29833,Yoru,14,South Korea,0.69,128,6,10,5,-4,73%,80,15%,1,1,0,Group Stage:  Opening (D)
+542212,233446,t,stax,485,Sova,14,South Korea,0.75,164,8,11,4,-3,53%,105,53%,1,3,-2,Group Stage:  Opening (D)
+542212,233446,t,DH,43057,Omen,14,South Korea,0.42,108,4,12,2,-8,53%,86,29%,1,1,0,Group Stage:  Opening (D)
+542212,233446,ct,SpiritZ1,31753,Yoru,11981,Taiwan,1.68,351,18,11,7,+7,80%,214,32%,6,1,+5,Group Stage:  Opening (D)
+542212,233446,ct,Nicc,11524,Fade,11981,Taiwan,0.83,120,7,8,2,-1,60%,77,28%,0,1,-1,Group Stage:  Opening (D)
+542212,233446,ct,Demon1,26171,Cypher,11981,Russia,0.86,140,8,10,4,-2,73%,93,26%,0,1,-1,Group Stage:  Opening (D)
+542212,233446,ct,Flex1n,4705,Omen,11981,China,1.16,216,11,10,7,+1,80%,160,31%,3,2,+1,Group Stage:  Opening (D)
+542212,233446,ct,Akeman,52904,Neon,11981,China,0.91,185,10,10,5,0,60%,122,12%,1,0,+1,Group Stage:  Opening (D)
+542212,233446,ct,Meteor,13039,Cypher,14,South Korea,0.86,179,10,10,3,0,73%,122,41%,2,2,0,Group Stage:  Opening (D)
+542212,233446,ct,BuZz,804,Neon,14,South Korea,1.46,343,19,12,3,+7,87%,224,23%,1,2,-1,Group Stage:  Opening (D)
+542212,233446,ct,iZu,29833,Yoru,14,South Korea,1.11,180,10,9,2,+1,67%,109,39%,3,0,+3,Group Stage:  Opening (D)
+542212,233446,ct,stax,485,Sova,14,South Korea,0.83,181,8,10,4,-2,93%,120,38%,1,1,0,Group Stage:  Opening (D)
+542212,233446,ct,DH,43057,Omen,14,South Korea,1.14,228,13,12,8,+1,80%,124,30%,2,1,+1,Group Stage:  Opening (D)
+542211,233442,t,leaf,7873,Cypher,11058,United States,0.58,96,4,9,1,-5,45%,61,18%,0,1,-1,Group Stage:  Opening (D)
+542211,233442,t,trent,15500,Fade,11058,United States,0.40,89,3,9,1,-6,55%,58,43%,0,1,-1,Group Stage:  Opening (D)
+542211,233442,t,valyn,3885,Omen,11058,United States,0.25,68,1,10,4,-9,36%,48,4%,1,2,-1,Group Stage:  Opening (D)
+542211,233442,t,JonahP,4581,Sage,11058,Canada,0.41,113,4,10,2,-6,36%,96,36%,0,2,-2,Group Stage:  Opening (D)
+542211,233442,t,jawgemo,3993,Raze,11058,Cambodia,0.47,154,5,10,1,-5,55%,102,24%,1,3,-2,Group Stage:  Opening (D)
+542211,233442,t,benjyfishy,29873,Vyse,1001,England,1.20,227,11,8,0,+3,75%,129,23%,1,0,+1,Group Stage:  Opening (D)
+542211,233442,t,RieNs,10971,Fade,1001,Turkey,1.02,190,6,9,6,-3,83%,133,38%,1,0,+1,Group Stage:  Opening (D)
+542211,233442,t,MiniBoo,18350,Yoru,1001,Lithuania,0.72,230,10,12,2,-2,58%,141,40%,4,3,+1,Group Stage:  Opening (D)
+542211,233442,t,Boo,1144,Astra,1001,Lithuania,0.73,138,5,9,5,-4,75%,104,35%,0,0,0,Group Stage:  Opening (D)
+542211,233442,t,Wo0t,21328,Viper,1001,Turkey,0.31,101,4,10,3,-6,67%,70,31%,0,3,-3,Group Stage:  Opening (D)
+542211,233442,ct,leaf,7873,Cypher,11058,United States,1.44,255,11,6,2,+5,83%,165,26%,1,0,+1,Group Stage:  Opening (D)
+542211,233442,ct,trent,15500,Fade,11058,United States,1.53,214,11,5,4,+6,75%,122,21%,0,1,-1,Group Stage:  Opening (D)
+542211,233442,ct,valyn,3885,Omen,11058,United States,1.55,365,15,10,7,+5,92%,221,28%,3,1,+2,Group Stage:  Opening (D)
+542211,233442,ct,JonahP,4581,Sage,11058,Canada,0.80,146,7,7,3,0,67%,73,18%,1,2,-1,Group Stage:  Opening (D)
+542211,233442,ct,jawgemo,3993,Raze,11058,Cambodia,0.71,129,4,8,5,-4,67%,100,9%,1,2,-1,Group Stage:  Opening (D)
+542211,233442,ct,benjyfishy,29873,Vyse,1001,England,2.02,413,14,5,8,+9,100%,280,32%,2,2,0,Group Stage:  Opening (D)
+542211,233442,ct,RieNs,10971,Fade,1001,Turkey,1.89,359,15,5,5,+10,100%,208,23%,1,0,+1,Group Stage:  Opening (D)
+542211,233442,ct,MiniBoo,18350,Yoru,1001,Lithuania,1.82,309,13,5,3,+8,91%,198,40%,5,0,+5,Group Stage:  Opening (D)
+542211,233442,ct,Boo,1144,Astra,1001,Lithuania,1.52,116,5,1,16,+4,91%,49,25%,1,0,+1,Group Stage:  Opening (D)
+542211,233442,ct,Wo0t,21328,Viper,1001,Turkey,0.91,26,1,1,1,0,91%,32,40%,0,0,0,Group Stage:  Opening (D)
+542211,233443,t,valyn,3885,Omen,11058,United States,1.19,249,9,10,2,-1,55%,149,22%,1,0,+1,Group Stage:  Opening (D)
+542211,233443,t,leaf,7873,Viper,11058,United States,1.17,278,10,10,4,0,55%,171,11%,0,3,-3,Group Stage:  Opening (D)
+542211,233443,t,trent,15500,Tejo,11058,United States,0.48,128,4,9,1,-5,64%,78,35%,0,1,-1,Group Stage:  Opening (D)
+542211,233443,t,jawgemo,3993,Yoru,11058,Cambodia,0.62,156,6,10,3,-4,45%,90,25%,1,3,-2,Group Stage:  Opening (D)
+542211,233443,t,JonahP,4581,Fade,11058,Canada,0.06,88,2,11,5,-9,73%,54,14%,0,2,-2,Group Stage:  Opening (D)
+542211,233443,t,Wo0t,21328,Chamber,1001,Turkey,0.87,221,9,10,1,-1,50%,155,26%,1,1,0,Group Stage:  Opening (D)
+542211,233443,t,RieNs,10971,Fade,1001,Turkey,1.04,177,8,8,2,0,67%,121,39%,1,1,0,Group Stage:  Opening (D)
+542211,233443,t,MiniBoo,18350,Raze,1001,Lithuania,0.87,198,8,9,0,-1,58%,129,33%,3,3,0,Group Stage:  Opening (D)
+542211,233443,t,Boo,1144,Omen,1001,Lithuania,0.66,116,4,10,7,-6,67%,80,31%,0,1,-1,Group Stage:  Opening (D)
+542211,233443,t,benjyfishy,29873,Deadlock,1001,England,1.06,208,8,9,6,-1,75%,155,15%,0,1,-1,Group Stage:  Opening (D)
+542211,233443,ct,valyn,3885,Omen,11058,United States,1.63,296,12,7,8,+5,92%,207,44%,3,1,+2,Group Stage:  Opening (D)
+542211,233443,ct,leaf,7873,Viper,11058,United States,1.18,235,11,8,3,+3,75%,173,19%,0,3,-3,Group Stage:  Opening (D)
+542211,233443,ct,trent,15500,Tejo,11058,United States,1.09,176,8,7,3,+1,83%,120,43%,0,0,0,Group Stage:  Opening (D)
+542211,233443,ct,jawgemo,3993,Yoru,11058,Cambodia,0.86,175,8,8,3,0,58%,100,35%,2,1,+1,Group Stage:  Opening (D)
+542211,233443,ct,JonahP,4581,Fade,11058,Canada,1.05,181,7,7,7,0,75%,121,10%,2,0,+2,Group Stage:  Opening (D)
+542211,233443,ct,Wo0t,21328,Chamber,1001,Turkey,1.87,355,14,6,3,+8,91%,241,41%,2,0,+2,Group Stage:  Opening (D)
+542211,233443,ct,RieNs,10971,Fade,1001,Turkey,1.39,253,12,7,6,+5,91%,200,47%,1,1,0,Group Stage:  Opening (D)
+542211,233443,ct,MiniBoo,18350,Raze,1001,Lithuania,1.35,243,9,6,5,+3,91%,180,22%,4,0,+4,Group Stage:  Opening (D)
+542211,233443,ct,Boo,1144,Omen,1001,Lithuania,1.54,237,9,5,13,+4,82%,136,19%,1,1,0,Group Stage:  Opening (D)
+542211,233443,ct,benjyfishy,29873,Deadlock,1001,England,0.84,163,6,7,4,-1,73%,109,24%,1,0,+1,Group Stage:  Opening (D)
+542200,233412,t,Knight,4774,Sova,12010,China,1.70,434,4,3,2,+1,67%,287,44%,0,0,0,Group Stage:  Opening (B)
+542200,233412,t,whzy,4885,Neon,12010,China,0.02,8,0,3,1,-3,33%,0,,0,1,-1,Group Stage:  Opening (B)
+542200,233412,t,nephh,10698,Breach,12010,Singapore,0.23,75,1,3,1,-2,67%,30,50%,0,0,0,Group Stage:  Opening (B)
+542200,233412,t,Levius,40845,Cypher,12010,China,0.02,12,0,3,0,-3,,12,0%,0,2,-2,Group Stage:  Opening (B)
+542200,233412,t,rushia,48878,Omen,12010,China,0.50,126,1,3,1,-2,67%,90,10%,0,0,0,Group Stage:  Opening (B)
+542200,233412,t,Verno,21668,Sova,7386,United States,2.15,300,15,2,3,+13,92%,203,23%,1,1,0,Group Stage:  Opening (B)
+542200,233412,t,aspas,8480,Neon,7386,Brazil,1.67,299,11,5,7,+6,92%,206,30%,1,0,+1,Group Stage:  Opening (B)
+542200,233412,t,cortezia,5395,Killjoy,7386,Brazil,1.09,195,9,6,1,+3,83%,132,42%,3,0,+3,Group Stage:  Opening (B)
+542200,233412,t,artzin,5957,Viper,7386,Brazil,0.97,177,8,6,0,+2,75%,119,42%,1,2,-1,Group Stage:  Opening (B)
+542200,233412,t,xenom,20240,Omen,7386,Brazil,0.65,95,5,7,2,-2,92%,54,15%,1,2,-1,Group Stage:  Opening (B)
+542200,233412,ct,Knight,4774,Sova,12010,China,0.82,200,8,11,3,-3,67%,144,21%,2,2,0,Group Stage:  Opening (B)
+542200,233412,ct,whzy,4885,Neon,12010,China,0.58,162,6,11,2,-5,50%,103,24%,2,1,+1,Group Stage:  Opening (B)
+542200,233412,ct,nephh,10698,Breach,12010,Singapore,0.48,132,4,9,4,-5,67%,98,14%,0,2,-2,Group Stage:  Opening (B)
+542200,233412,ct,Levius,40845,Cypher,12010,China,0.56,94,5,7,1,-2,58%,51,33%,1,1,0,Group Stage:  Opening (B)
+542200,233412,ct,rushia,48878,Omen,12010,China,0.35,103,3,10,3,-7,67%,74,21%,0,1,-1,Group Stage:  Opening (B)
+542200,233412,ct,Verno,21668,Sova,7386,United States,1.38,169,3,1,0,+2,100%,127,67%,0,0,0,Group Stage:  Opening (B)
+542200,233412,ct,aspas,8480,Neon,7386,Brazil,1.11,129,2,1,0,+1,67%,122,100%,0,0,0,Group Stage:  Opening (B)
+542200,233412,ct,cortezia,5395,Killjoy,7386,Brazil,1.82,257,3,1,1,+2,100%,223,36%,0,0,0,Group Stage:  Opening (B)
+542200,233412,ct,artzin,5957,Viper,7386,Brazil,1.55,361,4,2,1,+2,100%,217,26%,1,0,+1,Group Stage:  Opening (B)
+542200,233412,ct,xenom,20240,Omen,7386,Brazil,2.20,332,3,1,4,+2,100%,203,29%,2,0,+2,Group Stage:  Opening (B)
+542200,233413,t,Knight,4774,Sova,12010,China,0.45,70,1,9,4,-8,50%,59,22%,1,0,+1,Group Stage:  Opening (B)
+542200,233413,t,nephh,10698,Deadlock,12010,Singapore,0.74,141,5,8,0,-3,50%,82,5%,0,0,0,Group Stage:  Opening (B)
+542200,233413,t,Levius,40845,Viper,12010,China,0.75,160,5,8,0,-3,40%,117,21%,1,1,0,Group Stage:  Opening (B)
+542200,233413,t,rushia,48878,Omen,12010,China,0.73,158,5,8,2,-3,50%,108,12%,0,1,-1,Group Stage:  Opening (B)
+542200,233413,t,whzy,4885,Neon,12010,China,0.27,120,4,10,1,-6,50%,63,43%,2,4,-2,Group Stage:  Opening (B)
+542200,233413,t,aspas,8480,Waylay,7386,Brazil,1.24,247,11,8,0,+3,67%,161,23%,3,1,+2,Group Stage:  Opening (B)
+542200,233413,t,artzin,5957,Kayo,7386,Brazil,0.84,169,7,9,6,-2,67%,117,29%,0,0,0,Group Stage:  Opening (B)
+542200,233413,t,Verno,21668,Sova,7386,United States,0.67,176,7,9,3,-2,67%,114,30%,1,1,0,Group Stage:  Opening (B)
+542200,233413,t,cortezia,5395,Viper,7386,Brazil,1.14,238,10,8,1,+2,75%,146,28%,2,2,0,Group Stage:  Opening (B)
+542200,233413,t,xenom,20240,Omen,7386,Brazil,0.31,66,2,9,3,-7,67%,45,9%,0,2,-2,Group Stage:  Opening (B)
+542200,233413,ct,Knight,4774,Sova,12010,China,1.58,257,11,6,2,+5,75%,180,23%,2,1,+1,Group Stage:  Opening (B)
+542200,233413,ct,nephh,10698,Deadlock,12010,Singapore,1.34,181,8,4,3,+4,92%,122,33%,1,0,+1,Group Stage:  Opening (B)
+542200,233413,ct,Levius,40845,Viper,12010,China,1.23,221,9,8,4,+1,58%,131,18%,2,0,+2,Group Stage:  Opening (B)
+542200,233413,ct,rushia,48878,Omen,12010,China,0.77,187,7,10,7,-3,58%,110,13%,0,3,-3,Group Stage:  Opening (B)
+542200,233413,ct,whzy,4885,Neon,12010,China,0.82,195,8,9,1,-1,67%,123,36%,1,2,-1,Group Stage:  Opening (B)
+542200,233413,ct,aspas,8480,Waylay,7386,Brazil,1.86,313,11,3,3,+8,90%,197,32%,2,0,+2,Group Stage:  Opening (B)
+542200,233413,ct,artzin,5957,Kayo,7386,Brazil,1.35,263,9,5,3,+4,80%,180,26%,1,1,0,Group Stage:  Opening (B)
+542200,233413,ct,Verno,21668,Sova,7386,United States,1.52,263,10,4,4,+6,100%,157,16%,3,0,+3,Group Stage:  Opening (B)
+542200,233413,ct,cortezia,5395,Viper,7386,Brazil,0.92,160,6,6,6,0,70%,117,15%,0,2,-2,Group Stage:  Opening (B)
+542200,233413,ct,xenom,20240,Omen,7386,Brazil,1.64,218,7,2,12,+5,90%,125,29%,0,1,-1,Group Stage:  Opening (B)
+542201,233415,t,Kushy,4866,Sova,878,Indonesia,1.67,302,12,6,4,+6,73%,207,43%,3,0,+3,Group Stage:  Opening (B)
+542201,233415,t,Jemkin,24895,Yoru,878,Russia,0.94,241,9,8,3,+1,73%,143,33%,3,3,0,Group Stage:  Opening (B)
+542201,233415,t,xffero,4871,Cypher,878,Indonesia,0.70,186,7,8,0,-1,64%,131,24%,1,1,0,Group Stage:  Opening (B)
+542201,233415,t,crazyguy,1430,Tejo,878,Vietnam,0.44,117,4,8,2,-4,82%,86,10%,0,0,0,Group Stage:  Opening (B)
+542201,233415,t,Monyet,8497,Omen,878,Indonesia,0.67,112,5,7,6,-2,64%,69,57%,0,0,0,Group Stage:  Opening (B)
+542201,233415,t,Chronicle,458,Vyse,2593,Russia,1.93,279,13,4,3,+9,83%,183,39%,3,2,+1,Group Stage:  Opening (B)
+542201,233415,t,Alfajer,9810,Sage,2593,Turkey,1.40,299,12,8,4,+4,83%,185,32%,2,0,+2,Group Stage:  Opening (B)
+542201,233415,t,Boaster,438,Omen,2593,United Kingdom,0.94,143,6,7,5,-1,67%,101,39%,0,0,0,Group Stage:  Opening (B)
+542201,233415,t,crashies,4,Sova,2593,United States,0.69,123,5,7,2,-2,67%,84,31%,1,0,+1,Group Stage:  Opening (B)
+542201,233415,t,kaajak,9554,Yoru,2593,Poland,0.56,100,4,7,2,-3,58%,69,19%,0,4,-4,Group Stage:  Opening (B)
+542201,233415,ct,Kushy,4866,Sova,878,Indonesia,1.06,231,8,9,2,-1,67%,172,50%,1,2,-1,Group Stage:  Opening (B)
+542201,233415,ct,Jemkin,24895,Yoru,878,Russia,1.15,270,11,9,0,+2,67%,148,18%,4,1,+3,Group Stage:  Opening (B)
+542201,233415,ct,xffero,4871,Cypher,878,Indonesia,1.07,172,7,7,2,0,50%,129,17%,1,0,+1,Group Stage:  Opening (B)
+542201,233415,ct,crazyguy,1430,Tejo,878,Vietnam,0.64,142,5,8,2,-3,58%,89,11%,0,2,-2,Group Stage:  Opening (B)
+542201,233415,ct,Monyet,8497,Omen,878,Indonesia,0.44,59,2,7,2,-5,58%,43,30%,0,1,-1,Group Stage:  Opening (B)
+542201,233415,ct,Chronicle,458,Vyse,2593,Russia,1.78,313,12,7,7,+5,73%,229,33%,1,0,+1,Group Stage:  Opening (B)
+542201,233415,ct,Alfajer,9810,Sage,2593,Turkey,1.07,155,6,7,3,-1,64%,108,38%,1,1,0,Group Stage:  Opening (B)
+542201,233415,ct,Boaster,438,Omen,2593,United Kingdom,1.03,128,6,7,3,-1,64%,77,70%,0,1,-1,Group Stage:  Opening (B)
+542201,233415,ct,crashies,4,Sova,2593,United States,1.22,232,8,8,5,0,64%,154,20%,1,2,-1,Group Stage:  Opening (B)
+542201,233415,ct,kaajak,9554,Yoru,2593,Poland,0.67,147,5,8,1,-3,73%,100,27%,1,3,-2,Group Stage:  Opening (B)
+542201,233416,t,Kushy,4866,Kayo,878,Indonesia,1.21,286,12,8,2,+4,67%,183,55%,2,3,-1,Group Stage:  Opening (B)
+542201,233416,t,crazyguy,1430,Sova,878,Vietnam,1.20,197,9,7,5,+2,92%,144,37%,0,0,0,Group Stage:  Opening (B)
+542201,233416,t,Monyet,8497,Omen,878,Indonesia,1.02,215,9,10,7,-1,92%,116,26%,0,0,0,Group Stage:  Opening (B)
+542201,233416,t,Jemkin,24895,Jett,878,Russia,0.77,177,7,8,2,-1,58%,111,18%,1,2,-1,Group Stage:  Opening (B)
+542201,233416,t,xffero,4871,Cypher,878,Indonesia,0.45,120,4,9,4,-5,75%,76,36%,1,2,-1,Group Stage:  Opening (B)
+542201,233416,t,Boaster,438,Astra,2593,United Kingdom,2.73,392,13,1,3,+12,100%,223,43%,1,0,+1,Group Stage:  Opening (B)
+542201,233416,t,Chronicle,458,Breach,2593,Russia,1.57,262,8,3,2,+5,100%,174,33%,1,0,+1,Group Stage:  Opening (B)
+542201,233416,t,Alfajer,9810,Cypher,2593,Turkey,1.31,240,8,3,1,+5,88%,149,43%,2,0,+2,Group Stage:  Opening (B)
+542201,233416,t,crashies,4,Sova,2593,United States,0.62,50,1,3,2,-2,100%,38,75%,0,0,0,Group Stage:  Opening (B)
+542201,233416,t,kaajak,9554,Waylay,2593,Poland,1.25,319,9,6,1,+3,88%,184,36%,4,0,+4,Group Stage:  Opening (B)
+542201,233416,ct,Kushy,4866,Kayo,878,Indonesia,0.81,182,5,8,1,-3,63%,123,50%,0,0,0,Group Stage:  Opening (B)
+542201,233416,ct,crazyguy,1430,Sova,878,Vietnam,0.37,153,3,8,0,-5,50%,104,40%,0,2,-2,Group Stage:  Opening (B)
+542201,233416,ct,Monyet,8497,Omen,878,Indonesia,0.17,58,2,8,0,-6,38%,38,17%,0,2,-2,Group Stage:  Opening (B)
+542201,233416,ct,Jemkin,24895,Jett,878,Russia,0.37,132,3,7,2,-4,50%,77,25%,0,2,-2,Group Stage:  Opening (B)
+542201,233416,ct,xffero,4871,Cypher,878,Indonesia,0.18,97,3,8,1,-5,50%,56,80%,0,2,-2,Group Stage:  Opening (B)
+542201,233416,ct,Boaster,438,Astra,2593,United Kingdom,1.45,249,11,7,2,+4,83%,163,67%,0,0,0,Group Stage:  Opening (B)
+542201,233416,ct,Chronicle,458,Breach,2593,Russia,1.29,233,11,7,2,+4,83%,157,30%,1,0,+1,Group Stage:  Opening (B)
+542201,233416,ct,Alfajer,9810,Cypher,2593,Turkey,1.28,279,12,9,3,+3,83%,180,40%,4,0,+4,Group Stage:  Opening (B)
+542201,233416,ct,crashies,4,Sova,2593,United States,0.59,143,4,11,10,-7,75%,114,19%,0,2,-2,Group Stage:  Opening (B)
+542201,233416,ct,kaajak,9554,Waylay,2593,Poland,0.15,97,4,12,0,-8,58%,65,57%,2,2,0,Group Stage:  Opening (B)
+542197,233403,t,f0rsakeN,9801,Omen,624,Indonesia,0.89,186,8,10,6,-2,75%,96,24%,1,1,0,Group Stage:  Winner's (A)
+542197,233403,t,something,17086,Yoru,624,Russia,0.36,148,5,12,5,-7,58%,106,14%,0,2,-2,Group Stage:  Winner's (A)
+542197,233403,t,d4v41,9803,Vyse,624,Malaysia,1.22,239,9,9,7,0,75%,162,33%,0,0,0,Group Stage:  Winner's (A)
+542197,233403,t,Jinggg,7378,Sage,624,Singapore,0.52,125,5,10,3,-5,67%,76,33%,2,1,+1,Group Stage:  Winner's (A)
+542197,233403,t,PatMen,13744,Sova,624,Philippines,0.71,128,6,10,2,-4,67%,85,40%,3,2,+1,Group Stage:  Winner's (A)
+542197,233403,t,ara,11332,Jett,14419,Romania,0.87,197,7,9,2,-2,42%,136,32%,2,5,-3,Group Stage:  Winner's (A)
+542197,233403,t,Cloud,4181,Sova,14419,Russia,0.91,169,6,8,5,-2,83%,113,38%,1,1,0,Group Stage:  Winner's (A)
+542197,233403,t,westside,34684,Cypher,14419,Poland,1.30,239,12,9,1,+3,67%,155,43%,1,1,0,Group Stage:  Winner's (A)
+542197,233403,t,Flickless,6959,Kayo,14419,Belgium,0.98,178,6,9,11,-3,58%,106,15%,0,1,-1,Group Stage:  Winner's (A)
+542197,233403,t,grubinho,5550,Omen,14419,Poland,0.83,171,7,10,5,-3,92%,103,23%,0,0,0,Group Stage:  Winner's (A)
+542197,233403,ct,f0rsakeN,9801,Omen,624,Indonesia,1.11,224,9,9,8,0,75%,140,27%,1,1,0,Group Stage:  Winner's (A)
+542197,233403,ct,something,17086,Yoru,624,Russia,1.41,289,14,7,0,+7,75%,165,38%,4,3,+1,Group Stage:  Winner's (A)
+542197,233403,ct,d4v41,9803,Vyse,624,Malaysia,0.56,107,5,8,2,-3,67%,67,19%,1,0,+1,Group Stage:  Winner's (A)
+542197,233403,ct,Jinggg,7378,Sage,624,Singapore,1.21,184,9,6,2,+3,83%,131,32%,2,0,+2,Group Stage:  Winner's (A)
+542197,233403,ct,PatMen,13744,Sova,624,Philippines,1.01,248,8,8,5,0,83%,177,50%,0,0,0,Group Stage:  Winner's (A)
+542197,233403,ct,ara,11332,Jett,14419,Romania,2.21,404,19,5,1,+14,92%,243,41%,3,0,+3,Group Stage:  Winner's (A)
+542197,233403,ct,Cloud,4181,Sova,14419,Russia,1.50,279,12,6,3,+6,83%,195,28%,1,0,+1,Group Stage:  Winner's (A)
+542197,233403,ct,westside,34684,Cypher,14419,Poland,1.08,187,8,6,4,+2,75%,130,53%,0,3,-3,Group Stage:  Winner's (A)
+542197,233403,ct,Flickless,6959,Kayo,14419,Belgium,0.89,125,4,7,11,-3,92%,102,28%,0,2,-2,Group Stage:  Winner's (A)
+542197,233403,ct,grubinho,5550,Omen,14419,Poland,0.96,191,8,9,7,-1,92%,98,19%,2,1,+1,Group Stage:  Winner's (A)
+542197,233404,t,something,17086,Yoru,624,Russia,1.38,309,14,8,4,+6,67%,165,19%,3,2,+1,Group Stage:  Winner's (A)
+542197,233404,t,d4v41,9803,Vyse,624,Malaysia,1.82,275,14,4,3,+10,92%,190,27%,0,0,0,Group Stage:  Winner's (A)
+542197,233404,t,Jinggg,7378,Raze,624,Singapore,0.77,193,7,8,2,-1,67%,119,26%,1,4,-3,Group Stage:  Winner's (A)
+542197,233404,t,PatMen,13744,Fade,624,Philippines,0.80,115,4,6,2,-2,92%,84,21%,0,0,0,Group Stage:  Winner's (A)
+542197,233404,t,f0rsakeN,9801,Omen,624,Indonesia,0.74,128,6,7,4,-1,92%,84,27%,0,2,-2,Group Stage:  Winner's (A)
+542197,233404,t,westside,34684,Cypher,14419,Poland,0.84,148,6,8,2,-2,64%,92,43%,1,1,0,Group Stage:  Winner's (A)
+542197,233404,t,Cloud,4181,Fade,14419,Russia,1.36,228,9,6,3,+3,64%,160,24%,0,0,0,Group Stage:  Winner's (A)
+542197,233404,t,Flickless,6959,Viper,14419,Belgium,0.71,140,5,7,1,-2,73%,107,43%,1,0,+1,Group Stage:  Winner's (A)
+542197,233404,t,grubinho,5550,Omen,14419,Poland,1.47,286,11,7,2,+4,91%,206,29%,3,0,+3,Group Stage:  Winner's (A)
+542197,233404,t,ara,11332,Raze,14419,Romania,0.31,112,5,9,1,-4,64%,76,29%,2,3,-1,Group Stage:  Winner's (A)
+542197,233404,ct,something,17086,Yoru,624,Russia,1.40,238,9,6,2,+3,73%,170,42%,2,0,+2,Group Stage:  Winner's (A)
+542197,233404,ct,d4v41,9803,Vyse,624,Malaysia,0.53,124,5,7,0,-2,45%,96,25%,0,3,-3,Group Stage:  Winner's (A)
+542197,233404,ct,Jinggg,7378,Raze,624,Singapore,1.61,294,11,7,3,+4,91%,198,24%,1,2,-1,Group Stage:  Winner's (A)
+542197,233404,ct,PatMen,13744,Fade,624,Philippines,1.16,152,6,6,7,0,73%,99,31%,0,0,0,Group Stage:  Winner's (A)
+542197,233404,ct,f0rsakeN,9801,Omen,624,Indonesia,0.65,177,6,10,4,-4,73%,108,35%,1,2,-1,Group Stage:  Winner's (A)
+542197,233404,ct,westside,34684,Cypher,14419,Poland,1.45,290,12,8,2,+4,83%,174,45%,3,1,+2,Group Stage:  Winner's (A)
+542197,233404,ct,Cloud,4181,Fade,14419,Russia,0.44,77,2,10,5,-8,58%,48,25%,0,1,-1,Group Stage:  Winner's (A)
+542197,233404,ct,Flickless,6959,Viper,14419,Belgium,0.97,205,7,9,3,-2,50%,135,33%,2,1,+1,Group Stage:  Winner's (A)
+542197,233404,ct,grubinho,5550,Omen,14419,Poland,0.27,58,2,10,4,-8,58%,31,29%,0,0,0,Group Stage:  Winner's (A)
+542197,233404,ct,ara,11332,Raze,14419,Romania,1.16,220,10,8,0,+2,67%,139,13%,3,1,+2,Group Stage:  Winner's (A)
+542197,233405,t,something,17086,Sova,624,Russia,1.34,225,10,5,5,+5,92%,130,38%,1,0,+1,Group Stage:  Winner's (A)
+542197,233405,t,Jinggg,7378,Raze,624,Singapore,1.50,316,14,8,1,+6,83%,200,31%,2,2,0,Group Stage:  Winner's (A)
+542197,233405,t,d4v41,9803,Sage,624,Malaysia,1.06,156,7,6,2,+1,67%,127,32%,0,0,0,Group Stage:  Winner's (A)
+542197,233405,t,PatMen,13744,Viper,624,Philippines,0.82,174,8,7,0,+1,67%,103,12%,1,3,-2,Group Stage:  Winner's (A)
+542197,233405,t,f0rsakeN,9801,Omen,624,Indonesia,0.69,148,6,8,7,-2,58%,103,19%,0,3,-3,Group Stage:  Winner's (A)
+542197,233405,t,grubinho,5550,Omen,14419,Poland,0.27,114,2,7,1,-5,71%,89,33%,0,2,-2,Group Stage:  Winner's (A)
+542197,233405,t,Flickless,6959,Breach,14419,Belgium,0.45,131,3,7,1,-4,57%,84,13%,0,0,0,Group Stage:  Winner's (A)
+542197,233405,t,westside,34684,Cypher,14419,Poland,0.14,78,1,7,2,-6,43%,61,50%,1,4,-3,Group Stage:  Winner's (A)
+542197,233405,t,ara,11332,Neon,14419,Romania,1.66,327,8,6,2,+2,71%,228,38%,0,0,0,Group Stage:  Winner's (A)
+542197,233405,t,Cloud,4181,Sova,14419,Russia,0.58,154,3,7,3,-4,71%,122,30%,0,0,0,Group Stage:  Winner's (A)
+542197,233405,ct,something,17086,Sova,624,Russia,2.02,366,11,3,2,+8,86%,206,29%,2,1,+1,Group Stage:  Winner's (A)
+542197,233405,ct,Jinggg,7378,Raze,624,Singapore,1.44,324,9,5,2,+4,86%,199,17%,1,0,+1,Group Stage:  Winner's (A)
+542197,233405,ct,d4v41,9803,Sage,624,Malaysia,1.05,115,3,2,1,+1,86%,62,50%,1,0,+1,Group Stage:  Winner's (A)
+542197,233405,ct,PatMen,13744,Viper,624,Philippines,1.36,230,6,3,0,+3,100%,129,100%,1,0,+1,Group Stage:  Winner's (A)
+542197,233405,ct,f0rsakeN,9801,Omen,624,Indonesia,1.05,200,5,4,5,+1,100%,154,24%,1,0,+1,Group Stage:  Winner's (A)
+542197,233405,ct,grubinho,5550,Omen,14419,Poland,1.27,215,10,8,2,+2,42%,142,26%,1,3,-2,Group Stage:  Winner's (A)
+542197,233405,ct,Flickless,6959,Breach,14419,Belgium,1.12,235,9,10,3,-1,50%,158,21%,3,1,+2,Group Stage:  Winner's (A)
+542197,233405,ct,westside,34684,Cypher,14419,Poland,1.09,199,7,8,4,-1,75%,133,39%,2,0,+2,Group Stage:  Winner's (A)
+542197,233405,ct,ara,11332,Neon,14419,Romania,0.17,67,3,10,0,-7,42%,40,57%,0,0,0,Group Stage:  Winner's (A)
+542197,233405,ct,Cloud,4181,Sova,14419,Russia,0.79,150,5,9,1,-4,50%,105,55%,2,0,+2,Group Stage:  Winner's (A)
+542208,233433,t,free1ng,1916,Cypher,8185,South Korea,1.04,153,8,6,2,+2,75%,107,28%,1,1,0,Group Stage:  Winner's (C)
+542208,233433,t,Flashback,35013,Neon,8185,South Korea,1.03,188,8,8,3,0,42%,149,28%,1,3,-2,Group Stage:  Winner's (C)
+542208,233433,t,HYUNMIN,28400,Waylay,8185,South Korea,1.21,284,12,9,3,+3,83%,174,30%,4,0,+4,Group Stage:  Winner's (C)
+542208,233433,t,BeYN,4678,Sova,8185,South Korea,0.88,184,8,9,3,-1,58%,128,56%,0,1,-1,Group Stage:  Winner's (C)
+542208,233433,t,MaKo,4462,Omen,8185,South Korea,0.86,113,5,7,7,-2,75%,59,33%,0,1,-1,Group Stage:  Winner's (C)
+542208,233433,t,skuba,11118,Killjoy,1034,United States,0.10,122,2,5,0,-3,20%,72,67%,0,1,-1,Group Stage:  Winner's (C)
+542208,233433,t,mada,5132,Neon,1034,Canada,0.27,92,1,5,2,-4,60%,63,13%,1,2,-1,Group Stage:  Winner's (C)
+542208,233433,t,s0m,4164,Viper,1034,United States,0.77,246,4,5,1,-1,80%,150,25%,0,0,0,Group Stage:  Winner's (C)
+542208,233433,t,brawk,2172,Sova,1034,United States,0.15,82,1,5,1,-4,40%,67,29%,0,0,0,Group Stage:  Winner's (C)
+542208,233433,t,Ethan,11225,Omen,1034,United States,0.54,151,2,5,0,-3,60%,102,7%,1,0,+1,Group Stage:  Winner's (C)
+542208,233433,ct,free1ng,1916,Cypher,8185,South Korea,2.11,313,6,1,2,+5,100%,174,40%,0,0,0,Group Stage:  Winner's (C)
+542208,233433,ct,Flashback,35013,Neon,8185,South Korea,1.68,331,7,3,0,+4,80%,185,27%,2,1,+1,Group Stage:  Winner's (C)
+542208,233433,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.20,275,6,3,1,+3,60%,163,45%,1,1,0,Group Stage:  Winner's (C)
+542208,233433,ct,BeYN,4678,Sova,8185,South Korea,1.45,199,4,2,1,+2,100%,118,30%,0,0,0,Group Stage:  Winner's (C)
+542208,233433,ct,MaKo,4462,Omen,8185,South Korea,1.43,130,2,1,4,+1,100%,82,9%,0,0,0,Group Stage:  Winner's (C)
+542208,233433,ct,skuba,11118,Killjoy,1034,United States,1.45,272,13,8,2,+5,67%,155,26%,1,0,+1,Group Stage:  Winner's (C)
+542208,233433,ct,mada,5132,Neon,1034,Canada,1.24,296,13,10,2,+3,42%,190,28%,2,4,-2,Group Stage:  Winner's (C)
+542208,233433,ct,s0m,4164,Viper,1034,United States,0.74,129,4,8,8,-4,75%,71,27%,0,1,-1,Group Stage:  Winner's (C)
+542208,233433,ct,brawk,2172,Sova,1034,United States,0.94,163,5,7,5,-2,83%,120,7%,2,0,+2,Group Stage:  Winner's (C)
+542208,233433,ct,Ethan,11225,Omen,1034,United States,0.71,118,4,8,4,-4,83%,73,27%,1,1,0,Group Stage:  Winner's (C)
+542208,233434,t,Flashback,35013,Yoru,8185,South Korea,1.34,297,13,9,1,+4,75%,190,40%,4,2,+2,Group Stage:  Winner's (C)
+542208,233434,t,HYUNMIN,28400,Waylay,8185,South Korea,1.31,218,10,7,3,+3,83%,140,50%,0,0,0,Group Stage:  Winner's (C)
+542208,233434,t,BeYN,4678,Fade,8185,South Korea,1.36,231,9,7,7,+2,75%,129,56%,2,1,+1,Group Stage:  Winner's (C)
+542208,233434,t,MaKo,4462,Omen,8185,South Korea,0.63,77,3,8,5,-5,83%,53,20%,1,0,+1,Group Stage:  Winner's (C)
+542208,233434,t,free1ng,1916,Viper,8185,South Korea,0.70,130,6,8,2,-2,67%,99,43%,1,1,0,Group Stage:  Winner's (C)
+542208,233434,t,mada,5132,Waylay,1034,Canada,0.92,192,9,9,0,0,67%,121,32%,1,5,-4,Group Stage:  Winner's (C)
+542208,233434,t,s0m,4164,Omen,1034,United States,1.28,210,10,8,4,+2,67%,121,31%,3,1,+2,Group Stage:  Winner's (C)
+542208,233434,t,skuba,11118,Viper,1034,United States,1.28,246,10,8,5,+2,67%,160,39%,0,1,-1,Group Stage:  Winner's (C)
+542208,233434,t,brawk,2172,Sova,1034,United States,1.07,180,6,8,5,-2,67%,121,16%,0,0,0,Group Stage:  Winner's (C)
+542208,233434,t,Ethan,11225,Kayo,1034,United States,0.96,185,7,9,9,-2,83%,98,20%,0,1,-1,Group Stage:  Winner's (C)
+542208,233434,ct,Flashback,35013,Yoru,8185,South Korea,1.44,315,13,8,2,+5,83%,190,27%,3,0,+3,Group Stage:  Winner's (C)
+542208,233434,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.67,184,7,9,3,-2,58%,121,50%,2,0,+2,Group Stage:  Winner's (C)
+542208,233434,ct,BeYN,4678,Fade,8185,South Korea,0.53,173,7,10,1,-3,58%,110,41%,0,2,-2,Group Stage:  Winner's (C)
+542208,233434,ct,MaKo,4462,Omen,8185,South Korea,1.06,174,8,7,3,+1,67%,112,16%,0,1,-1,Group Stage:  Winner's (C)
+542208,233434,ct,free1ng,1916,Viper,8185,South Korea,0.76,165,7,8,1,-1,83%,123,53%,3,1,+2,Group Stage:  Winner's (C)
+542208,233434,ct,mada,5132,Waylay,1034,Canada,1.43,287,13,8,4,+5,83%,182,35%,3,3,0,Group Stage:  Winner's (C)
+542208,233434,ct,s0m,4164,Omen,1034,United States,0.97,210,8,9,5,-1,67%,149,50%,0,0,0,Group Stage:  Winner's (C)
+542208,233434,ct,skuba,11118,Viper,1034,United States,0.90,177,8,8,1,0,83%,120,64%,0,0,0,Group Stage:  Winner's (C)
+542208,233434,ct,brawk,2172,Sova,1034,United States,0.88,176,7,7,3,0,83%,120,11%,1,2,-1,Group Stage:  Winner's (C)
+542208,233434,ct,Ethan,11225,Kayo,1034,United States,0.32,94,3,9,5,-6,50%,47,6%,0,3,-3,Group Stage:  Winner's (C)
+542208,233435,t,Flashback,35013,Yoru,8185,South Korea,1.09,226,10,8,3,+2,92%,153,33%,2,2,0,Group Stage:  Winner's (C)
+542208,233435,t,BeYN,4678,Fade,8185,South Korea,1.80,289,14,5,3,+9,75%,191,33%,0,2,-2,Group Stage:  Winner's (C)
+542208,233435,t,HYUNMIN,28400,Waylay,8185,South Korea,1.49,332,15,8,1,+7,83%,205,42%,2,1,+1,Group Stage:  Winner's (C)
+542208,233435,t,MaKo,4462,Omen,8185,South Korea,0.69,125,5,8,6,-3,83%,100,29%,0,1,-1,Group Stage:  Winner's (C)
+542208,233435,t,free1ng,1916,Vyse,8185,South Korea,0.68,122,5,7,1,-2,67%,96,15%,1,1,0,Group Stage:  Winner's (C)
+542208,233435,t,brawk,2172,Vyse,1034,United States,1.51,280,13,6,2,+7,83%,194,21%,0,0,0,Group Stage:  Winner's (C)
+542208,233435,t,Ethan,11225,Fade,1034,United States,1.34,175,8,4,5,+4,75%,106,30%,2,1,+1,Group Stage:  Winner's (C)
+542208,233435,t,s0m,4164,Omen,1034,United States,1.33,262,11,8,10,+3,92%,155,20%,2,1,+1,Group Stage:  Winner's (C)
+542208,233435,t,mada,5132,Raze,1034,Canada,1.14,278,11,11,5,0,92%,185,9%,4,2,+2,Group Stage:  Winner's (C)
+542208,233435,t,skuba,11118,Viper,1034,United States,1.30,127,7,3,5,+4,100%,64,23%,0,0,0,Group Stage:  Winner's (C)
+542208,233435,ct,Flashback,35013,Yoru,8185,South Korea,1.48,360,15,11,0,+4,75%,227,21%,3,2,+1,Group Stage:  Winner's (C)
+542208,233435,ct,BeYN,4678,Fade,8185,South Korea,0.61,165,7,10,1,-3,50%,114,32%,0,0,0,Group Stage:  Winner's (C)
+542208,233435,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.51,89,4,9,0,-5,58%,67,10%,0,2,-2,Group Stage:  Winner's (C)
+542208,233435,ct,MaKo,4462,Omen,8185,South Korea,0.45,86,3,9,3,-6,50%,53,7%,0,1,-1,Group Stage:  Winner's (C)
+542208,233435,ct,free1ng,1916,Vyse,8185,South Korea,0.30,109,3,11,4,-8,42%,74,13%,1,3,-2,Group Stage:  Winner's (C)
+542208,233435,ct,brawk,2172,Vyse,1034,United States,1.78,328,15,9,2,+6,67%,194,14%,1,0,+1,Group Stage:  Winner's (C)
+542208,233435,ct,Ethan,11225,Fade,1034,United States,0.79,164,6,9,4,-3,58%,125,24%,1,2,-1,Group Stage:  Winner's (C)
+542208,233435,ct,s0m,4164,Omen,1034,United States,0.72,119,4,9,8,-5,67%,69,3%,2,1,+1,Group Stage:  Winner's (C)
+542208,233435,ct,mada,5132,Raze,1034,Canada,0.77,216,8,11,4,-3,67%,144,16%,2,2,0,Group Stage:  Winner's (C)
+542208,233435,ct,skuba,11118,Viper,1034,United States,0.51,109,3,11,10,-8,75%,85,12%,1,0,+1,Group Stage:  Winner's (C)
+542213,233448,t,RieNs,10971,Fade,1001,Turkey,1.49,274,11,7,3,+4,91%,173,15%,0,0,0,Group Stage:  Winner's (D)
+542213,233448,t,Wo0t,21328,Chamber,1001,Turkey,0.91,232,9,8,1,+1,55%,139,38%,3,2,+1,Group Stage:  Winner's (D)
+542213,233448,t,Boo,1144,Omen,1001,Lithuania,0.86,136,5,9,10,-4,82%,64,33%,0,0,0,Group Stage:  Winner's (D)
+542213,233448,t,benjyfishy,29873,Deadlock,1001,England,1.10,235,10,8,1,+2,82%,145,50%,1,2,-1,Group Stage:  Winner's (D)
+542213,233448,t,MiniBoo,18350,Raze,1001,Lithuania,0.74,165,6,8,2,-2,64%,114,14%,1,2,-1,Group Stage:  Winner's (D)
+542213,233448,t,BuZz,804,Neon,14,South Korea,0.94,162,7,9,6,-2,83%,100,23%,1,2,-1,Group Stage:  Winner's (D)
+542213,233448,t,DH,43057,Omen,14,South Korea,1.07,188,8,9,2,-1,50%,121,56%,0,2,-2,Group Stage:  Winner's (D)
+542213,233448,t,iZu,29833,Yoru,14,South Korea,0.73,161,7,10,1,-3,58%,94,15%,1,4,-3,Group Stage:  Winner's (D)
+542213,233448,t,Meteor,13039,Vyse,14,South Korea,0.87,190,8,10,1,-2,58%,112,40%,2,0,+2,Group Stage:  Winner's (D)
+542213,233448,t,stax,485,Fade,14,South Korea,0.31,85,3,11,3,-8,42%,53,50%,0,0,0,Group Stage:  Winner's (D)
+542213,233448,ct,RieNs,10971,Fade,1001,Turkey,1.42,276,12,7,6,+5,83%,169,76%,0,0,0,Group Stage:  Winner's (D)
+542213,233448,ct,Wo0t,21328,Chamber,1001,Turkey,1.52,320,14,6,2,+8,92%,214,22%,4,1,+3,Group Stage:  Winner's (D)
+542213,233448,ct,Boo,1144,Omen,1001,Lithuania,1.13,140,7,5,8,+2,92%,98,54%,1,1,0,Group Stage:  Winner's (D)
+542213,233448,ct,benjyfishy,29873,Deadlock,1001,England,0.89,153,5,7,5,-2,75%,109,19%,0,0,0,Group Stage:  Winner's (D)
+542213,233448,ct,MiniBoo,18350,Raze,1001,Lithuania,1.13,266,11,8,3,+3,92%,156,11%,3,2,+1,Group Stage:  Winner's (D)
+542213,233448,ct,BuZz,804,Neon,14,South Korea,1.27,271,11,8,4,+3,73%,180,29%,0,1,-1,Group Stage:  Winner's (D)
+542213,233448,ct,DH,43057,Omen,14,South Korea,1.08,217,8,8,4,0,82%,135,45%,1,1,0,Group Stage:  Winner's (D)
+542213,233448,ct,iZu,29833,Yoru,14,South Korea,1.45,322,12,8,3,+4,64%,202,32%,2,1,+1,Group Stage:  Winner's (D)
+542213,233448,ct,Meteor,13039,Vyse,14,South Korea,0.64,119,5,8,2,-3,64%,70,33%,2,1,+1,Group Stage:  Winner's (D)
+542213,233448,ct,stax,485,Fade,14,South Korea,0.53,132,4,9,6,-5,73%,81,27%,1,1,0,Group Stage:  Winner's (D)
+542213,233449,t,RieNs,10971,Sova,1001,Turkey,0.73,195,8,11,4,-3,58%,113,30%,0,0,0,Group Stage:  Winner's (D)
+542213,233449,t,Wo0t,21328,Raze,1001,Turkey,1.26,290,11,10,5,+1,83%,198,17%,0,1,-1,Group Stage:  Winner's (D)
+542213,233449,t,Boo,1144,Omen,1001,Lithuania,0.99,164,7,9,7,-2,75%,106,30%,1,2,-1,Group Stage:  Winner's (D)
+542213,233449,t,MiniBoo,18350,Yoru,1001,Lithuania,0.98,173,8,8,1,0,67%,102,46%,2,2,0,Group Stage:  Winner's (D)
+542213,233449,t,benjyfishy,29873,Cypher,1001,England,0.53,98,5,10,3,-5,50%,62,50%,0,4,-4,Group Stage:  Winner's (D)
+542213,233449,t,Meteor,13039,Cypher,14,South Korea,0.99,171,8,9,1,-1,83%,111,25%,1,1,0,Group Stage:  Winner's (D)
+542213,233449,t,iZu,29833,Yoru,14,South Korea,1.03,215,10,9,3,+1,75%,120,35%,2,1,+1,Group Stage:  Winner's (D)
+542213,233449,t,DH,43057,Omen,14,South Korea,0.72,135,5,8,5,-3,58%,82,21%,1,1,0,Group Stage:  Winner's (D)
+542213,233449,t,stax,485,Sova,14,South Korea,1.17,181,7,6,3,+1,83%,140,47%,0,0,0,Group Stage:  Winner's (D)
+542213,233449,t,BuZz,804,Neon,14,South Korea,0.85,187,7,8,4,-1,67%,111,14%,1,4,-3,Group Stage:  Winner's (D)
+542213,233449,ct,RieNs,10971,Sova,1001,Turkey,1.57,282,11,5,1,+6,67%,189,52%,1,1,0,Group Stage:  Winner's (D)
+542213,233449,ct,Wo0t,21328,Raze,1001,Turkey,0.92,200,8,9,1,-1,83%,151,22%,1,0,+1,Group Stage:  Winner's (D)
+542213,233449,ct,Boo,1144,Omen,1001,Lithuania,1.07,157,7,6,6,+1,83%,107,10%,0,0,0,Group Stage:  Winner's (D)
+542213,233449,ct,MiniBoo,18350,Yoru,1001,Lithuania,0.93,219,9,8,0,+1,67%,137,24%,4,2,+2,Group Stage:  Winner's (D)
+542213,233449,ct,benjyfishy,29873,Cypher,1001,England,0.59,141,5,9,4,-4,50%,90,31%,1,2,-1,Group Stage:  Winner's (D)
+542213,233449,ct,Meteor,13039,Cypher,14,South Korea,1.91,414,16,8,6,+8,92%,269,39%,5,0,+5,Group Stage:  Winner's (D)
+542213,233449,ct,iZu,29833,Yoru,14,South Korea,1.36,246,11,7,0,+4,83%,129,29%,2,0,+2,Group Stage:  Winner's (D)
+542213,233449,ct,DH,43057,Omen,14,South Korea,1.21,270,11,8,7,+3,75%,206,45%,1,0,+1,Group Stage:  Winner's (D)
+542213,233449,ct,stax,485,Sova,14,South Korea,0.56,72,3,7,3,-4,58%,53,11%,0,0,0,Group Stage:  Winner's (D)
+542213,233449,ct,BuZz,804,Neon,14,South Korea,0.43,127,7,9,0,-2,42%,89,33%,1,3,-2,Group Stage:  Winner's (D)
+542202,233418,t,aspas,8480,Raze,7386,Brazil,1.18,227,10,7,3,+3,75%,168,18%,2,0,+2,Group Stage:  Winner's (B)
+542202,233418,t,cortezia,5395,Viper,7386,Brazil,1.01,208,9,7,1,+2,67%,127,39%,2,0,+2,Group Stage:  Winner's (B)
+542202,233418,t,Verno,21668,Fade,7386,United States,1.14,252,11,9,7,+2,83%,139,16%,1,0,+1,Group Stage:  Winner's (B)
+542202,233418,t,artzin,5957,Yoru,7386,Brazil,0.91,203,9,8,2,+1,75%,106,27%,2,4,-2,Group Stage:  Winner's (B)
+542202,233418,t,xenom,20240,Brimstone,7386,Brazil,0.73,141,5,8,7,-3,67%,94,16%,0,1,-1,Group Stage:  Winner's (B)
+542202,233418,t,Alfajer,9810,Tejo,2593,Turkey,0.72,206,4,6,1,-2,67%,151,44%,1,1,0,Group Stage:  Winner's (B)
+542202,233418,t,Chronicle,458,Viper,2593,Russia,0.50,154,2,6,1,-4,67%,118,20%,0,0,0,Group Stage:  Winner's (B)
+542202,233418,t,kaajak,9554,Yoru,2593,Poland,0.41,144,3,6,0,-3,33%,100,38%,1,0,+1,Group Stage:  Winner's (B)
+542202,233418,t,crashies,4,Fade,2593,United States,0.41,103,2,6,2,-4,67%,59,33%,0,0,0,Group Stage:  Winner's (B)
+542202,233418,t,Boaster,438,Astra,2593,United Kingdom,0.32,133,3,6,1,-3,67%,107,43%,1,2,-1,Group Stage:  Winner's (B)
+542202,233418,ct,aspas,8480,Raze,7386,Brazil,1.79,347,9,3,1,+6,100%,213,11%,2,0,+2,Group Stage:  Winner's (B)
+542202,233418,ct,cortezia,5395,Viper,7386,Brazil,1.93,267,7,2,1,+5,100%,165,28%,0,0,0,Group Stage:  Winner's (B)
+542202,233418,ct,Verno,21668,Fade,7386,United States,1.15,135,2,2,2,0,100%,118,27%,0,1,-1,Group Stage:  Winner's (B)
+542202,233418,ct,artzin,5957,Yoru,7386,Brazil,1.59,270,6,2,2,+4,100%,153,42%,1,2,-1,Group Stage:  Winner's (B)
+542202,233418,ct,xenom,20240,Brimstone,7386,Brazil,1.20,265,6,5,5,+1,100%,181,27%,0,0,0,Group Stage:  Winner's (B)
+542202,233418,ct,Alfajer,9810,Tejo,2593,Turkey,1.14,177,8,8,1,0,67%,106,64%,1,1,0,Group Stage:  Winner's (B)
+542202,233418,ct,Chronicle,458,Viper,2593,Russia,1.19,233,9,9,6,0,83%,155,30%,3,1,+2,Group Stage:  Winner's (B)
+542202,233418,ct,kaajak,9554,Yoru,2593,Poland,1.20,189,9,7,1,+2,67%,133,24%,1,0,+1,Group Stage:  Winner's (B)
+542202,233418,ct,crashies,4,Fade,2593,United States,1.19,286,12,10,1,+2,58%,176,29%,0,2,-2,Group Stage:  Winner's (B)
+542202,233418,ct,Boaster,438,Astra,2593,United Kingdom,0.10,54,1,10,1,-9,25%,49,30%,0,3,-3,Group Stage:  Winner's (B)
+542202,233419,t,aspas,8480,Jett,7386,Brazil,1.44,351,15,7,0,+8,83%,227,30%,3,1,+2,Group Stage:  Winner's (B)
+542202,233419,t,Verno,21668,Sova,7386,United States,1.57,320,14,6,3,+8,83%,186,27%,1,1,0,Group Stage:  Winner's (B)
+542202,233419,t,xenom,20240,Astra,7386,Brazil,0.93,105,4,5,9,-1,92%,59,8%,0,0,0,Group Stage:  Winner's (B)
+542202,233419,t,cortezia,5395,Cypher,7386,Brazil,0.79,208,9,9,3,0,67%,125,38%,1,1,0,Group Stage:  Winner's (B)
+542202,233419,t,artzin,5957,Kayo,7386,Brazil,0.42,120,4,9,5,-5,50%,84,29%,1,3,-2,Group Stage:  Winner's (B)
+542202,233419,t,Boaster,438,Astra,2593,United Kingdom,1.69,164,5,1,4,+4,100%,98,0%,0,0,0,Group Stage:  Winner's (B)
+542202,233419,t,crashies,4,Sova,2593,United States,2.02,297,9,2,4,+7,88%,228,50%,1,0,+1,Group Stage:  Winner's (B)
+542202,233419,t,Alfajer,9810,Cypher,2593,Turkey,1.66,288,9,2,0,+7,88%,191,36%,1,1,0,Group Stage:  Winner's (B)
+542202,233419,t,kaajak,9554,Waylay,2593,Poland,0.86,237,7,6,3,+1,63%,123,46%,2,1,+1,Group Stage:  Winner's (B)
+542202,233419,t,Chronicle,458,Breach,2593,Russia,0.45,98,3,4,1,-1,75%,68,9%,1,0,+1,Group Stage:  Winner's (B)
+542202,233419,ct,aspas,8480,Jett,7386,Brazil,0.92,218,6,8,1,-2,63%,133,21%,2,1,+1,Group Stage:  Winner's (B)
+542202,233419,ct,Verno,21668,Sova,7386,United States,0.35,111,2,7,2,-5,75%,80,17%,0,0,0,Group Stage:  Winner's (B)
+542202,233419,ct,xenom,20240,Astra,7386,Brazil,0.13,66,2,8,0,-6,38%,38,20%,0,0,0,Group Stage:  Winner's (B)
+542202,233419,ct,cortezia,5395,Cypher,7386,Brazil,0.19,73,2,8,0,-6,50%,53,60%,0,3,-3,Group Stage:  Winner's (B)
+542202,233419,ct,artzin,5957,Kayo,7386,Brazil,0.42,133,3,8,3,-5,38%,79,20%,0,1,-1,Group Stage:  Winner's (B)
+542202,233419,ct,Boaster,438,Astra,2593,United Kingdom,1.23,200,7,9,9,-2,67%,144,19%,1,1,0,Group Stage:  Winner's (B)
+542202,233419,ct,crashies,4,Sova,2593,United States,0.75,172,4,10,9,-6,75%,131,27%,2,1,+1,Group Stage:  Winner's (B)
+542202,233419,ct,Alfajer,9810,Cypher,2593,Turkey,0.97,254,11,11,2,0,75%,170,27%,1,2,-1,Group Stage:  Winner's (B)
+542202,233419,ct,kaajak,9554,Waylay,2593,Poland,1.27,180,8,8,3,0,58%,136,35%,1,1,0,Group Stage:  Winner's (B)
+542202,233419,ct,Chronicle,458,Breach,2593,Russia,0.88,128,6,8,2,-2,67%,104,39%,1,1,0,Group Stage:  Winner's (B)
+542202,233420,t,xenom,20240,Omen,7386,Brazil,0.95,188,9,10,0,-1,67%,100,27%,2,1,+1,Group Stage:  Winner's (B)
+542202,233420,t,artzin,5957,Viper,7386,Brazil,1.10,202,8,8,2,0,58%,132,23%,0,1,-1,Group Stage:  Winner's (B)
+542202,233420,t,aspas,8480,Neon,7386,Brazil,0.67,179,7,12,2,-5,67%,122,24%,3,2,+1,Group Stage:  Winner's (B)
+542202,233420,t,cortezia,5395,Killjoy,7386,Brazil,0.20,75,3,11,2,-8,58%,54,23%,0,2,-2,Group Stage:  Winner's (B)
+542202,233420,t,Verno,21668,Sova,7386,United States,0.37,95,3,10,2,-7,58%,56,33%,0,1,-1,Group Stage:  Winner's (B)
+542202,233420,t,kaajak,9554,Yoru,2593,Poland,1.18,263,10,9,1,+1,64%,148,41%,4,1,+3,Group Stage:  Winner's (B)
+542202,233420,t,Chronicle,458,Viper,2593,Russia,0.95,141,5,7,2,-2,64%,110,33%,0,1,-1,Group Stage:  Winner's (B)
+542202,233420,t,crashies,4,Sova,2593,United States,0.52,72,2,7,1,-5,55%,62,22%,0,1,-1,Group Stage:  Winner's (B)
+542202,233420,t,Alfajer,9810,Killjoy,2593,Turkey,0.41,83,3,8,1,-5,55%,57,31%,1,1,0,Group Stage:  Winner's (B)
+542202,233420,t,Boaster,438,Omen,2593,United Kingdom,0.96,154,5,6,2,-1,64%,110,33%,0,2,-2,Group Stage:  Winner's (B)
+542202,233420,ct,xenom,20240,Omen,7386,Brazil,1.38,253,9,5,4,+4,82%,163,30%,3,1,+2,Group Stage:  Winner's (B)
+542202,233420,ct,artzin,5957,Viper,7386,Brazil,1.20,258,9,5,4,+4,82%,177,25%,1,1,0,Group Stage:  Winner's (B)
+542202,233420,ct,aspas,8480,Neon,7386,Brazil,0.82,164,7,6,0,+1,73%,105,25%,1,2,-1,Group Stage:  Winner's (B)
+542202,233420,ct,cortezia,5395,Killjoy,7386,Brazil,1.10,142,7,3,1,+4,91%,118,29%,0,0,0,Group Stage:  Winner's (B)
+542202,233420,ct,Verno,21668,Sova,7386,United States,0.87,153,5,6,5,-1,73%,100,44%,1,1,0,Group Stage:  Winner's (B)
+542202,233420,ct,kaajak,9554,Yoru,2593,Poland,1.16,202,10,5,1,+5,75%,124,25%,2,1,+1,Group Stage:  Winner's (B)
+542202,233420,ct,Chronicle,458,Viper,2593,Russia,1.38,239,10,6,6,+4,100%,163,25%,0,0,0,Group Stage:  Winner's (B)
+542202,233420,ct,crashies,4,Sova,2593,United States,1.56,323,14,6,4,+8,92%,187,35%,2,0,+2,Group Stage:  Winner's (B)
+542202,233420,ct,Alfajer,9810,Killjoy,2593,Turkey,1.36,263,12,7,2,+5,83%,184,31%,2,1,+1,Group Stage:  Winner's (B)
+542202,233420,ct,Boaster,438,Omen,2593,United Kingdom,0.82,122,5,6,8,-1,83%,79,16%,1,3,-2,Group Stage:  Winner's (B)
+542209,233436,t,trexx,2168,Fade,474,Russia,0.50,109,4,11,2,-7,58%,95,17%,0,1,-1,Group Stage:  Elimination (C)
+542209,233436,t,paTiTek,309,Omen,474,Poland,1.04,244,9,11,4,-2,67%,166,31%,1,1,0,Group Stage:  Elimination (C)
+542209,233436,t,keiko,11494,Raze,474,United Kingdom,0.38,97,4,11,1,-7,50%,64,18%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,t,kamo,14681,Yoru,474,Poland,0.41,98,4,11,2,-7,58%,60,38%,1,6,-5,Group Stage:  Elimination (C)
+542209,233436,t,nAts,457,Cypher,474,Russia,0.44,112,4,10,3,-6,67%,75,31%,1,1,0,Group Stage:  Elimination (C)
+542209,233436,t,ZmjjKK,3520,Neon,1120,China,0.03,84,1,4,0,-3,25%,54,33%,0,2,-2,Group Stage:  Elimination (C)
+542209,233436,t,nobody,3017,Sova,1120,China,1.21,150,3,2,0,+1,75%,77,29%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,t,Jieni7,51244,Breach,1120,China,1.24,358,5,3,2,+2,75%,205,36%,0,1,-1,Group Stage:  Elimination (C)
+542209,233436,t,CHICHOO,15559,Cypher,1120,China,1.16,171,3,2,0,+1,75%,99,14%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,t,Smoggy,4742,Omen,1120,China,1.01,171,2,3,0,-1,75%,103,40%,1,0,+1,Group Stage:  Elimination (C)
+542209,233436,ct,trexx,2168,Fade,474,Russia,1.95,360,6,2,0,+4,75%,245,14%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,ct,paTiTek,309,Omen,474,Poland,0.34,19,0,3,3,-3,75%,,,0,0,0,Group Stage:  Elimination (C)
+542209,233436,ct,keiko,11494,Raze,474,United Kingdom,1.32,285,4,3,0,+1,75%,184,29%,3,1,+2,Group Stage:  Elimination (C)
+542209,233436,ct,kamo,14681,Yoru,474,Poland,0.67,135,2,3,0,-1,75%,84,38%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,ct,nAts,457,Cypher,474,Russia,0.62,182,2,3,2,-1,75%,126,8%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,ct,ZmjjKK,3520,Neon,1120,China,2.33,450,21,5,1,+16,75%,261,11%,4,2,+2,Group Stage:  Elimination (C)
+542209,233436,ct,nobody,3017,Sova,1120,China,1.73,235,12,3,3,+9,83%,164,63%,1,0,+1,Group Stage:  Elimination (C)
+542209,233436,ct,Jieni7,51244,Breach,1120,China,1.29,227,9,6,10,+3,83%,138,31%,1,0,+1,Group Stage:  Elimination (C)
+542209,233436,ct,CHICHOO,15559,Cypher,1120,China,1.19,135,6,3,3,+3,92%,102,11%,0,0,0,Group Stage:  Elimination (C)
+542209,233436,ct,Smoggy,4742,Omen,1120,China,0.75,161,6,8,7,-2,92%,102,3%,3,1,+2,Group Stage:  Elimination (C)
+542209,233437,t,nAts,457,Cypher,474,Russia,2.43,453,22,4,0,+18,92%,277,22%,1,1,0,Group Stage:  Elimination (C)
+542209,233437,t,kamo,14681,Jett,474,Poland,0.99,262,11,8,0,+3,67%,168,40%,4,1,+3,Group Stage:  Elimination (C)
+542209,233437,t,paTiTek,309,Kayo,474,Poland,0.64,90,4,7,7,-3,75%,63,13%,0,1,-1,Group Stage:  Elimination (C)
+542209,233437,t,trexx,2168,Sova,474,Russia,0.85,124,5,6,3,-1,83%,90,22%,0,0,0,Group Stage:  Elimination (C)
+542209,233437,t,keiko,11494,Omen,474,United Kingdom,0.88,206,8,7,4,+1,83%,133,50%,3,1,+2,Group Stage:  Elimination (C)
+542209,233437,t,Smoggy,4742,Omen,1120,China,1.07,164,4,5,3,-1,71%,103,24%,0,0,0,Group Stage:  Elimination (C)
+542209,233437,t,Jieni7,51244,Waylay,1120,China,0.19,74,1,6,0,-5,29%,55,0%,1,0,+1,Group Stage:  Elimination (C)
+542209,233437,t,nobody,3017,Sova,1120,China,0.44,96,2,6,1,-4,43%,64,14%,0,2,-2,Group Stage:  Elimination (C)
+542209,233437,t,CHICHOO,15559,Astra,1120,China,0.76,91,3,5,2,-2,43%,67,29%,0,2,-2,Group Stage:  Elimination (C)
+542209,233437,t,ZmjjKK,3520,Yoru,1120,China,1.03,224,6,5,1,+1,71%,122,45%,2,0,+2,Group Stage:  Elimination (C)
+542209,233437,ct,nAts,457,Cypher,474,Russia,1.08,173,5,3,0,+2,86%,118,31%,0,0,0,Group Stage:  Elimination (C)
+542209,233437,ct,kamo,14681,Jett,474,Poland,1.13,262,6,6,3,0,86%,189,35%,2,1,+1,Group Stage:  Elimination (C)
+542209,233437,ct,paTiTek,309,Kayo,474,Poland,1.74,345,9,4,6,+5,100%,205,23%,0,0,0,Group Stage:  Elimination (C)
+542209,233437,ct,trexx,2168,Sova,474,Russia,1.02,164,4,3,2,+1,86%,113,12%,1,1,0,Group Stage:  Elimination (C)
+542209,233437,ct,keiko,11494,Omen,474,United Kingdom,0.94,132,3,3,1,0,71%,80,60%,1,1,0,Group Stage:  Elimination (C)
+542209,233437,ct,Smoggy,4742,Omen,1120,China,1.00,179,8,10,5,-2,67%,103,35%,1,2,-1,Group Stage:  Elimination (C)
+542209,233437,ct,Jieni7,51244,Waylay,1120,China,1.02,251,10,10,1,0,75%,146,35%,2,1,+1,Group Stage:  Elimination (C)
+542209,233437,ct,nobody,3017,Sova,1120,China,0.72,176,6,9,2,-3,50%,124,33%,0,1,-1,Group Stage:  Elimination (C)
+542209,233437,ct,CHICHOO,15559,Astra,1120,China,0.50,120,4,10,4,-6,50%,89,17%,0,0,0,Group Stage:  Elimination (C)
+542209,233437,ct,ZmjjKK,3520,Yoru,1120,China,0.23,89,4,13,0,-9,33%,60,25%,1,4,-3,Group Stage:  Elimination (C)
+542209,233438,t,nAts,457,Viper,474,Russia,1.50,273,14,9,0,+5,57%,159,16%,1,2,-1,Group Stage:  Elimination (C)
+542209,233438,t,kamo,14681,Yoru,474,Poland,1.22,256,13,10,3,+3,57%,158,34%,2,3,-1,Group Stage:  Elimination (C)
+542209,233438,t,paTiTek,309,Fade,474,Poland,0.56,140,6,11,4,-5,79%,104,22%,1,1,0,Group Stage:  Elimination (C)
+542209,233438,t,trexx,2168,Brimstone,474,Russia,1.12,237,12,10,6,+2,93%,142,30%,0,0,0,Group Stage:  Elimination (C)
+542209,233438,t,keiko,11494,Raze,474,United Kingdom,0.44,156,6,12,4,-6,64%,115,16%,1,3,-2,Group Stage:  Elimination (C)
+542209,233438,t,Smoggy,4742,Brimstone,1120,China,0.83,158,6,9,4,-3,71%,101,10%,1,1,0,Group Stage:  Elimination (C)
+542209,233438,t,nobody,3017,Fade,1120,China,0.69,117,5,10,2,-5,71%,83,22%,0,1,-1,Group Stage:  Elimination (C)
+542209,233438,t,CHICHOO,15559,Viper,1120,China,0.98,229,12,9,2,+3,64%,136,17%,2,1,+1,Group Stage:  Elimination (C)
+542209,233438,t,ZmjjKK,3520,Yoru,1120,China,1.24,259,14,8,2,+6,57%,157,28%,3,5,-2,Group Stage:  Elimination (C)
+542209,233438,t,Jieni7,51244,Tejo,1120,China,0.64,118,5,9,2,-4,64%,83,33%,0,0,0,Group Stage:  Elimination (C)
+542209,233438,ct,nAts,457,Viper,474,Russia,1.39,268,13,8,4,+5,79%,164,33%,3,0,+3,Group Stage:  Elimination (C)
+542209,233438,ct,kamo,14681,Yoru,474,Poland,1.19,184,9,7,2,+2,71%,130,23%,2,4,-2,Group Stage:  Elimination (C)
+542209,233438,ct,paTiTek,309,Fade,474,Poland,1.26,197,10,7,5,+3,71%,109,25%,0,0,0,Group Stage:  Elimination (C)
+542209,233438,ct,trexx,2168,Brimstone,474,Russia,0.69,136,5,11,6,-6,50%,101,21%,3,1,+2,Group Stage:  Elimination (C)
+542209,233438,ct,keiko,11494,Raze,474,United Kingdom,0.94,172,8,9,1,-1,64%,119,19%,0,1,-1,Group Stage:  Elimination (C)
+542209,233438,ct,Smoggy,4742,Brimstone,1120,China,1.53,342,16,12,8,+4,86%,220,22%,3,1,+2,Group Stage:  Elimination (C)
+542209,233438,ct,nobody,3017,Fade,1120,China,1.22,174,11,7,1,+4,64%,115,15%,0,1,-1,Group Stage:  Elimination (C)
+542209,233438,ct,CHICHOO,15559,Viper,1120,China,0.86,139,7,8,3,-1,79%,97,30%,1,0,+1,Group Stage:  Elimination (C)
+542209,233438,ct,ZmjjKK,3520,Yoru,1120,China,0.49,136,5,12,5,-7,57%,94,8%,3,1,+2,Group Stage:  Elimination (C)
+542209,233438,ct,Jieni7,51244,Tejo,1120,China,1.07,244,13,12,2,+1,57%,154,31%,2,2,0,Group Stage:  Elimination (C)
+542198,233406,t,Viva,36415,Sova,13581,China,0.66,78,2,8,5,-6,64%,78,17%,0,0,0,Group Stage:  Elimination (A)
+542198,233406,t,coconut,12365,Astra,13581,Hong Kong,1.41,245,10,8,4,+2,55%,160,45%,1,0,+1,Group Stage:  Elimination (A)
+542198,233406,t,happywei,37927,Omen,13581,Taiwan,0.91,181,6,8,7,-2,73%,116,44%,0,2,-2,Group Stage:  Elimination (A)
+542198,233406,t,Rarga,22047,Yoru,13581,Russia,0.37,83,4,9,0,-5,55%,47,20%,1,3,-2,Group Stage:  Elimination (A)
+542198,233406,t,NoMan,11527,Jett,13581,Hong Kong,0.75,151,5,8,0,-3,64%,96,27%,2,2,0,Group Stage:  Elimination (A)
+542198,233406,t,N4RRATE,36245,Omen,2,United States,0.91,187,8,9,1,-1,75%,120,32%,1,1,0,Group Stage:  Elimination (A)
+542198,233406,t,Zellsis,729,Kayo,2,United States,0.99,213,10,9,4,+1,75%,128,36%,3,1,+2,Group Stage:  Elimination (A)
+542198,233406,t,johnqt,1265,Sova,2,Morocco,0.63,72,3,7,2,-4,75%,65,27%,0,0,0,Group Stage:  Elimination (A)
+542198,233406,t,bang,3880,Astra,2,United States,1.19,189,8,5,3,+3,75%,121,39%,0,1,-1,Group Stage:  Elimination (A)
+542198,233406,t,zekken,4004,Jett,2,United States,0.73,190,7,9,3,-2,58%,124,25%,2,3,-1,Group Stage:  Elimination (A)
+542198,233406,ct,Viva,36415,Sova,13581,China,1.31,252,11,8,1,+3,75%,178,38%,2,3,-1,Group Stage:  Elimination (A)
+542198,233406,ct,coconut,12365,Astra,13581,Hong Kong,0.57,84,3,8,8,-5,75%,60,71%,0,0,0,Group Stage:  Elimination (A)
+542198,233406,ct,happywei,37927,Omen,13581,Taiwan,1.00,220,10,10,7,0,92%,145,53%,1,0,+1,Group Stage:  Elimination (A)
+542198,233406,ct,Rarga,22047,Yoru,13581,Russia,1.29,249,10,8,3,+2,92%,142,35%,3,1,+2,Group Stage:  Elimination (A)
+542198,233406,ct,NoMan,11527,Jett,13581,Hong Kong,0.78,119,5,6,2,-1,75%,94,30%,0,2,-2,Group Stage:  Elimination (A)
+542198,233406,ct,N4RRATE,36245,Omen,2,United States,1.64,286,11,5,6,+6,100%,159,21%,1,0,+1,Group Stage:  Elimination (A)
+542198,233406,ct,Zellsis,729,Kayo,2,United States,1.16,177,6,5,9,+1,82%,113,23%,1,1,0,Group Stage:  Elimination (A)
+542198,233406,ct,johnqt,1265,Sova,2,Morocco,1.44,222,10,5,3,+5,91%,144,44%,1,0,+1,Group Stage:  Elimination (A)
+542198,233406,ct,bang,3880,Astra,2,United States,0.61,160,7,8,2,-1,73%,112,33%,2,0,+2,Group Stage:  Elimination (A)
+542198,233406,ct,zekken,4004,Jett,2,United States,1.04,226,7,8,6,-1,91%,164,25%,2,3,-1,Group Stage:  Elimination (A)
+542198,233407,t,happywei,37927,Cypher,13581,Taiwan,1.58,245,11,4,2,+7,92%,145,30%,3,1,+2,Group Stage:  Elimination (A)
+542198,233407,t,Rarga,22047,Sage,13581,Russia,1.54,289,12,6,5,+6,92%,176,55%,2,1,+1,Group Stage:  Elimination (A)
+542198,233407,t,Viva,36415,Fade,13581,China,1.19,186,9,6,4,+3,92%,120,30%,1,0,+1,Group Stage:  Elimination (A)
+542198,233407,t,coconut,12365,Omen,13581,Hong Kong,1.01,177,8,8,9,0,92%,94,33%,2,0,+2,Group Stage:  Elimination (A)
+542198,233407,t,NoMan,11527,Deadlock,13581,Hong Kong,0.73,172,7,8,5,-1,67%,130,42%,0,2,-2,Group Stage:  Elimination (A)
+542198,233407,t,zekken,4004,Raze,2,United States,1.29,276,11,8,2,+3,75%,167,23%,4,0,+4,Group Stage:  Elimination (A)
+542198,233407,t,johnqt,1265,Viper,2,Morocco,1.12,190,7,7,3,0,75%,134,41%,0,0,0,Group Stage:  Elimination (A)
+542198,233407,t,bang,3880,Omen,2,United States,0.94,148,6,8,5,-2,75%,113,63%,0,0,0,Group Stage:  Elimination (A)
+542198,233407,t,Zellsis,729,Vyse,2,United States,0.88,215,9,9,0,0,75%,153,28%,2,3,-1,Group Stage:  Elimination (A)
+542198,233407,t,N4RRATE,36245,Fade,2,United States,0.90,165,8,7,4,+1,75%,97,20%,0,3,-3,Group Stage:  Elimination (A)
+542198,233407,ct,happywei,37927,Cypher,13581,Taiwan,1.39,295,12,9,4,+3,83%,199,38%,1,0,+1,Group Stage:  Elimination (A)
+542198,233407,ct,Rarga,22047,Sage,13581,Russia,0.60,132,6,8,1,-2,67%,77,33%,0,3,-3,Group Stage:  Elimination (A)
+542198,233407,ct,Viva,36415,Fade,13581,China,0.69,130,5,9,6,-4,83%,88,55%,3,3,0,Group Stage:  Elimination (A)
+542198,233407,ct,coconut,12365,Omen,13581,Hong Kong,0.84,202,8,8,5,0,67%,118,20%,2,0,+2,Group Stage:  Elimination (A)
+542198,233407,ct,NoMan,11527,Deadlock,13581,Hong Kong,1.01,200,8,7,2,+1,67%,129,43%,0,0,0,Group Stage:  Elimination (A)
+542198,233407,ct,zekken,4004,Raze,2,United States,1.56,304,12,10,6,+2,67%,212,25%,0,0,0,Group Stage:  Elimination (A)
+542198,233407,ct,johnqt,1265,Viper,2,Morocco,0.81,136,4,8,6,-4,83%,93,15%,0,1,-1,Group Stage:  Elimination (A)
+542198,233407,ct,bang,3880,Omen,2,United States,0.67,90,5,8,4,-3,75%,56,30%,0,2,-2,Group Stage:  Elimination (A)
+542198,233407,ct,Zellsis,729,Vyse,2,United States,0.66,141,6,10,4,-4,58%,85,18%,2,2,0,Group Stage:  Elimination (A)
+542198,233407,ct,N4RRATE,36245,Fade,2,United States,0.58,148,5,11,5,-6,58%,100,25%,2,3,-1,Group Stage:  Elimination (A)
+542198,233408,t,happywei,37927,Viper,13581,Taiwan,1.48,313,14,7,2,+7,75%,194,37%,1,0,+1,Group Stage:  Elimination (A)
+542198,233408,t,NoMan,11527,Killjoy,13581,Hong Kong,1.41,275,13,6,0,+7,83%,174,46%,1,0,+1,Group Stage:  Elimination (A)
+542198,233408,t,Rarga,22047,Neon,13581,Russia,0.99,229,9,9,1,0,75%,139,48%,5,1,+4,Group Stage:  Elimination (A)
+542198,233408,t,coconut,12365,Omen,13581,Hong Kong,0.72,101,3,7,9,-4,67%,56,23%,1,2,-1,Group Stage:  Elimination (A)
+542198,233408,t,Viva,36415,Sova,13581,China,0.68,89,4,7,3,-3,75%,54,20%,1,0,+1,Group Stage:  Elimination (A)
+542198,233408,t,johnqt,1265,Viper,2,Morocco,1.03,153,5,7,1,-2,44%,110,38%,0,1,-1,Group Stage:  Elimination (A)
+542198,233408,t,bang,3880,Omen,2,United States,0.14,82,2,9,4,-7,44%,62,25%,0,1,-1,Group Stage:  Elimination (A)
+542198,233408,t,zekken,4004,Neon,2,United States,0.56,138,5,8,1,-3,56%,114,24%,0,2,-2,Group Stage:  Elimination (A)
+542198,233408,t,Zellsis,729,Killjoy,2,United States,0.32,111,3,8,1,-5,67%,62,7%,3,2,+1,Group Stage:  Elimination (A)
+542198,233408,t,N4RRATE,36245,Sova,2,United States,0.81,174,5,9,2,-4,44%,124,8%,0,0,0,Group Stage:  Elimination (A)
+542198,233408,ct,happywei,37927,Viper,13581,Taiwan,1.73,315,10,4,5,+6,67%,223,32%,3,0,+3,Group Stage:  Elimination (A)
+542198,233408,ct,NoMan,11527,Killjoy,13581,Hong Kong,1.57,322,10,5,1,+5,89%,218,22%,2,0,+2,Group Stage:  Elimination (A)
+542198,233408,ct,Rarga,22047,Neon,13581,Russia,1.35,248,10,5,1,+5,100%,184,47%,0,1,-1,Group Stage:  Elimination (A)
+542198,233408,ct,coconut,12365,Omen,13581,Hong Kong,1.33,179,5,3,7,+2,89%,106,31%,1,2,-1,Group Stage:  Elimination (A)
+542198,233408,ct,Viva,36415,Sova,13581,China,1.35,182,6,3,3,+3,100%,129,31%,0,0,0,Group Stage:  Elimination (A)
+542198,233408,ct,johnqt,1265,Viper,2,Morocco,1.26,227,10,6,2,+4,83%,149,35%,0,0,0,Group Stage:  Elimination (A)
+542198,233408,ct,bang,3880,Omen,2,United States,1.19,214,10,8,4,+2,67%,131,30%,1,1,0,Group Stage:  Elimination (A)
+542198,233408,ct,zekken,4004,Neon,2,United States,0.71,191,6,11,3,-5,50%,138,32%,2,5,-3,Group Stage:  Elimination (A)
+542198,233408,ct,Zellsis,729,Killjoy,2,United States,0.87,136,6,8,0,-2,67%,87,32%,0,2,-2,Group Stage:  Elimination (A)
+542198,233408,ct,N4RRATE,36245,Sova,2,United States,0.41,113,4,10,4,-6,58%,77,15%,0,1,-1,Group Stage:  Elimination (A)
+542203,233421,t,Knight,4774,Sova,12010,China,1.69,285,14,8,0,+6,83%,182,47%,1,1,0,Group Stage:  Elimination (B)
+542203,233421,t,Levius,40845,Cypher,12010,China,0.79,220,9,10,1,-1,50%,116,26%,3,2,+1,Group Stage:  Elimination (B)
+542203,233421,t,rushia,48878,Omen,12010,China,1.04,121,5,6,5,-1,83%,79,11%,1,0,+1,Group Stage:  Elimination (B)
+542203,233421,t,whzy,4885,Neon,12010,China,0.86,208,8,11,5,-3,92%,141,26%,1,2,-1,Group Stage:  Elimination (B)
+542203,233421,t,nephh,10698,Breach,12010,Singapore,0.54,84,3,9,6,-6,67%,67,20%,0,1,-1,Group Stage:  Elimination (B)
+542203,233421,t,Monyet,8497,Omen,878,Indonesia,0.51,95,2,7,3,-5,50%,68,22%,0,0,0,Group Stage:  Elimination (B)
+542203,233421,t,crazyguy,1430,Breach,878,Vietnam,0.20,69,2,7,0,-5,25%,65,22%,1,2,-1,Group Stage:  Elimination (B)
+542203,233421,t,Jemkin,24895,Waylay,878,Russia,0.38,123,3,7,0,-4,38%,77,20%,0,1,-1,Group Stage:  Elimination (B)
+542203,233421,t,xffero,4871,Cypher,878,Indonesia,0.18,108,2,7,3,-5,38%,74,7%,1,3,-2,Group Stage:  Elimination (B)
+542203,233421,t,Kushy,4866,Fade,878,Indonesia,0.46,103,3,8,0,-5,38%,74,50%,0,0,0,Group Stage:  Elimination (B)
+542203,233421,ct,Knight,4774,Sova,12010,China,1.52,207,6,2,4,+4,88%,148,21%,1,0,+1,Group Stage:  Elimination (B)
+542203,233421,ct,Levius,40845,Cypher,12010,China,2.45,533,17,5,4,+12,100%,314,41%,3,0,+3,Group Stage:  Elimination (B)
+542203,233421,ct,rushia,48878,Omen,12010,China,1.51,156,4,1,4,+3,88%,119,40%,0,0,0,Group Stage:  Elimination (B)
+542203,233421,ct,whzy,4885,Neon,12010,China,1.15,166,5,3,3,+2,88%,109,50%,1,1,0,Group Stage:  Elimination (B)
+542203,233421,ct,nephh,10698,Breach,12010,Singapore,1.45,151,4,1,5,+3,88%,74,50%,1,1,0,Group Stage:  Elimination (B)
+542203,233421,ct,Monyet,8497,Omen,878,Indonesia,1.26,234,10,8,6,+2,75%,140,35%,3,1,+2,Group Stage:  Elimination (B)
+542203,233421,ct,crazyguy,1430,Breach,878,Vietnam,1.39,231,10,6,4,+4,75%,161,48%,1,1,0,Group Stage:  Elimination (B)
+542203,233421,ct,Jemkin,24895,Waylay,878,Russia,1.02,193,9,7,2,+2,83%,117,25%,1,1,0,Group Stage:  Elimination (B)
+542203,233421,ct,xffero,4871,Cypher,878,Indonesia,0.84,175,7,8,6,-1,83%,111,25%,1,0,+1,Group Stage:  Elimination (B)
+542203,233421,ct,Kushy,4866,Fade,878,Indonesia,0.51,173,8,10,0,-2,58%,110,35%,0,3,-3,Group Stage:  Elimination (B)
+542203,233422,t,nephh,10698,Omen,12010,Singapore,1.81,341,14,9,3,+5,67%,203,26%,2,1,+1,Group Stage:  Elimination (B)
+542203,233422,t,Knight,4774,Fade,12010,China,0.81,120,5,8,5,-3,75%,91,25%,0,2,-2,Group Stage:  Elimination (B)
+542203,233422,t,whzy,4885,Raze,12010,China,0.70,199,8,11,1,-3,58%,128,32%,2,2,0,Group Stage:  Elimination (B)
+542203,233422,t,Levius,40845,Vyse,12010,China,0.90,202,9,9,1,0,67%,140,25%,1,1,0,Group Stage:  Elimination (B)
+542203,233422,t,rushia,48878,Viper,12010,China,0.26,112,3,11,2,-8,58%,87,22%,1,0,+1,Group Stage:  Elimination (B)
+542203,233422,t,Monyet,8497,Raze,878,Indonesia,1.40,295,10,6,1,+4,67%,187,33%,0,1,-1,Group Stage:  Elimination (B)
+542203,233422,t,crazyguy,1430,Omen,878,Vietnam,0.74,152,5,6,2,-1,67%,120,14%,1,2,-1,Group Stage:  Elimination (B)
+542203,233422,t,xffero,4871,Viper,878,Indonesia,1.21,229,7,6,2,+1,67%,147,24%,3,1,+2,Group Stage:  Elimination (B)
+542203,233422,t,Kushy,4866,Fade,878,Indonesia,1.35,222,7,5,2,+2,78%,140,58%,1,0,+1,Group Stage:  Elimination (B)
+542203,233422,t,Jemkin,24895,Yoru,878,Russia,0.48,77,3,5,0,-2,67%,57,29%,0,0,0,Group Stage:  Elimination (B)
+542203,233422,ct,nephh,10698,Omen,12010,Singapore,0.56,118,4,5,3,-1,78%,66,7%,1,2,-1,Group Stage:  Elimination (B)
+542203,233422,ct,Knight,4774,Fade,12010,China,1.39,246,8,6,5,+2,67%,171,44%,0,0,0,Group Stage:  Elimination (B)
+542203,233422,ct,whzy,4885,Raze,12010,China,1.00,158,5,6,3,-1,78%,102,36%,0,0,0,Group Stage:  Elimination (B)
+542203,233422,ct,Levius,40845,Vyse,12010,China,0.73,144,4,7,3,-3,78%,93,31%,0,0,0,Group Stage:  Elimination (B)
+542203,233422,ct,rushia,48878,Viper,12010,China,0.91,238,7,8,3,-1,67%,127,29%,3,3,0,Group Stage:  Elimination (B)
+542203,233422,ct,Monyet,8497,Raze,878,Indonesia,1.24,276,11,8,4,+3,83%,177,15%,2,1,+1,Group Stage:  Elimination (B)
+542203,233422,ct,crazyguy,1430,Omen,878,Vietnam,1.47,242,10,7,9,+3,83%,171,33%,1,0,+1,Group Stage:  Elimination (B)
+542203,233422,ct,xffero,4871,Viper,878,Indonesia,1.08,210,9,7,3,+2,75%,112,21%,1,2,-1,Group Stage:  Elimination (B)
+542203,233422,ct,Kushy,4866,Fade,878,Indonesia,0.69,143,8,9,1,-1,75%,105,22%,0,2,-2,Group Stage:  Elimination (B)
+542203,233422,ct,Jemkin,24895,Yoru,878,Russia,1.00,204,10,8,1,+2,58%,120,33%,2,1,+1,Group Stage:  Elimination (B)
+542203,233423,t,nephh,10698,Omen,12010,Singapore,0.43,170,2,5,2,-3,40%,119,7%,0,1,-1,Group Stage:  Elimination (B)
+542203,233423,t,Levius,40845,Vyse,12010,China,0.53,131,2,4,0,-2,40%,96,29%,0,0,0,Group Stage:  Elimination (B)
+542203,233423,t,Knight,4774,Sova,12010,China,0.13,79,0,5,0,-5,,79,0%,0,1,-1,Group Stage:  Elimination (B)
+542203,233423,t,rushia,48878,Harbor,12010,China,0.21,89,2,5,1,-3,40%,42,100%,0,1,-1,Group Stage:  Elimination (B)
+542203,233423,t,whzy,4885,Yoru,12010,China,0.06,112,1,5,1,-4,40%,83,11%,0,2,-2,Group Stage:  Elimination (B)
+542203,233423,t,Jemkin,24895,Jett,878,Russia,1.83,367,15,8,3,+7,92%,248,55%,6,0,+6,Group Stage:  Elimination (B)
+542203,233423,t,xffero,4871,Cypher,878,Indonesia,1.47,254,12,6,1,+6,67%,167,35%,1,1,0,Group Stage:  Elimination (B)
+542203,233423,t,Monyet,8497,Omen,878,Indonesia,1.06,182,8,6,4,+2,75%,124,32%,0,1,-1,Group Stage:  Elimination (B)
+542203,233423,t,Kushy,4866,Kayo,878,Indonesia,0.94,138,4,7,15,-3,83%,87,24%,1,2,-1,Group Stage:  Elimination (B)
+542203,233423,t,crazyguy,1430,Sova,878,Vietnam,1.00,132,6,6,5,0,75%,88,25%,0,0,0,Group Stage:  Elimination (B)
+542203,233423,ct,nephh,10698,Omen,12010,Singapore,1.03,189,8,7,1,+1,50%,116,19%,0,0,0,Group Stage:  Elimination (B)
+542203,233423,ct,Levius,40845,Vyse,12010,China,0.91,156,7,7,2,0,58%,108,50%,1,2,-1,Group Stage:  Elimination (B)
+542203,233423,ct,Knight,4774,Sova,12010,China,0.89,164,8,9,2,-1,67%,95,13%,1,2,-1,Group Stage:  Elimination (B)
+542203,233423,ct,rushia,48878,Harbor,12010,China,0.80,188,6,11,3,-5,58%,156,25%,1,1,0,Group Stage:  Elimination (B)
+542203,233423,ct,whzy,4885,Yoru,12010,China,0.31,110,4,11,3,-7,58%,75,16%,1,3,-2,Group Stage:  Elimination (B)
+542203,233423,ct,Jemkin,24895,Jett,878,Russia,2.69,560,11,2,1,+9,100%,346,50%,2,0,+2,Group Stage:  Elimination (B)
+542203,233423,ct,xffero,4871,Cypher,878,Indonesia,1.42,81,2,0,2,+2,100%,45,50%,0,0,0,Group Stage:  Elimination (B)
+542203,233423,ct,Monyet,8497,Omen,878,Indonesia,2.04,270,5,1,8,+4,100%,147,40%,1,0,+1,Group Stage:  Elimination (B)
+542203,233423,ct,Kushy,4866,Kayo,878,Indonesia,1.97,306,5,2,5,+3,100%,165,21%,2,0,+2,Group Stage:  Elimination (B)
+542203,233423,ct,crazyguy,1430,Sova,878,Vietnam,1.04,111,1,2,3,-1,80%,84,0%,0,0,0,Group Stage:  Elimination (B)
+542214,233451,t,leaf,7873,Viper,11058,United States,1.34,225,10,8,3,+2,75%,165,31%,0,1,-1,Group Stage:  Elimination (D)
+542214,233451,t,JonahP,4581,Fade,11058,Canada,0.96,225,9,10,2,-1,75%,136,24%,1,1,0,Group Stage:  Elimination (D)
+542214,233451,t,jawgemo,3993,Yoru,11058,Cambodia,0.69,184,7,10,3,-3,67%,122,35%,2,3,-1,Group Stage:  Elimination (D)
+542214,233451,t,valyn,3885,Omen,11058,United States,0.77,135,5,8,3,-3,75%,90,24%,0,2,-2,Group Stage:  Elimination (D)
+542214,233451,t,trent,15500,Tejo,11058,United States,0.70,138,5,9,5,-4,67%,102,25%,0,2,-2,Group Stage:  Elimination (D)
+542214,233451,t,Akeman,52904,Waylay,11981,China,0.48,96,3,8,0,-5,63%,77,20%,0,0,0,Group Stage:  Elimination (D)
+542214,233451,t,Flex1n,4705,Omen,11981,China,0.99,244,6,7,3,-1,63%,170,38%,1,2,-1,Group Stage:  Elimination (D)
+542214,233451,t,Demon1,26171,Vyse,11981,Russia,0.61,118,4,7,1,-3,63%,60,43%,1,1,0,Group Stage:  Elimination (D)
+542214,233451,t,SpiritZ1,31753,Yoru,11981,Taiwan,0.40,121,3,7,1,-4,38%,89,33%,0,0,0,Group Stage:  Elimination (D)
+542214,233451,t,Nicc,11524,Breach,11981,Taiwan,0.04,23,0,7,1,-7,50%,23,33%,0,3,-3,Group Stage:  Elimination (D)
+542214,233451,ct,leaf,7873,Viper,11058,United States,1.97,427,13,4,3,+9,75%,237,25%,2,0,+2,Group Stage:  Elimination (D)
+542214,233451,ct,JonahP,4581,Fade,11058,Canada,1.37,198,6,3,3,+3,88%,108,7%,0,0,0,Group Stage:  Elimination (D)
+542214,233451,ct,jawgemo,3993,Yoru,11058,Cambodia,1.72,320,9,4,3,+5,88%,203,40%,4,0,+4,Group Stage:  Elimination (D)
+542214,233451,ct,valyn,3885,Omen,11058,United States,1.49,183,6,2,3,+4,100%,126,44%,0,0,0,Group Stage:  Elimination (D)
+542214,233451,ct,trent,15500,Tejo,11058,United States,0.81,81,2,3,3,-1,88%,78,27%,0,2,-2,Group Stage:  Elimination (D)
+542214,233451,ct,Akeman,52904,Waylay,11981,China,1.70,385,17,7,0,+10,75%,214,38%,5,0,+5,Group Stage:  Elimination (D)
+542214,233451,ct,Flex1n,4705,Omen,11981,China,0.75,151,6,7,7,-1,83%,90,35%,1,0,+1,Group Stage:  Elimination (D)
+542214,233451,ct,Demon1,26171,Vyse,11981,Russia,0.90,160,7,6,1,+1,92%,109,32%,0,0,0,Group Stage:  Elimination (D)
+542214,233451,ct,SpiritZ1,31753,Yoru,11981,Taiwan,0.90,254,10,10,4,0,83%,154,21%,3,2,+1,Group Stage:  Elimination (D)
+542214,233451,ct,Nicc,11524,Breach,11981,Taiwan,0.80,134,5,6,6,-1,67%,99,33%,0,1,-1,Group Stage:  Elimination (D)
+542214,233452,t,jawgemo,3993,Yoru,11058,Cambodia,1.53,331,10,5,3,+5,75%,204,27%,1,3,-2,Group Stage:  Elimination (D)
+542214,233452,t,trent,15500,Tejo,11058,United States,2.49,388,12,2,4,+10,100%,290,34%,1,0,+1,Group Stage:  Elimination (D)
+542214,233452,t,JonahP,4581,Sova,11058,Canada,2.22,338,12,3,4,+9,88%,233,42%,2,1,+1,Group Stage:  Elimination (D)
+542214,233452,t,leaf,7873,Deadlock,11058,United States,0.84,134,4,5,2,-1,75%,106,6%,0,0,0,Group Stage:  Elimination (D)
+542214,233452,t,valyn,3885,Astra,11058,United States,0.37,73,1,6,4,-5,63%,51,29%,0,0,0,Group Stage:  Elimination (D)
+542214,233452,t,Demon1,26171,Cypher,11981,Russia,1.82,288,12,5,3,+7,92%,199,52%,1,1,0,Group Stage:  Elimination (D)
+542214,233452,t,Flex1n,4705,Omen,11981,China,1.20,233,10,8,6,+2,100%,154,35%,2,0,+2,Group Stage:  Elimination (D)
+542214,233452,t,SpiritZ1,31753,Yoru,11981,Taiwan,0.68,156,7,9,1,-2,75%,99,22%,2,3,-1,Group Stage:  Elimination (D)
+542214,233452,t,Akeman,52904,Waylay,11981,China,0.98,195,9,8,0,+1,67%,134,21%,2,1,+1,Group Stage:  Elimination (D)
+542214,233452,t,Nicc,11524,Sova,11981,Taiwan,0.64,152,7,10,1,-3,75%,95,43%,0,0,0,Group Stage:  Elimination (D)
+542214,233452,ct,jawgemo,3993,Yoru,11058,Cambodia,1.55,308,13,8,6,+5,83%,193,39%,2,3,-1,Group Stage:  Elimination (D)
+542214,233452,ct,trent,15500,Tejo,11058,United States,0.73,129,7,8,3,-1,58%,81,21%,0,1,-1,Group Stage:  Elimination (D)
+542214,233452,ct,JonahP,4581,Sova,11058,Canada,0.44,87,2,10,6,-8,67%,71,11%,1,1,0,Group Stage:  Elimination (D)
+542214,233452,ct,leaf,7873,Deadlock,11058,United States,0.78,167,8,10,1,-2,75%,120,19%,1,1,0,Group Stage:  Elimination (D)
+542214,233452,ct,valyn,3885,Astra,11058,United States,1.01,228,10,9,3,+1,75%,144,25%,1,1,0,Group Stage:  Elimination (D)
+542214,233452,ct,Demon1,26171,Cypher,11981,Russia,0.23,81,2,8,4,-6,63%,53,60%,0,0,0,Group Stage:  Elimination (D)
+542214,233452,ct,Flex1n,4705,Omen,11981,China,0.99,235,7,7,0,0,63%,139,26%,1,0,+1,Group Stage:  Elimination (D)
+542214,233452,ct,SpiritZ1,31753,Yoru,11981,Taiwan,0.92,264,7,8,2,-1,63%,140,43%,3,2,+1,Group Stage:  Elimination (D)
+542214,233452,ct,Akeman,52904,Waylay,11981,China,0.34,94,2,8,3,-6,50%,71,43%,0,1,-1,Group Stage:  Elimination (D)
+542214,233452,ct,Nicc,11524,Sova,11981,Taiwan,0.48,151,3,8,4,-5,75%,146,25%,0,1,-1,Group Stage:  Elimination (D)
+542210,233439,t,MaKo,4462,Omen,8185,South Korea,1.49,251,9,3,1,+6,89%,175,32%,2,0,+2,Group Stage:  Decider (C)
+542210,233439,t,Flashback,35013,Yoru,8185,South Korea,1.71,409,13,6,2,+7,78%,259,40%,4,1,+3,Group Stage:  Decider (C)
+542210,233439,t,HYUNMIN,28400,Waylay,8185,South Korea,0.96,191,5,6,4,-1,78%,118,32%,2,0,+2,Group Stage:  Decider (C)
+542210,233439,t,BeYN,4678,Fade,8185,South Korea,1.34,160,6,2,1,+4,100%,110,45%,0,0,0,Group Stage:  Decider (C)
+542210,233439,t,free1ng,1916,Vyse,8185,South Korea,0.94,71,3,2,0,+1,78%,62,60%,0,0,0,Group Stage:  Decider (C)
+542210,233439,t,keiko,11494,Omen,474,United Kingdom,1.18,232,11,9,2,+2,83%,163,48%,0,0,0,Group Stage:  Decider (C)
+542210,233439,t,trexx,2168,Vyse,474,Russia,1.41,200,8,6,5,+2,75%,133,37%,0,0,0,Group Stage:  Decider (C)
+542210,233439,t,kamo,14681,Neon,474,Poland,1.24,167,7,5,3,+2,83%,127,36%,2,3,-1,Group Stage:  Decider (C)
+542210,233439,t,nAts,457,Waylay,474,Russia,1.04,243,10,9,3,+1,67%,149,17%,4,3,+1,Group Stage:  Decider (C)
+542210,233439,t,paTiTek,309,Fade,474,Poland,0.83,164,7,9,4,-2,75%,98,40%,0,0,0,Group Stage:  Decider (C)
+542210,233439,ct,MaKo,4462,Omen,8185,South Korea,1.21,265,11,9,5,+2,67%,179,36%,0,0,0,Group Stage:  Decider (C)
+542210,233439,ct,Flashback,35013,Yoru,8185,South Korea,0.92,187,9,8,0,+1,67%,135,35%,2,2,0,Group Stage:  Decider (C)
+542210,233439,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.79,178,8,8,1,0,83%,115,50%,0,1,-1,Group Stage:  Decider (C)
+542210,233439,ct,BeYN,4678,Fade,8185,South Korea,0.48,116,4,9,3,-5,58%,72,11%,3,1,+2,Group Stage:  Decider (C)
+542210,233439,ct,free1ng,1916,Vyse,8185,South Korea,0.74,140,6,9,3,-3,75%,101,53%,1,2,-1,Group Stage:  Decider (C)
+542210,233439,ct,keiko,11494,Omen,474,United Kingdom,1.39,238,7,7,3,0,67%,147,29%,0,2,-2,Group Stage:  Decider (C)
+542210,233439,ct,trexx,2168,Vyse,474,Russia,0.56,118,2,7,3,-5,33%,88,13%,0,1,-1,Group Stage:  Decider (C)
+542210,233439,ct,kamo,14681,Neon,474,Poland,0.41,95,2,7,1,-5,56%,60,27%,0,3,-3,Group Stage:  Decider (C)
+542210,233439,ct,nAts,457,Waylay,474,Russia,0.42,131,4,8,0,-4,56%,96,15%,0,2,-2,Group Stage:  Decider (C)
+542210,233439,ct,paTiTek,309,Fade,474,Poland,0.67,158,4,7,2,-3,56%,103,13%,1,0,+1,Group Stage:  Decider (C)
+542210,233440,t,HYUNMIN,28400,Waylay,8185,South Korea,2.30,463,14,3,3,+11,75%,328,45%,2,2,0,Group Stage:  Decider (C)
+542210,233440,t,Flashback,35013,Yoru,8185,South Korea,1.71,283,8,3,1,+5,88%,186,29%,2,1,+1,Group Stage:  Decider (C)
+542210,233440,t,MaKo,4462,Omen,8185,South Korea,0.55,57,1,4,5,-3,75%,35,0%,0,1,-1,Group Stage:  Decider (C)
+542210,233440,t,free1ng,1916,Cypher,8185,South Korea,1.49,209,7,3,1,+4,75%,126,55%,0,0,0,Group Stage:  Decider (C)
+542210,233440,t,BeYN,4678,Sova,8185,South Korea,0.87,110,4,4,0,0,88%,77,30%,0,0,0,Group Stage:  Decider (C)
+542210,233440,t,keiko,11494,Omen,474,United Kingdom,1.31,250,11,8,4,+3,92%,169,33%,2,0,+2,Group Stage:  Decider (C)
+542210,233440,t,kamo,14681,Jett,474,Poland,1.59,285,13,7,1,+6,67%,205,46%,0,3,-3,Group Stage:  Decider (C)
+542210,233440,t,trexx,2168,Sova,474,Russia,1.03,206,8,8,0,0,75%,129,21%,0,1,-1,Group Stage:  Decider (C)
+542210,233440,t,nAts,457,Cypher,474,Russia,0.70,210,9,10,2,-1,58%,135,32%,3,3,0,Group Stage:  Decider (C)
+542210,233440,t,paTiTek,309,Kayo,474,Poland,0.31,79,3,9,2,-6,58%,58,57%,0,0,0,Group Stage:  Decider (C)
+542210,233440,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.92,232,10,11,2,-1,58%,151,45%,3,2,+1,Group Stage:  Decider (C)
+542210,233440,ct,Flashback,35013,Yoru,8185,South Korea,1.11,240,10,9,2,+1,58%,162,29%,1,1,0,Group Stage:  Decider (C)
+542210,233440,ct,MaKo,4462,Omen,8185,South Korea,1.39,240,10,7,3,+3,75%,138,31%,2,1,+1,Group Stage:  Decider (C)
+542210,233440,ct,free1ng,1916,Cypher,8185,South Korea,0.55,143,6,10,2,-4,67%,100,42%,0,0,0,Group Stage:  Decider (C)
+542210,233440,ct,BeYN,4678,Sova,8185,South Korea,0.85,140,6,7,2,-1,67%,86,33%,1,1,0,Group Stage:  Decider (C)
+542210,233440,ct,keiko,11494,Omen,474,United Kingdom,1.05,265,7,7,2,0,63%,147,25%,3,2,+1,Group Stage:  Decider (C)
+542210,233440,ct,kamo,14681,Jett,474,Poland,0.32,93,3,7,0,-4,38%,44,40%,1,1,0,Group Stage:  Decider (C)
+542210,233440,ct,trexx,2168,Sova,474,Russia,0.68,134,4,7,0,-3,50%,98,40%,0,0,0,Group Stage:  Decider (C)
+542210,233440,ct,nAts,457,Cypher,474,Russia,0.58,133,2,7,5,-5,63%,103,31%,0,1,-1,Group Stage:  Decider (C)
+542210,233440,ct,paTiTek,309,Kayo,474,Poland,0.35,64,1,6,3,-5,63%,42,40%,0,0,0,Group Stage:  Decider (C)
+542199,233409,t,ara,11332,Raze,14419,Romania,1.67,323,16,9,2,+7,77%,210,42%,3,1,+2,Group Stage:  Decider (A)
+542199,233409,t,westside,34684,Deadlock,14419,Poland,0.86,192,8,11,5,-3,69%,124,21%,3,1,+2,Group Stage:  Decider (A)
+542199,233409,t,grubinho,5550,Astra,14419,Poland,0.83,146,7,9,3,-2,69%,116,33%,1,3,-2,Group Stage:  Decider (A)
+542199,233409,t,Cloud,4181,Gekko,14419,Russia,0.97,209,9,11,4,-2,77%,151,43%,0,1,-1,Group Stage:  Decider (A)
+542199,233409,t,Flickless,6959,Viper,14419,Belgium,0.83,145,7,9,3,-2,62%,103,41%,0,0,0,Group Stage:  Decider (A)
+542199,233409,t,Viva,36415,Brimstone,13581,China,1.09,188,8,8,4,0,69%,151,42%,1,2,-1,Group Stage:  Decider (A)
+542199,233409,t,happywei,37927,Viper,13581,Taiwan,1.29,271,12,7,3,+5,77%,186,36%,1,3,-2,Group Stage:  Decider (A)
+542199,233409,t,NoMan,11527,Skye,13581,Hong Kong,1.18,199,12,7,0,+5,69%,117,26%,1,2,-1,Group Stage:  Decider (A)
+542199,233409,t,Rarga,22047,Waylay,13581,Russia,1.00,238,11,9,4,+2,77%,130,23%,2,1,+1,Group Stage:  Decider (A)
+542199,233409,t,coconut,12365,Gekko,13581,Hong Kong,0.94,150,6,8,4,-2,85%,97,15%,0,0,0,Group Stage:  Decider (A)
+542199,233409,ct,ara,11332,Raze,14419,Romania,1.24,272,11,10,1,+1,46%,159,20%,4,0,+4,Group Stage:  Decider (A)
+542199,233409,ct,westside,34684,Deadlock,14419,Poland,1.10,201,10,9,2,+1,69%,125,50%,0,0,0,Group Stage:  Decider (A)
+542199,233409,ct,grubinho,5550,Astra,14419,Poland,1.12,213,9,10,7,-1,69%,132,38%,3,1,+2,Group Stage:  Decider (A)
+542199,233409,ct,Cloud,4181,Gekko,14419,Russia,0.68,159,7,10,2,-3,46%,116,44%,0,1,-1,Group Stage:  Decider (A)
+542199,233409,ct,Flickless,6959,Viper,14419,Belgium,0.31,73,2,10,6,-8,62%,52,0%,1,3,-2,Group Stage:  Decider (A)
+542199,233409,ct,Viva,36415,Brimstone,13581,China,1.66,308,15,7,5,+8,92%,208,35%,0,0,0,Group Stage:  Decider (A)
+542199,233409,ct,happywei,37927,Viper,13581,Taiwan,0.89,262,12,12,1,0,69%,153,54%,1,1,0,Group Stage:  Decider (A)
+542199,233409,ct,NoMan,11527,Skye,13581,Hong Kong,0.86,156,7,7,6,0,77%,111,21%,0,3,-3,Group Stage:  Decider (A)
+542199,233409,ct,Rarga,22047,Waylay,13581,Russia,0.87,227,10,11,4,-1,69%,143,39%,5,2,+3,Group Stage:  Decider (A)
+542199,233409,ct,coconut,12365,Gekko,13581,Hong Kong,0.49,117,5,10,4,-5,62%,79,27%,0,1,-1,Group Stage:  Decider (A)
+542199,233410,t,ara,11332,Jett,14419,Romania,1.42,298,13,8,1,+5,58%,175,22%,4,3,+1,Group Stage:  Decider (A)
+542199,233410,t,Flickless,6959,Kayo,14419,Belgium,1.13,202,7,7,8,0,75%,132,25%,0,1,-1,Group Stage:  Decider (A)
+542199,233410,t,Cloud,4181,Sova,14419,Russia,0.67,141,5,9,5,-4,67%,101,26%,0,0,0,Group Stage:  Decider (A)
+542199,233410,t,westside,34684,Cypher,14419,Poland,0.80,144,6,9,0,-3,75%,84,45%,1,3,-2,Group Stage:  Decider (A)
+542199,233410,t,grubinho,5550,Omen,14419,Poland,0.86,133,5,8,9,-3,58%,69,55%,0,0,0,Group Stage:  Decider (A)
+542199,233410,t,NoMan,11527,Kayo,13581,Hong Kong,1.06,228,9,10,4,-1,73%,127,30%,2,1,+1,Group Stage:  Decider (A)
+542199,233410,t,Viva,36415,Sova,13581,China,1.03,147,6,8,2,-2,64%,107,28%,1,0,+1,Group Stage:  Decider (A)
+542199,233410,t,Rarga,22047,Jett,13581,Russia,0.86,222,7,10,4,-3,73%,139,23%,2,0,+2,Group Stage:  Decider (A)
+542199,233410,t,happywei,37927,Cypher,13581,Taiwan,0.64,133,5,9,2,-4,64%,97,38%,0,4,-4,Group Stage:  Decider (A)
+542199,233410,t,coconut,12365,Omen,13581,Hong Kong,0.08,51,1,10,5,-9,73%,34,29%,0,1,-1,Group Stage:  Decider (A)
+542199,233410,ct,ara,11332,Jett,14419,Romania,1.84,327,14,4,0,+10,91%,207,15%,2,2,0,Group Stage:  Decider (A)
+542199,233410,ct,Flickless,6959,Kayo,14419,Belgium,1.56,247,9,4,10,+5,91%,153,30%,1,0,+1,Group Stage:  Decider (A)
+542199,233410,ct,Cloud,4181,Sova,14419,Russia,1.65,317,12,6,4,+6,91%,216,29%,0,2,-2,Group Stage:  Decider (A)
+542199,233410,ct,westside,34684,Cypher,14419,Poland,1.20,157,8,5,3,+3,82%,102,54%,1,0,+1,Group Stage:  Decider (A)
+542199,233410,ct,grubinho,5550,Omen,14419,Poland,0.34,127,4,9,7,-5,73%,87,42%,2,1,+1,Group Stage:  Decider (A)
+542199,233410,ct,NoMan,11527,Kayo,13581,Hong Kong,1.60,278,12,6,5,+6,83%,169,38%,2,0,+2,Group Stage:  Decider (A)
+542199,233410,ct,Viva,36415,Sova,13581,China,1.36,209,8,4,2,+4,75%,147,32%,1,0,+1,Group Stage:  Decider (A)
+542199,233410,ct,Rarga,22047,Jett,13581,Russia,0.75,233,9,10,1,-1,58%,143,56%,2,0,+2,Group Stage:  Decider (A)
+542199,233410,ct,happywei,37927,Cypher,13581,Taiwan,0.57,135,5,9,4,-4,58%,88,54%,1,4,-3,Group Stage:  Decider (A)
+542199,233410,ct,coconut,12365,Omen,13581,Hong Kong,0.85,148,7,7,2,0,67%,97,19%,1,1,0,Group Stage:  Decider (A)
+542215,233454,t,iZu,29833,Yoru,14,South Korea,1.42,265,12,8,1,+4,83%,184,38%,0,0,0,Group Stage:  Decider (D)
+542215,233454,t,Meteor,13039,Vyse,14,South Korea,0.66,130,5,10,1,-5,50%,90,10%,3,1,+2,Group Stage:  Decider (D)
+542215,233454,t,stax,485,Fade,14,South Korea,0.34,109,4,9,3,-5,58%,73,14%,0,3,-3,Group Stage:  Decider (D)
+542215,233454,t,BuZz,804,Neon,14,South Korea,0.62,217,9,11,0,-2,67%,130,63%,1,1,0,Group Stage:  Decider (D)
+542215,233454,t,DH,43057,Omen,14,South Korea,0.58,157,6,10,4,-4,58%,97,37%,1,2,-1,Group Stage:  Decider (D)
+542215,233454,t,valyn,3885,Omen,11058,United States,1.22,210,7,7,5,0,90%,140,19%,2,0,+2,Group Stage:  Decider (D)
+542215,233454,t,leaf,7873,Viper,11058,United States,1.00,155,5,6,3,-1,70%,117,22%,0,2,-2,Group Stage:  Decider (D)
+542215,233454,t,jawgemo,3993,Yoru,11058,Cambodia,0.98,251,9,8,0,+1,60%,150,35%,1,1,0,Group Stage:  Decider (D)
+542215,233454,t,trent,15500,Tejo,11058,United States,1.03,183,6,7,4,-1,90%,121,19%,1,1,0,Group Stage:  Decider (D)
+542215,233454,t,JonahP,4581,Fade,11058,Canada,0.79,157,5,8,6,-3,60%,96,29%,0,2,-2,Group Stage:  Decider (D)
+542215,233454,ct,iZu,29833,Yoru,14,South Korea,1.42,230,9,4,0,+5,90%,130,0%,2,0,+2,Group Stage:  Decider (D)
+542215,233454,ct,Meteor,13039,Vyse,14,South Korea,1.48,345,11,8,5,+3,90%,218,40%,4,0,+4,Group Stage:  Decider (D)
+542215,233454,ct,stax,485,Fade,14,South Korea,0.99,170,8,7,3,+1,70%,100,36%,0,1,-1,Group Stage:  Decider (D)
+542215,233454,ct,BuZz,804,Neon,14,South Korea,0.64,170,6,7,2,-1,70%,120,32%,0,1,-1,Group Stage:  Decider (D)
+542215,233454,ct,DH,43057,Omen,14,South Korea,0.55,79,2,6,4,-4,60%,57,25%,0,2,-2,Group Stage:  Decider (D)
+542215,233454,ct,valyn,3885,Omen,11058,United States,1.62,346,14,8,5,+6,83%,218,42%,2,2,0,Group Stage:  Decider (D)
+542215,233454,ct,leaf,7873,Viper,11058,United States,1.39,242,11,6,3,+5,83%,172,18%,1,0,+1,Group Stage:  Decider (D)
+542215,233454,ct,jawgemo,3993,Yoru,11058,Cambodia,1.39,301,14,9,1,+5,75%,173,33%,3,1,+2,Group Stage:  Decider (D)
+542215,233454,ct,trent,15500,Tejo,11058,United States,0.91,134,6,6,4,0,75%,98,35%,0,2,-2,Group Stage:  Decider (D)
+542215,233454,ct,JonahP,4581,Fade,11058,Canada,0.83,111,3,7,7,-4,92%,80,8%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,t,stax,485,Fade,14,South Korea,1.31,252,8,6,2,+2,67%,185,56%,0,0,0,Group Stage:  Decider (D)
+542215,233455,t,DH,43057,Omen,14,South Korea,0.79,149,5,7,5,-2,67%,110,47%,0,1,-1,Group Stage:  Decider (D)
+542215,233455,t,iZu,29833,Waylay,14,South Korea,0.46,161,5,8,0,-3,56%,100,36%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,t,Meteor,13039,Vyse,14,South Korea,0.75,203,6,8,1,-2,67%,139,50%,1,2,-1,Group Stage:  Decider (D)
+542215,233455,t,BuZz,804,Neon,14,South Korea,0.28,101,3,8,4,-5,89%,59,8%,1,3,-2,Group Stage:  Decider (D)
+542215,233455,t,trent,15500,Tejo,11058,United States,1.17,124,5,5,3,0,75%,91,46%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,t,jawgemo,3993,Yoru,11058,Cambodia,1.32,245,11,6,2,+5,67%,143,43%,5,2,+3,Group Stage:  Decider (D)
+542215,233455,t,leaf,7873,Viper,11058,United States,1.14,274,12,7,3,+5,67%,176,18%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,t,valyn,3885,Omen,11058,United States,1.26,230,10,6,3,+4,92%,150,23%,1,1,0,Group Stage:  Decider (D)
+542215,233455,t,JonahP,4581,Fade,11058,Canada,1.07,181,8,6,7,+2,75%,88,15%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,ct,stax,485,Fade,14,South Korea,0.61,105,4,10,1,-6,50%,77,40%,0,0,0,Group Stage:  Decider (D)
+542215,233455,ct,DH,43057,Omen,14,South Korea,0.82,150,6,8,3,-2,67%,89,29%,0,3,-3,Group Stage:  Decider (D)
+542215,233455,ct,iZu,29833,Waylay,14,South Korea,0.95,209,9,9,1,0,50%,116,15%,0,4,-4,Group Stage:  Decider (D)
+542215,233455,ct,Meteor,13039,Vyse,14,South Korea,0.69,182,6,10,0,-4,42%,131,30%,3,1,+2,Group Stage:  Decider (D)
+542215,233455,ct,BuZz,804,Neon,14,South Korea,0.72,128,5,9,3,-4,50%,88,33%,0,1,-1,Group Stage:  Decider (D)
+542215,233455,ct,trent,15500,Tejo,11058,United States,1.87,375,13,6,3,+7,89%,218,31%,0,1,-1,Group Stage:  Decider (D)
+542215,233455,ct,jawgemo,3993,Yoru,11058,Cambodia,1.40,237,8,6,4,+2,89%,137,15%,2,0,+2,Group Stage:  Decider (D)
+542215,233455,ct,leaf,7873,Viper,11058,United States,1.28,203,7,5,2,+2,78%,146,20%,1,0,+1,Group Stage:  Decider (D)
+542215,233455,ct,valyn,3885,Omen,11058,United States,0.91,179,4,6,5,-2,89%,123,26%,3,1,+2,Group Stage:  Decider (D)
+542215,233455,ct,JonahP,4581,Fade,11058,Canada,1.08,135,5,4,3,+1,78%,85,13%,0,1,-1,Group Stage:  Decider (D)
+542204,233424,t,artzin,5957,Kayo,7386,Brazil,1.40,276,10,7,6,+3,75%,169,12%,2,1,+1,Group Stage:  Decider (B)
+542204,233424,t,aspas,8480,Waylay,7386,Brazil,1.77,326,16,6,2,+10,100%,201,28%,3,0,+3,Group Stage:  Decider (B)
+542204,233424,t,cortezia,5395,Viper,7386,Brazil,1.56,264,12,5,3,+7,83%,166,50%,1,0,+1,Group Stage:  Decider (B)
+542204,233424,t,Verno,21668,Sova,7386,United States,1.06,160,7,6,5,+1,83%,102,35%,2,1,+1,Group Stage:  Decider (B)
+542204,233424,t,xenom,20240,Omen,7386,Brazil,0.74,124,4,6,7,-2,92%,76,45%,1,1,0,Group Stage:  Decider (B)
+542204,233424,t,Monyet,8497,Neon,878,Indonesia,0.81,152,3,4,2,-1,50%,93,25%,0,3,-3,Group Stage:  Decider (B)
+542204,233424,t,Kushy,4866,Fade,878,Indonesia,0.78,142,3,4,0,-1,50%,84,75%,0,0,0,Group Stage:  Decider (B)
+542204,233424,t,crazyguy,1430,Omen,878,Vietnam,0.74,100,2,4,2,-2,67%,77,33%,0,0,0,Group Stage:  Decider (B)
+542204,233424,t,Jemkin,24895,Waylay,878,Russia,0.52,116,2,5,0,-3,50%,80,60%,1,1,0,Group Stage:  Decider (B)
+542204,233424,t,xffero,4871,Viper,878,Indonesia,0.76,110,2,4,0,-2,33%,88,9%,1,0,+1,Group Stage:  Decider (B)
+542204,233424,ct,artzin,5957,Kayo,7386,Brazil,2.53,484,11,2,3,+9,83%,299,41%,2,0,+2,Group Stage:  Decider (B)
+542204,233424,ct,aspas,8480,Waylay,7386,Brazil,0.99,135,3,2,0,+1,83%,93,60%,1,0,+1,Group Stage:  Decider (B)
+542204,233424,ct,cortezia,5395,Viper,7386,Brazil,0.89,81,1,3,7,-2,67%,53,20%,0,1,-1,Group Stage:  Decider (B)
+542204,233424,ct,Verno,21668,Sova,7386,United States,0.83,123,2,3,1,-1,67%,81,14%,0,0,0,Group Stage:  Decider (B)
+542204,233424,ct,xenom,20240,Omen,7386,Brazil,1.06,158,4,2,1,+2,83%,104,43%,1,1,0,Group Stage:  Decider (B)
+542204,233424,ct,Monyet,8497,Neon,878,Indonesia,1.01,220,9,10,5,-1,75%,131,26%,1,1,0,Group Stage:  Decider (B)
+542204,233424,ct,Kushy,4866,Fade,878,Indonesia,0.84,166,7,9,3,-2,67%,113,41%,0,3,-3,Group Stage:  Decider (B)
+542204,233424,ct,crazyguy,1430,Omen,878,Vietnam,0.52,122,4,11,3,-7,58%,84,46%,1,1,0,Group Stage:  Decider (B)
+542204,233424,ct,Jemkin,24895,Waylay,878,Russia,0.53,102,4,9,2,-5,50%,68,21%,0,2,-2,Group Stage:  Decider (B)
+542204,233424,ct,xffero,4871,Viper,878,Indonesia,0.40,124,6,10,1,-4,75%,87,29%,1,2,-1,Group Stage:  Decider (B)
+542204,233425,t,xenom,20240,Astra,7386,Brazil,1.70,177,5,1,1,+4,100%,85,38%,0,0,0,Group Stage:  Decider (B)
+542204,233425,t,aspas,8480,Jett,7386,Brazil,1.24,250,5,2,1,+3,83%,161,56%,0,0,0,Group Stage:  Decider (B)
+542204,233425,t,Verno,21668,Sova,7386,United States,1.03,97,2,2,1,0,83%,78,8%,0,0,0,Group Stage:  Decider (B)
+542204,233425,t,cortezia,5395,Cypher,7386,Brazil,1.50,302,7,4,2,+3,83%,178,78%,1,0,+1,Group Stage:  Decider (B)
+542204,233425,t,artzin,5957,Kayo,7386,Brazil,0.95,175,3,4,3,-1,83%,108,45%,3,2,+1,Group Stage:  Decider (B)
+542204,233425,t,Jemkin,24895,Jett,878,Russia,1.46,315,13,8,1,+5,50%,199,56%,2,4,-2,Group Stage:  Decider (B)
+542204,233425,t,xffero,4871,Cypher,878,Indonesia,1.43,273,12,9,1,+3,75%,187,39%,3,0,+3,Group Stage:  Decider (B)
+542204,233425,t,Monyet,8497,Omen,878,Indonesia,0.62,106,4,10,6,-6,58%,82,33%,0,1,-1,Group Stage:  Decider (B)
+542204,233425,t,crazyguy,1430,Sova,878,Vietnam,0.81,179,5,9,7,-4,67%,130,14%,0,0,0,Group Stage:  Decider (B)
+542204,233425,t,Kushy,4866,Kayo,878,Indonesia,0.20,46,1,10,5,-9,50%,25,20%,0,2,-2,Group Stage:  Decider (B)
+542204,233425,ct,xenom,20240,Astra,7386,Brazil,1.31,202,10,7,4,+3,75%,144,50%,0,0,0,Group Stage:  Decider (B)
+542204,233425,ct,aspas,8480,Jett,7386,Brazil,1.53,247,12,4,1,+8,83%,161,6%,3,1,+2,Group Stage:  Decider (B)
+542204,233425,ct,Verno,21668,Sova,7386,United States,1.27,264,11,8,4,+3,75%,194,24%,2,0,+2,Group Stage:  Decider (B)
+542204,233425,ct,cortezia,5395,Cypher,7386,Brazil,0.97,178,7,7,3,0,83%,110,19%,1,2,-1,Group Stage:  Decider (B)
+542204,233425,ct,artzin,5957,Kayo,7386,Brazil,0.69,164,6,9,9,-3,58%,94,12%,1,2,-1,Group Stage:  Decider (B)
+542204,233425,ct,Jemkin,24895,Jett,878,Russia,0.52,128,2,5,1,-3,33%,89,25%,1,0,+1,Group Stage:  Decider (B)
+542204,233425,ct,xffero,4871,Cypher,878,Indonesia,0.38,139,3,5,1,-2,67%,96,33%,1,2,-1,Group Stage:  Decider (B)
+542204,233425,ct,Monyet,8497,Omen,878,Indonesia,0.92,158,4,4,1,0,67%,113,40%,0,0,0,Group Stage:  Decider (B)
+542204,233425,ct,crazyguy,1430,Sova,878,Vietnam,0.32,86,1,5,1,-4,50%,65,0%,0,2,-2,Group Stage:  Decider (B)
+542204,233425,ct,Kushy,4866,Kayo,878,Indonesia,0.58,144,3,6,0,-3,50%,93,36%,0,0,0,Group Stage:  Decider (B)
+542265,233460,t,something,17086,Yoru,624,Russia,0.82,168,8,9,0,-1,50%,109,35%,0,3,-3,Playoffs:  Upper Quarterfinals
+542265,233460,t,Jinggg,7378,Raze,624,Singapore,1.29,262,10,8,2,+2,58%,163,13%,2,2,0,Playoffs:  Upper Quarterfinals
+542265,233460,t,d4v41,9803,Vyse,624,Malaysia,0.93,132,5,6,2,-1,75%,106,32%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233460,t,f0rsakeN,9801,Omen,624,Indonesia,0.87,204,8,10,5,-2,67%,127,42%,1,4,-3,Playoffs:  Upper Quarterfinals
+542265,233460,t,PatMen,13744,Fade,624,Philippines,0.78,172,7,9,1,-2,50%,99,29%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233460,t,jawgemo,3993,Yoru,11058,Cambodia,1.19,311,13,11,0,+2,67%,193,26%,4,2,+2,Playoffs:  Upper Quarterfinals
+542265,233460,t,JonahP,4581,Fade,11058,Canada,1.18,228,10,9,1,+1,50%,127,40%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233460,t,leaf,7873,Viper,11058,United States,0.68,169,7,10,1,-3,75%,101,9%,1,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,t,valyn,3885,Omen,11058,United States,0.72,129,5,9,2,-4,67%,103,20%,1,0,+1,Playoffs:  Upper Quarterfinals
+542265,233460,t,trent,15500,Tejo,11058,United States,0.63,96,5,8,1,-3,75%,75,36%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,something,17086,Yoru,624,Russia,1.60,269,12,6,3,+6,83%,162,13%,3,2,+1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,Jinggg,7378,Raze,624,Singapore,1.10,232,10,9,4,+1,83%,153,26%,2,1,+1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,d4v41,9803,Vyse,624,Malaysia,1.08,252,10,9,6,+1,75%,168,39%,1,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,ct,f0rsakeN,9801,Omen,624,Indonesia,0.83,153,6,8,7,-2,75%,102,23%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,PatMen,13744,Fade,624,Philippines,0.82,181,9,8,2,+1,58%,122,32%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,jawgemo,3993,Yoru,11058,Cambodia,1.56,282,12,6,2,+6,83%,174,12%,4,0,+4,Playoffs:  Upper Quarterfinals
+542265,233460,ct,JonahP,4581,Fade,11058,Canada,0.97,203,7,8,4,-1,92%,134,18%,1,0,+1,Playoffs:  Upper Quarterfinals
+542265,233460,ct,leaf,7873,Viper,11058,United States,1.41,293,12,8,7,+4,75%,200,14%,3,0,+3,Playoffs:  Upper Quarterfinals
+542265,233460,ct,valyn,3885,Omen,11058,United States,0.98,210,9,8,1,+1,75%,139,35%,1,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,ct,trent,15500,Tejo,11058,United States,0.30,49,2,8,1,-6,50%,38,29%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233461,t,something,17086,Yoru,624,Russia,1.44,300,14,10,5,+4,86%,185,36%,1,0,+1,Playoffs:  Upper Quarterfinals
+542265,233461,t,PatMen,13744,Fade,624,Philippines,1.03,167,8,9,5,-1,71%,99,47%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233461,t,Jinggg,7378,Raze,624,Singapore,0.91,206,10,11,2,-1,79%,122,5%,1,4,-3,Playoffs:  Upper Quarterfinals
+542265,233461,t,f0rsakeN,9801,Omen,624,Indonesia,0.53,137,7,12,6,-5,57%,81,10%,0,4,-4,Playoffs:  Upper Quarterfinals
+542265,233461,t,d4v41,9803,Vyse,624,Malaysia,0.52,119,5,11,2,-6,36%,74,50%,0,4,-4,Playoffs:  Upper Quarterfinals
+542265,233461,t,JonahP,4581,Fade,11058,Canada,0.93,247,11,13,4,-2,79%,136,20%,2,1,+1,Playoffs:  Upper Quarterfinals
+542265,233461,t,leaf,7873,Viper,11058,United States,1.51,278,14,10,2,+4,71%,181,38%,3,0,+3,Playoffs:  Upper Quarterfinals
+542265,233461,t,trent,15500,Tejo,11058,United States,0.81,176,8,11,4,-3,71%,115,24%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233461,t,jawgemo,3993,Yoru,11058,Cambodia,0.95,162,8,10,2,-2,64%,116,40%,0,3,-3,Playoffs:  Upper Quarterfinals
+542265,233461,t,valyn,3885,Omen,11058,United States,0.26,84,3,12,6,-9,64%,59,15%,0,4,-4,Playoffs:  Upper Quarterfinals
+542265,233461,ct,something,17086,Yoru,624,Russia,1.26,272,14,9,0,+5,79%,165,39%,5,3,+2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,PatMen,13744,Fade,624,Philippines,1.17,251,13,8,1,+5,71%,164,26%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233461,ct,Jinggg,7378,Raze,624,Singapore,0.96,208,8,8,2,0,86%,152,14%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,f0rsakeN,9801,Omen,624,Indonesia,1.26,236,13,10,5,+3,86%,171,44%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,d4v41,9803,Vyse,624,Malaysia,0.92,178,8,9,6,-1,71%,123,27%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,JonahP,4581,Fade,11058,Canada,1.53,314,15,9,5,+6,79%,191,29%,7,2,+5,Playoffs:  Upper Quarterfinals
+542265,233461,ct,leaf,7873,Viper,11058,United States,0.80,174,8,9,3,-1,71%,133,26%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,trent,15500,Tejo,11058,United States,1.36,280,13,9,4,+4,64%,177,30%,1,0,+1,Playoffs:  Upper Quarterfinals
+542265,233461,ct,jawgemo,3993,Yoru,11058,Cambodia,0.64,125,6,10,1,-4,57%,77,24%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233461,ct,valyn,3885,Omen,11058,United States,1.23,197,11,7,5,+4,86%,136,16%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,t,f0rsakeN,9801,Omen,624,Indonesia,1.92,351,16,7,6,+9,83%,221,32%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233462,t,something,17086,Yoru,624,Russia,1.22,244,10,8,5,+2,75%,181,34%,1,2,-1,Playoffs:  Upper Quarterfinals
+542265,233462,t,Jinggg,7378,Sage,624,Singapore,1.13,267,12,9,8,+3,92%,165,31%,2,1,+1,Playoffs:  Upper Quarterfinals
+542265,233462,t,d4v41,9803,Vyse,624,Malaysia,1.07,216,9,8,6,+1,83%,155,41%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233462,t,PatMen,13744,Sova,624,Philippines,0.76,165,8,9,2,-1,75%,118,15%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233462,t,leaf,7873,Chamber,11058,United States,1.99,410,17,7,2,+10,75%,276,32%,4,3,+1,Playoffs:  Upper Quarterfinals
+542265,233462,t,trent,15500,Sova,11058,United States,0.82,84,3,5,2,-2,75%,63,0%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233462,t,valyn,3885,Omen,11058,United States,0.90,142,6,6,3,0,75%,96,22%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,t,JonahP,4581,Vyse,11058,Canada,0.48,119,5,9,1,-4,67%,74,21%,0,2,-2,Playoffs:  Upper Quarterfinals
+542265,233462,t,jawgemo,3993,Yoru,11058,Cambodia,1.26,222,10,7,3,+3,83%,152,21%,2,0,+2,Playoffs:  Upper Quarterfinals
+542265,233462,ct,f0rsakeN,9801,Omen,624,Indonesia,1.54,269,12,7,1,+5,67%,177,42%,3,1,+2,Playoffs:  Upper Quarterfinals
+542265,233462,ct,something,17086,Yoru,624,Russia,1.40,224,10,6,1,+4,83%,124,33%,3,3,0,Playoffs:  Upper Quarterfinals
+542265,233462,ct,Jinggg,7378,Sage,624,Singapore,0.48,119,4,9,1,-5,50%,73,17%,0,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,ct,d4v41,9803,Vyse,624,Malaysia,0.53,202,7,11,1,-4,75%,147,16%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233462,ct,PatMen,13744,Sova,624,Philippines,0.32,46,1,8,1,-7,50%,38,0%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233462,ct,leaf,7873,Chamber,11058,United States,1.24,316,13,12,1,+1,83%,201,15%,4,1,+3,Playoffs:  Upper Quarterfinals
+542265,233462,ct,trent,15500,Sova,11058,United States,1.13,229,10,10,4,0,67%,149,24%,1,0,+1,Playoffs:  Upper Quarterfinals
+542265,233462,ct,valyn,3885,Omen,11058,United States,0.73,143,5,10,8,-5,50%,99,21%,0,1,-1,Playoffs:  Upper Quarterfinals
+542265,233462,ct,JonahP,4581,Vyse,11058,Canada,1.05,250,9,11,5,-2,58%,158,20%,1,1,0,Playoffs:  Upper Quarterfinals
+542265,233462,ct,jawgemo,3993,Yoru,11058,Cambodia,0.24,131,4,12,0,-8,50%,92,33%,1,2,-1,Playoffs:  Upper Quarterfinals
+542264,233457,t,kaajak,9554,Yoru,2593,Poland,1.88,331,14,4,3,+10,92%,222,31%,2,1,+1,Playoffs:  Upper Quarterfinals
+542264,233457,t,Alfajer,9810,Killjoy,2593,Turkey,1.89,375,18,6,0,+12,100%,293,44%,3,1,+2,Playoffs:  Upper Quarterfinals
+542264,233457,t,crashies,4,Sova,2593,United States,1.71,230,12,3,4,+9,92%,153,39%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233457,t,Boaster,438,Omen,2593,United Kingdom,0.89,107,4,5,3,-1,83%,76,24%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233457,t,Chronicle,458,Viper,2593,Russia,0.85,118,5,6,6,-1,83%,85,30%,0,2,-2,Playoffs:  Upper Quarterfinals
+542264,233457,t,BeYN,4678,Sova,8185,South Korea,1.77,204,10,2,4,+8,100%,134,25%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233457,t,MaKo,4462,Omen,8185,South Korea,1.36,260,10,5,4,+5,83%,168,17%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233457,t,HYUNMIN,28400,Waylay,8185,South Korea,1.34,247,10,7,7,+3,83%,169,26%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233457,t,Flashback,35013,Neon,8185,South Korea,0.94,204,9,8,0,+1,83%,128,35%,5,2,+3,Playoffs:  Upper Quarterfinals
+542264,233457,t,free1ng,1916,Cypher,8185,South Korea,1.05,192,9,7,3,+2,75%,124,39%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233457,ct,kaajak,9554,Yoru,2593,Poland,1.11,199,8,8,2,0,58%,145,32%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233457,ct,Alfajer,9810,Killjoy,2593,Turkey,1.08,193,7,6,2,+1,50%,120,24%,1,2,-1,Playoffs:  Upper Quarterfinals
+542264,233457,ct,crashies,4,Sova,2593,United States,0.37,141,4,11,1,-7,42%,100,8%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233457,ct,Boaster,438,Omen,2593,United Kingdom,0.45,145,6,12,3,-6,58%,65,36%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233457,ct,Chronicle,458,Viper,2593,Russia,0.38,130,4,11,1,-7,50%,104,14%,2,3,-1,Playoffs:  Upper Quarterfinals
+542264,233457,ct,BeYN,4678,Sova,8185,South Korea,0.59,160,5,11,3,-6,50%,122,13%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233457,ct,MaKo,4462,Omen,8185,South Korea,0.70,132,5,9,2,-4,50%,89,33%,1,3,-2,Playoffs:  Upper Quarterfinals
+542264,233457,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.41,112,4,10,1,-6,58%,79,70%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233457,ct,Flashback,35013,Neon,8185,South Korea,0.64,189,7,11,1,-4,58%,114,13%,3,1,+2,Playoffs:  Upper Quarterfinals
+542264,233457,ct,free1ng,1916,Cypher,8185,South Korea,0.16,79,3,12,0,-9,33%,56,38%,0,2,-2,Playoffs:  Upper Quarterfinals
+542264,233458,t,Chronicle,458,Vyse,2593,Russia,1.27,241,9,8,6,+1,67%,153,21%,2,1,+1,Playoffs:  Upper Quarterfinals
+542264,233458,t,Alfajer,9810,Sage,2593,Turkey,1.31,246,12,8,4,+4,75%,142,50%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233458,t,kaajak,9554,Yoru,2593,Poland,0.89,206,8,10,5,-2,67%,150,29%,2,3,-1,Playoffs:  Upper Quarterfinals
+542264,233458,t,Boaster,438,Omen,2593,United Kingdom,0.86,141,5,8,8,-3,67%,68,33%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233458,t,crashies,4,Sova,2593,United States,1.06,161,8,7,3,+1,75%,117,27%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233458,t,MaKo,4462,Omen,8185,South Korea,0.99,119,4,4,4,0,78%,82,43%,1,2,-1,Playoffs:  Upper Quarterfinals
+542264,233458,t,Flashback,35013,Yoru,8185,South Korea,1.49,258,9,5,1,+4,78%,172,29%,2,0,+2,Playoffs:  Upper Quarterfinals
+542264,233458,t,BeYN,4678,Sova,8185,South Korea,1.09,166,4,4,4,0,78%,129,25%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,t,HYUNMIN,28400,Waylay,8185,South Korea,1.28,265,8,5,2,+3,89%,168,39%,1,3,-2,Playoffs:  Upper Quarterfinals
+542264,233458,t,free1ng,1916,Vyse,8185,South Korea,0.69,163,5,8,1,-3,56%,111,31%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,ct,Chronicle,458,Vyse,2593,Russia,1.33,269,8,6,2,+2,67%,175,36%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233458,ct,Alfajer,9810,Sage,2593,Turkey,1.02,201,7,6,0,+1,56%,143,31%,2,3,-1,Playoffs:  Upper Quarterfinals
+542264,233458,ct,kaajak,9554,Yoru,2593,Poland,1.38,227,8,4,0,+4,78%,138,40%,2,0,+2,Playoffs:  Upper Quarterfinals
+542264,233458,ct,Boaster,438,Omen,2593,United Kingdom,0.56,151,3,7,3,-4,56%,103,9%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,ct,crashies,4,Sova,2593,United States,0.11,31,0,7,1,-7,44%,31,0%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,ct,MaKo,4462,Omen,8185,South Korea,1.42,283,12,7,5,+5,67%,165,15%,2,1,+1,Playoffs:  Upper Quarterfinals
+542264,233458,ct,Flashback,35013,Yoru,8185,South Korea,0.96,241,9,9,3,0,75%,162,21%,2,1,+1,Playoffs:  Upper Quarterfinals
+542264,233458,ct,BeYN,4678,Sova,8185,South Korea,0.98,179,7,8,3,-1,67%,137,23%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233458,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.69,193,8,10,1,-2,83%,124,35%,1,2,-1,Playoffs:  Upper Quarterfinals
+542264,233458,ct,free1ng,1916,Vyse,8185,South Korea,0.71,113,5,8,1,-3,58%,71,25%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233459,t,Alfajer,9810,Killjoy,2593,Turkey,1.77,310,13,6,5,+7,83%,215,33%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233459,t,kaajak,9554,Raze,2593,Poland,0.94,138,5,6,3,-1,67%,87,11%,1,2,-1,Playoffs:  Upper Quarterfinals
+542264,233459,t,crashies,4,Fade,2593,United States,0.70,131,6,8,2,-2,58%,72,50%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233459,t,Boaster,438,Omen,2593,United Kingdom,1.23,173,8,6,6,+2,75%,100,10%,1,4,-3,Playoffs:  Upper Quarterfinals
+542264,233459,t,Chronicle,458,Viper,2593,Russia,0.74,134,5,9,6,-4,75%,122,25%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233459,t,HYUNMIN,28400,Waylay,8185,South Korea,0.75,243,5,6,0,-1,50%,140,33%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233459,t,Flashback,35013,Yoru,8185,South Korea,0.45,203,4,6,0,-2,33%,139,25%,0,3,-3,Playoffs:  Upper Quarterfinals
+542264,233459,t,free1ng,1916,Vyse,8185,South Korea,0.48,155,3,6,0,-3,50%,109,67%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233459,t,BeYN,4678,Fade,8185,South Korea,0.63,128,3,5,0,-2,50%,104,33%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233459,t,MaKo,4462,Omen,8185,South Korea,0.19,58,1,6,1,-5,67%,38,75%,0,1,-1,Playoffs:  Upper Quarterfinals
+542264,233459,ct,Alfajer,9810,Killjoy,2593,Turkey,1.73,358,7,4,4,+3,100%,239,47%,2,0,+2,Playoffs:  Upper Quarterfinals
+542264,233459,ct,kaajak,9554,Raze,2593,Poland,2.31,336,9,1,2,+8,100%,211,55%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233459,ct,crashies,4,Fade,2593,United States,1.78,289,7,3,2,+4,100%,184,36%,2,0,+2,Playoffs:  Upper Quarterfinals
+542264,233459,ct,Boaster,438,Omen,2593,United Kingdom,0.49,86,1,4,3,-3,100%,58,6%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233459,ct,Chronicle,458,Viper,2593,Russia,1.07,201,5,4,2,+1,83%,133,23%,0,0,0,Playoffs:  Upper Quarterfinals
+542264,233459,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.11,160,8,6,0,+2,83%,102,44%,1,0,+1,Playoffs:  Upper Quarterfinals
+542264,233459,ct,Flashback,35013,Yoru,8185,South Korea,1.16,259,11,8,4,+3,75%,159,16%,2,0,+2,Playoffs:  Upper Quarterfinals
+542264,233459,ct,free1ng,1916,Vyse,8185,South Korea,0.91,125,5,6,4,-1,67%,93,35%,1,1,0,Playoffs:  Upper Quarterfinals
+542264,233459,ct,BeYN,4678,Fade,8185,South Korea,0.75,147,6,8,2,-2,67%,78,21%,2,2,0,Playoffs:  Upper Quarterfinals
+542264,233459,ct,MaKo,4462,Omen,8185,South Korea,0.64,145,5,9,1,-4,75%,96,20%,2,1,+1,Playoffs:  Upper Quarterfinals
+542266,233463,t,RieNs,10971,Fade,1001,Turkey,1.18,242,10,9,4,+1,85%,164,14%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233463,t,MiniBoo,18350,Yoru,1001,Lithuania,0.99,191,9,8,1,+1,54%,134,33%,2,3,-1,Playoffs:  Upper Quarterfinals
+542266,233463,t,Wo0t,21328,Viper,1001,Turkey,1.09,241,10,10,2,0,85%,170,26%,4,0,+4,Playoffs:  Upper Quarterfinals
+542266,233463,t,Boo,1144,Astra,1001,Lithuania,0.39,77,3,10,1,-7,69%,51,36%,1,1,0,Playoffs:  Upper Quarterfinals
+542266,233463,t,benjyfishy,29873,Vyse,1001,England,0.83,152,7,10,7,-3,77%,105,17%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233463,t,artzin,5957,Kayo,7386,Brazil,1.79,273,11,5,11,+6,85%,186,27%,3,1,+2,Playoffs:  Upper Quarterfinals
+542266,233463,t,xenom,20240,Omen,7386,Brazil,1.15,174,8,7,8,+1,85%,98,27%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233463,t,aspas,8480,Waylay,7386,Brazil,1.03,216,11,8,3,+3,85%,123,20%,3,2,+1,Playoffs:  Upper Quarterfinals
+542266,233463,t,Verno,21668,Sova,7386,United States,1.08,229,11,8,5,+3,85%,159,31%,1,0,+1,Playoffs:  Upper Quarterfinals
+542266,233463,t,cortezia,5395,Viper,7386,Brazil,0.72,102,6,7,2,-1,69%,72,40%,0,3,-3,Playoffs:  Upper Quarterfinals
+542266,233463,ct,RieNs,10971,Fade,1001,Turkey,1.25,196,8,7,6,+1,77%,129,40%,0,1,-1,Playoffs:  Upper Quarterfinals
+542266,233463,ct,MiniBoo,18350,Yoru,1001,Lithuania,0.93,205,9,11,1,-2,62%,144,39%,3,0,+3,Playoffs:  Upper Quarterfinals
+542266,233463,ct,Wo0t,21328,Viper,1001,Turkey,0.54,152,6,12,1,-6,46%,102,42%,0,4,-4,Playoffs:  Upper Quarterfinals
+542266,233463,ct,Boo,1144,Astra,1001,Lithuania,0.97,181,8,8,3,0,69%,127,48%,2,2,0,Playoffs:  Upper Quarterfinals
+542266,233463,ct,benjyfishy,29873,Vyse,1001,England,0.47,104,4,9,2,-5,54%,83,38%,1,0,+1,Playoffs:  Upper Quarterfinals
+542266,233463,ct,artzin,5957,Kayo,7386,Brazil,1.44,288,13,7,4,+6,69%,184,19%,1,2,-1,Playoffs:  Upper Quarterfinals
+542266,233463,ct,xenom,20240,Omen,7386,Brazil,0.91,203,9,9,5,0,77%,143,32%,0,4,-4,Playoffs:  Upper Quarterfinals
+542266,233463,ct,aspas,8480,Waylay,7386,Brazil,0.96,169,8,7,1,+1,85%,110,42%,1,2,-1,Playoffs:  Upper Quarterfinals
+542266,233463,ct,Verno,21668,Sova,7386,United States,0.80,200,8,9,7,-1,62%,137,25%,0,1,-1,Playoffs:  Upper Quarterfinals
+542266,233463,ct,cortezia,5395,Viper,7386,Brazil,0.89,169,9,7,1,+2,85%,102,13%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,t,RieNs,10971,Sova,1001,Turkey,1.35,303,11,10,3,+1,58%,191,30%,1,1,0,Playoffs:  Upper Quarterfinals
+542266,233464,t,benjyfishy,29873,Vyse,1001,England,0.48,111,5,11,1,-6,50%,62,23%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,t,Wo0t,21328,Viper,1001,Turkey,0.72,191,7,11,3,-4,83%,120,14%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,t,Boo,1144,Omen,1001,Lithuania,0.28,54,2,10,3,-8,33%,24,13%,1,4,-3,Playoffs:  Upper Quarterfinals
+542266,233464,t,MiniBoo,18350,Yoru,1001,Lithuania,0.13,80,3,11,0,-8,25%,63,36%,0,5,-5,Playoffs:  Upper Quarterfinals
+542266,233464,t,aspas,8480,Neon,7386,Brazil,1.35,241,5,3,3,+2,86%,189,54%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,t,cortezia,5395,Cypher,7386,Brazil,1.31,259,8,4,1,+4,86%,147,17%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,t,Verno,21668,Sova,7386,United States,0.89,183,5,4,1,+1,86%,122,50%,1,2,-1,Playoffs:  Upper Quarterfinals
+542266,233464,t,artzin,5957,Viper,7386,Brazil,1.23,279,7,5,2,+2,71%,176,19%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,t,xenom,20240,Omen,7386,Brazil,0.68,147,4,5,2,-1,57%,109,22%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,ct,RieNs,10971,Sova,1001,Turkey,0.44,80,1,6,2,-5,57%,59,22%,0,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,ct,benjyfishy,29873,Vyse,1001,England,1.40,302,7,7,1,0,71%,181,50%,0,1,-1,Playoffs:  Upper Quarterfinals
+542266,233464,ct,Wo0t,21328,Viper,1001,Turkey,0.69,156,4,6,0,-2,43%,88,33%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,ct,Boo,1144,Omen,1001,Lithuania,0.75,175,4,5,2,-1,57%,107,55%,0,1,-1,Playoffs:  Upper Quarterfinals
+542266,233464,ct,MiniBoo,18350,Yoru,1001,Lithuania,0.83,164,5,5,0,0,43%,117,20%,0,3,-3,Playoffs:  Upper Quarterfinals
+542266,233464,ct,aspas,8480,Neon,7386,Brazil,1.51,310,14,7,2,+7,92%,182,13%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,ct,cortezia,5395,Cypher,7386,Brazil,1.49,204,10,4,3,+6,83%,173,72%,2,1,+1,Playoffs:  Upper Quarterfinals
+542266,233464,ct,Verno,21668,Sova,7386,United States,1.47,265,12,6,4,+6,83%,172,16%,1,1,0,Playoffs:  Upper Quarterfinals
+542266,233464,ct,artzin,5957,Viper,7386,Brazil,1.15,224,8,7,8,+1,92%,137,22%,2,0,+2,Playoffs:  Upper Quarterfinals
+542266,233464,ct,xenom,20240,Omen,7386,Brazil,1.29,190,9,4,7,+5,92%,115,21%,3,0,+3,Playoffs:  Upper Quarterfinals
+542267,233466,t,brawk,2172,Sova,1034,United States,2.22,298,14,1,8,+13,92%,176,13%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233466,t,mada,5132,Neon,1034,Canada,1.72,318,15,5,2,+10,83%,191,23%,3,1,+2,Playoffs:  Upper Quarterfinals
+542267,233466,t,s0m,4164,Viper,1034,United States,1.19,253,10,9,5,+1,92%,179,25%,2,3,-1,Playoffs:  Upper Quarterfinals
+542267,233466,t,Ethan,11225,Omen,1034,United States,1.10,134,6,4,6,+2,92%,89,15%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233466,t,skuba,11118,Killjoy,1034,United States,0.82,97,4,4,3,0,75%,66,18%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233466,t,grubinho,5550,Omen,14419,Poland,0.26,76,1,2,0,-1,50%,39,100%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,t,Cloud,4181,Sova,14419,Russia,0.55,82,0,2,3,-2,100%,57,33%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,t,westside,34684,Cypher,14419,Poland,0.61,168,1,2,1,-1,100%,95,33%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233466,t,Flickless,6959,Breach,14419,Belgium,0.37,105,1,2,1,-1,50%,78,100%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233466,t,ara,11332,Neon,14419,Romania,0.45,144,1,2,0,-1,100%,97,40%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,brawk,2172,Sova,1034,United States,3.48,486,4,0,0,+4,100%,330,22%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,mada,5132,Neon,1034,Canada,0.29,,0,1,0,-1,50%,,,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,s0m,4164,Viper,1034,United States,2.48,731,5,2,0,+3,100%,486,30%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233466,ct,Ethan,11225,Omen,1034,United States,0.62,103,1,1,1,0,100%,61,33%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233466,ct,skuba,11118,Killjoy,1034,United States,0.92,28,0,0,0,,100%,28,50%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,grubinho,5550,Omen,14419,Poland,0.86,199,9,10,4,-1,58%,129,37%,3,0,+3,Playoffs:  Upper Quarterfinals
+542267,233466,ct,Cloud,4181,Sova,14419,Russia,0.57,130,4,9,7,-5,67%,93,22%,0,2,-2,Playoffs:  Upper Quarterfinals
+542267,233466,ct,westside,34684,Cypher,14419,Poland,0.49,111,4,11,0,-7,33%,82,20%,1,1,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,Flickless,6959,Breach,14419,Belgium,0.49,123,3,9,6,-6,75%,96,28%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ct,ara,11332,Neon,14419,Romania,0.22,70,3,10,0,-7,58%,38,60%,2,3,-1,Playoffs:  Upper Quarterfinals
+542267,233467,t,skuba,11118,Viper,1034,United States,1.32,184,9,6,5,+3,83%,102,29%,0,3,-3,Playoffs:  Upper Quarterfinals
+542267,233467,t,mada,5132,Raze,1034,Canada,1.44,269,12,7,3,+5,83%,194,14%,2,0,+2,Playoffs:  Upper Quarterfinals
+542267,233467,t,s0m,4164,Omen,1034,United States,1.03,192,9,7,3,+2,92%,110,24%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233467,t,brawk,2172,Vyse,1034,United States,1.42,305,13,7,2,+6,83%,188,17%,2,2,0,Playoffs:  Upper Quarterfinals
+542267,233467,t,Ethan,11225,Fade,1034,United States,1.03,167,6,7,4,-1,83%,100,29%,2,0,+2,Playoffs:  Upper Quarterfinals
+542267,233467,t,Cloud,4181,Fade,14419,Russia,0.70,158,3,5,3,-2,100%,116,19%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233467,t,westside,34684,Cypher,14419,Poland,0.97,120,4,4,1,0,71%,88,38%,0,1,-1,Playoffs:  Upper Quarterfinals
+542267,233467,t,grubinho,5550,Omen,14419,Poland,1.62,302,8,5,2,+3,43%,196,47%,1,2,-1,Playoffs:  Upper Quarterfinals
+542267,233467,t,Flickless,6959,Viper,14419,Belgium,0.98,149,4,5,1,-1,43%,116,13%,0,0,0,Playoffs:  Upper Quarterfinals
+542267,233467,t,ara,11332,Raze,14419,Romania,0.01,36,0,7,2,-7,29%,36,20%,0,2,-2,Playoffs:  Upper Quarterfinals
+542267,233467,ct,skuba,11118,Viper,1034,United States,1.85,300,8,3,3,+5,100%,186,41%,2,0,+2,Playoffs:  Upper Quarterfinals
+542267,233467,ct,mada,5132,Raze,1034,Canada,1.59,271,7,4,1,+3,86%,147,14%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233467,ct,s0m,4164,Omen,1034,United States,1.39,221,5,3,8,+2,100%,136,19%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233467,ct,brawk,2172,Vyse,1034,United States,0.69,174,4,5,1,-1,57%,115,0%,1,1,0,Playoffs:  Upper Quarterfinals
+542267,233467,ct,Ethan,11225,Fade,1034,United States,0.71,123,2,4,3,-2,57%,93,25%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233467,ct,Cloud,4181,Fade,14419,Russia,1.39,253,11,8,4,+3,83%,147,27%,2,0,+2,Playoffs:  Upper Quarterfinals
+542267,233467,ct,westside,34684,Cypher,14419,Poland,1.23,252,11,10,1,+1,67%,174,45%,1,1,0,Playoffs:  Upper Quarterfinals
+542267,233467,ct,grubinho,5550,Omen,14419,Poland,0.27,141,6,12,1,-6,75%,75,22%,2,2,0,Playoffs:  Upper Quarterfinals
+542267,233467,ct,Flickless,6959,Viper,14419,Belgium,0.29,117,4,11,3,-7,67%,83,25%,1,0,+1,Playoffs:  Upper Quarterfinals
+542267,233467,ct,ara,11332,Raze,14419,Romania,0.30,48,2,8,0,-6,67%,39,0%,0,3,-3,Playoffs:  Upper Quarterfinals
+542273,233483,t,MaKo,4462,Omen,8185,South Korea,1.34,265,8,6,1,+2,50%,160,32%,2,1,+1,Playoffs:  Lower Round 1
+542273,233483,t,free1ng,1916,Vyse,8185,South Korea,0.47,122,3,7,2,-4,50%,79,17%,0,1,-1,Playoffs:  Lower Round 1
+542273,233483,t,Flashback,35013,Yoru,8185,South Korea,0.49,163,5,8,1,-3,50%,75,14%,1,1,0,Playoffs:  Lower Round 1
+542273,233483,t,HYUNMIN,28400,Waylay,8185,South Korea,0.66,117,3,6,2,-3,63%,79,33%,0,1,-1,Playoffs:  Lower Round 1
+542273,233483,t,BeYN,4678,Fade,8185,South Korea,0.43,65,2,6,1,-4,38%,46,11%,0,1,-1,Playoffs:  Lower Round 1
+542273,233483,t,jawgemo,3993,Yoru,11058,Cambodia,1.26,281,13,9,2,+4,67%,174,29%,3,1,+2,Playoffs:  Lower Round 1
+542273,233483,t,JonahP,4581,Fade,11058,Canada,1.21,191,7,5,5,+2,83%,113,15%,2,1,+1,Playoffs:  Lower Round 1
+542273,233483,t,valyn,3885,Omen,11058,United States,1.34,181,7,4,7,+3,83%,96,35%,2,0,+2,Playoffs:  Lower Round 1
+542273,233483,t,leaf,7873,Viper,11058,United States,1.00,189,8,8,5,0,58%,118,28%,1,0,+1,Playoffs:  Lower Round 1
+542273,233483,t,trent,15500,Tejo,11058,United States,0.79,171,7,8,1,-1,58%,104,33%,1,1,0,Playoffs:  Lower Round 1
+542273,233483,ct,MaKo,4462,Omen,8185,South Korea,1.18,229,10,8,4,+2,75%,129,27%,1,3,-2,Playoffs:  Lower Round 1
+542273,233483,ct,free1ng,1916,Vyse,8185,South Korea,1.31,292,12,8,2,+4,58%,176,29%,1,1,0,Playoffs:  Lower Round 1
+542273,233483,ct,Flashback,35013,Yoru,8185,South Korea,0.74,144,5,9,1,-4,50%,113,29%,1,3,-2,Playoffs:  Lower Round 1
+542273,233483,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.59,114,3,9,6,-6,67%,92,38%,0,2,-2,Playoffs:  Lower Round 1
+542273,233483,ct,BeYN,4678,Fade,8185,South Korea,0.59,76,3,8,2,-5,67%,57,23%,0,0,0,Playoffs:  Lower Round 1
+542273,233483,ct,jawgemo,3993,Yoru,11058,Cambodia,2.47,492,15,4,3,+11,88%,314,28%,3,0,+3,Playoffs:  Lower Round 1
+542273,233483,ct,JonahP,4581,Fade,11058,Canada,1.10,198,4,4,5,0,75%,125,12%,0,1,-1,Playoffs:  Lower Round 1
+542273,233483,ct,valyn,3885,Omen,11058,United States,0.90,101,3,4,6,-1,75%,56,10%,0,2,-2,Playoffs:  Lower Round 1
+542273,233483,ct,leaf,7873,Viper,11058,United States,0.98,166,3,5,6,-2,100%,117,25%,1,0,+1,Playoffs:  Lower Round 1
+542273,233483,ct,trent,15500,Tejo,11058,United States,1.28,265,8,4,1,+4,75%,222,50%,1,0,+1,Playoffs:  Lower Round 1
+542273,233484,t,HYUNMIN,28400,Waylay,8185,South Korea,2.11,394,18,6,5,+12,83%,243,47%,1,1,0,Playoffs:  Lower Round 1
+542273,233484,t,Flashback,35013,Yoru,8185,South Korea,1.32,261,12,7,3,+5,75%,154,28%,3,1,+2,Playoffs:  Lower Round 1
+542273,233484,t,MaKo,4462,Omen,8185,South Korea,1.02,234,10,9,7,+1,75%,126,15%,1,1,0,Playoffs:  Lower Round 1
+542273,233484,t,BeYN,4678,Sova,8185,South Korea,0.83,152,5,8,7,-3,83%,98,13%,2,1,+1,Playoffs:  Lower Round 1
+542273,233484,t,free1ng,1916,Cypher,8185,South Korea,0.52,80,4,7,1,-3,67%,53,13%,0,1,-1,Playoffs:  Lower Round 1
+542273,233484,t,trent,15500,Tejo,11058,United States,1.16,217,7,7,4,0,91%,164,45%,0,0,0,Playoffs:  Lower Round 1
+542273,233484,t,leaf,7873,Chamber,11058,United States,1.29,227,11,8,2,+3,82%,161,17%,3,1,+2,Playoffs:  Lower Round 1
+542273,233484,t,JonahP,4581,Sova,11058,Canada,1.36,242,11,6,4,+5,73%,134,11%,0,1,-1,Playoffs:  Lower Round 1
+542273,233484,t,valyn,3885,Astra,11058,United States,0.96,173,7,6,4,+1,82%,101,10%,0,0,0,Playoffs:  Lower Round 1
+542273,233484,t,jawgemo,3993,Yoru,11058,Cambodia,0.25,98,3,9,3,-6,55%,62,8%,1,5,-4,Playoffs:  Lower Round 1
+542273,233484,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.55,318,12,8,5,+4,91%,203,55%,2,1,+1,Playoffs:  Lower Round 1
+542273,233484,ct,Flashback,35013,Yoru,8185,South Korea,1.18,250,10,9,1,+1,73%,158,26%,1,0,+1,Playoffs:  Lower Round 1
+542273,233484,ct,MaKo,4462,Omen,8185,South Korea,1.03,192,8,7,2,+1,64%,121,64%,2,2,0,Playoffs:  Lower Round 1
+542273,233484,ct,BeYN,4678,Sova,8185,South Korea,0.62,140,4,8,4,-4,64%,99,60%,1,0,+1,Playoffs:  Lower Round 1
+542273,233484,ct,free1ng,1916,Cypher,8185,South Korea,0.28,43,2,7,2,-5,55%,14,25%,1,1,0,Playoffs:  Lower Round 1
+542273,233484,ct,trent,15500,Tejo,11058,United States,1.12,209,9,9,1,0,67%,149,50%,0,1,-1,Playoffs:  Lower Round 1
+542273,233484,ct,leaf,7873,Chamber,11058,United States,0.73,194,6,10,4,-4,58%,135,23%,1,1,0,Playoffs:  Lower Round 1
+542273,233484,ct,JonahP,4581,Sova,11058,Canada,0.55,126,4,9,4,-5,67%,75,21%,0,2,-2,Playoffs:  Lower Round 1
+542273,233484,ct,valyn,3885,Astra,11058,United States,0.75,167,7,10,1,-3,67%,109,58%,1,1,0,Playoffs:  Lower Round 1
+542273,233484,ct,jawgemo,3993,Yoru,11058,Cambodia,1.06,262,11,11,1,0,67%,163,52%,3,2,+1,Playoffs:  Lower Round 1
+542273,233485,t,MaKo,4462,Brimstone,8185,South Korea,0.94,137,4,5,4,-1,75%,92,33%,0,0,0,Playoffs:  Lower Round 1
+542273,233485,t,Flashback,35013,Yoru,8185,South Korea,1.39,261,7,5,0,+2,50%,148,31%,2,1,+1,Playoffs:  Lower Round 1
+542273,233485,t,HYUNMIN,28400,Waylay,8185,South Korea,1.06,186,5,5,0,0,50%,135,21%,0,2,-2,Playoffs:  Lower Round 1
+542273,233485,t,free1ng,1916,Viper,8185,South Korea,0.82,140,4,5,0,-1,63%,83,80%,1,1,0,Playoffs:  Lower Round 1
+542273,233485,t,BeYN,4678,Fade,8185,South Korea,0.46,83,2,6,3,-4,63%,45,10%,0,1,-1,Playoffs:  Lower Round 1
+542273,233485,t,valyn,3885,Brimstone,11058,United States,1.37,235,10,10,3,0,67%,148,23%,1,0,+1,Playoffs:  Lower Round 1
+542273,233485,t,jawgemo,3993,Yoru,11058,Cambodia,0.46,136,5,11,2,-6,58%,88,15%,1,0,+1,Playoffs:  Lower Round 1
+542273,233485,t,trent,15500,Tejo,11058,United States,0.65,175,7,11,1,-4,58%,104,41%,0,3,-3,Playoffs:  Lower Round 1
+542273,233485,t,leaf,7873,Deadlock,11058,United States,0.29,101,3,11,3,-8,50%,75,21%,0,5,-5,Playoffs:  Lower Round 1
+542273,233485,t,JonahP,4581,Fade,11058,Canada,0.32,78,2,11,4,-9,42%,50,23%,0,2,-2,Playoffs:  Lower Round 1
+542273,233485,ct,MaKo,4462,Brimstone,8185,South Korea,2.03,345,17,5,7,+12,92%,206,21%,3,0,+3,Playoffs:  Lower Round 1
+542273,233485,ct,Flashback,35013,Yoru,8185,South Korea,1.34,216,11,4,3,+7,83%,117,0%,3,2,+1,Playoffs:  Lower Round 1
+542273,233485,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.17,173,6,5,5,+1,92%,122,27%,1,0,+1,Playoffs:  Lower Round 1
+542273,233485,ct,free1ng,1916,Viper,8185,South Korea,1.23,238,10,6,7,+4,92%,156,32%,2,0,+2,Playoffs:  Lower Round 1
+542273,233485,ct,BeYN,4678,Fade,8185,South Korea,1.05,227,10,7,5,+3,83%,135,24%,1,0,+1,Playoffs:  Lower Round 1
+542273,233485,ct,valyn,3885,Brimstone,11058,United States,1.18,232,6,4,2,+2,88%,133,50%,1,0,+1,Playoffs:  Lower Round 1
+542273,233485,ct,jawgemo,3993,Yoru,11058,Cambodia,1.66,353,10,4,1,+6,88%,201,21%,4,1,+3,Playoffs:  Lower Round 1
+542273,233485,ct,trent,15500,Tejo,11058,United States,1.04,152,5,4,1,+1,88%,92,18%,0,0,0,Playoffs:  Lower Round 1
+542273,233485,ct,leaf,7873,Deadlock,11058,United States,0.66,175,5,6,3,-1,63%,103,18%,0,1,-1,Playoffs:  Lower Round 1
+542273,233485,ct,JonahP,4581,Fade,11058,Canada,0.42,39,0,4,2,-4,63%,36,11%,0,1,-1,Playoffs:  Lower Round 1
+542274,233486,t,RieNs,10971,Sova,1001,Turkey,3.05,478,10,1,0,+9,100%,283,21%,1,0,+1,Playoffs:  Lower Round 1
+542274,233486,t,MiniBoo,18350,Yoru,1001,Lithuania,1.29,250,5,2,1,+3,80%,156,10%,2,1,+1,Playoffs:  Lower Round 1
+542274,233486,t,Wo0t,21328,Jett,1001,Turkey,1.22,173,4,3,0,+1,100%,78,20%,0,0,0,Playoffs:  Lower Round 1
+542274,233486,t,benjyfishy,29873,Cypher,1001,England,1.11,152,3,2,1,+1,100%,98,15%,0,0,0,Playoffs:  Lower Round 1
+542274,233486,t,Boo,1144,Omen,1001,Lithuania,1.17,200,3,4,8,-1,100%,119,21%,0,1,-1,Playoffs:  Lower Round 1
+542274,233486,t,Flickless,6959,Kayo,14419,Belgium,1.15,196,9,10,7,-1,92%,121,31%,0,1,-1,Playoffs:  Lower Round 1
+542274,233486,t,ara,11332,Jett,14419,Romania,1.15,216,8,9,2,-1,67%,148,21%,1,3,-2,Playoffs:  Lower Round 1
+542274,233486,t,westside,34684,Cypher,14419,Poland,0.87,170,7,10,3,-3,67%,127,64%,1,3,-2,Playoffs:  Lower Round 1
+542274,233486,t,Cloud,4181,Sova,14419,Russia,0.74,113,5,9,3,-4,50%,66,33%,2,0,+2,Playoffs:  Lower Round 1
+542274,233486,t,grubinho,5550,Omen,14419,Poland,0.55,109,4,10,6,-6,67%,62,56%,0,1,-1,Playoffs:  Lower Round 1
+542274,233486,ct,RieNs,10971,Sova,1001,Turkey,1.33,298,13,7,4,+6,83%,200,46%,2,0,+2,Playoffs:  Lower Round 1
+542274,233486,ct,MiniBoo,18350,Yoru,1001,Lithuania,1.24,281,12,9,3,+3,75%,207,30%,3,2,+1,Playoffs:  Lower Round 1
+542274,233486,ct,Wo0t,21328,Jett,1001,Turkey,1.07,195,9,5,0,+4,75%,103,30%,1,1,0,Playoffs:  Lower Round 1
+542274,233486,ct,benjyfishy,29873,Cypher,1001,England,1.04,177,8,6,3,+2,92%,113,32%,1,0,+1,Playoffs:  Lower Round 1
+542274,233486,ct,Boo,1144,Omen,1001,Lithuania,0.96,141,6,6,8,0,83%,87,29%,1,1,0,Playoffs:  Lower Round 1
+542274,233486,ct,Flickless,6959,Kayo,14419,Belgium,0.61,221,4,5,1,-1,80%,107,11%,1,0,+1,Playoffs:  Lower Round 1
+542274,233486,ct,ara,11332,Jett,14419,Romania,0.46,113,2,5,2,-3,60%,112,60%,0,1,-1,Playoffs:  Lower Round 1
+542274,233486,ct,westside,34684,Cypher,14419,Poland,0.50,167,3,5,1,-2,60%,83,10%,0,0,0,Playoffs:  Lower Round 1
+542274,233486,ct,Cloud,4181,Sova,14419,Russia,0.59,241,3,5,1,-2,40%,175,17%,1,0,+1,Playoffs:  Lower Round 1
+542274,233486,ct,grubinho,5550,Omen,14419,Poland,0.03,15,0,5,3,-5,60%,,,0,2,-2,Playoffs:  Lower Round 1
+542274,233487,t,Wo0t,21328,Chamber,1001,Turkey,0.04,48,1,4,0,-3,25%,26,0%,0,2,-2,Playoffs:  Lower Round 1
+542274,233487,t,MiniBoo,18350,Raze,1001,Lithuania,0.06,79,1,4,0,-3,50%,43,17%,0,1,-1,Playoffs:  Lower Round 1
+542274,233487,t,benjyfishy,29873,Deadlock,1001,England,0.57,111,1,4,1,-3,50%,91,14%,0,0,0,Playoffs:  Lower Round 1
+542274,233487,t,Boo,1144,Omen,1001,Lithuania,0.05,46,0,4,0,-4,,46,33%,0,0,0,Playoffs:  Lower Round 1
+542274,233487,t,RieNs,10971,Fade,1001,Turkey,0.80,230,3,4,0,-1,50%,140,56%,0,1,-1,Playoffs:  Lower Round 1
+542274,233487,t,Flickless,6959,Viper,14419,Belgium,1.35,239,10,5,6,+5,92%,144,46%,0,1,-1,Playoffs:  Lower Round 1
+542274,233487,t,ara,11332,Raze,14419,Romania,1.34,303,11,9,4,+2,67%,192,24%,4,0,+4,Playoffs:  Lower Round 1
+542274,233487,t,westside,34684,Cypher,14419,Poland,1.00,183,9,7,3,+2,75%,110,35%,1,1,0,Playoffs:  Lower Round 1
+542274,233487,t,Cloud,4181,Fade,14419,Russia,1.36,214,10,5,4,+5,67%,127,29%,1,1,0,Playoffs:  Lower Round 1
+542274,233487,t,grubinho,5550,Omen,14419,Poland,1.12,178,8,6,4,+2,67%,130,28%,1,2,-1,Playoffs:  Lower Round 1
+542274,233487,ct,Wo0t,21328,Chamber,1001,Turkey,1.22,227,9,7,1,+2,58%,131,38%,3,3,0,Playoffs:  Lower Round 1
+542274,233487,ct,MiniBoo,18350,Raze,1001,Lithuania,0.94,219,10,10,1,0,58%,148,29%,2,1,+1,Playoffs:  Lower Round 1
+542274,233487,ct,benjyfishy,29873,Deadlock,1001,England,0.68,169,8,11,1,-3,67%,99,36%,0,0,0,Playoffs:  Lower Round 1
+542274,233487,ct,Boo,1144,Omen,1001,Lithuania,0.50,47,2,8,5,-6,42%,32,13%,0,1,-1,Playoffs:  Lower Round 1
+542274,233487,ct,RieNs,10971,Fade,1001,Turkey,0.24,104,3,12,3,-9,50%,73,36%,0,2,-2,Playoffs:  Lower Round 1
+542274,233487,ct,Flickless,6959,Viper,14419,Belgium,1.87,281,3,1,5,+2,100%,207,20%,1,0,+1,Playoffs:  Lower Round 1
+542274,233487,ct,ara,11332,Raze,14419,Romania,1.38,176,3,2,1,+1,100%,158,50%,1,0,+1,Playoffs:  Lower Round 1
+542274,233487,ct,westside,34684,Cypher,14419,Poland,2.36,347,7,0,0,+7,100%,178,27%,0,0,0,Playoffs:  Lower Round 1
+542274,233487,ct,Cloud,4181,Fade,14419,Russia,1.26,304,4,2,1,+2,75%,195,36%,1,0,+1,Playoffs:  Lower Round 1
+542274,233487,ct,grubinho,5550,Omen,14419,Poland,1.48,165,3,1,2,+2,100%,89,10%,1,0,+1,Playoffs:  Lower Round 1
+542274,233488,t,MiniBoo,18350,Waylay,1001,Lithuania,0.65,137,6,11,3,-5,50%,85,42%,0,4,-4,Playoffs:  Lower Round 1
+542274,233488,t,Boo,1144,Brimstone,1001,Lithuania,1.06,140,7,8,3,-1,75%,79,28%,0,1,-1,Playoffs:  Lower Round 1
+542274,233488,t,RieNs,10971,Fade,1001,Turkey,0.74,160,7,11,3,-4,58%,120,63%,1,1,0,Playoffs:  Lower Round 1
+542274,233488,t,benjyfishy,29873,Viper,1001,England,0.85,191,6,10,6,-4,58%,128,30%,1,2,-1,Playoffs:  Lower Round 1
+542274,233488,t,Wo0t,21328,Yoru,1001,Turkey,0.98,238,10,11,3,-1,83%,149,32%,0,2,-2,Playoffs:  Lower Round 1
+542274,233488,t,Cloud,4181,Gekko,14419,Russia,1.43,252,10,7,4,+3,70%,156,29%,0,0,0,Playoffs:  Lower Round 1
+542274,233488,t,westside,34684,Deadlock,14419,Poland,1.45,317,11,7,4,+4,60%,181,36%,2,2,0,Playoffs:  Lower Round 1
+542274,233488,t,Flickless,6959,Viper,14419,Belgium,0.76,226,7,9,2,-2,60%,147,9%,0,0,0,Playoffs:  Lower Round 1
+542274,233488,t,grubinho,5550,Astra,14419,Poland,0.49,127,4,9,4,-5,50%,80,11%,1,2,-1,Playoffs:  Lower Round 1
+542274,233488,t,ara,11332,Raze,14419,Romania,0.02,36,0,9,2,-9,40%,36,9%,0,3,-3,Playoffs:  Lower Round 1
+542274,233488,ct,MiniBoo,18350,Waylay,1001,Lithuania,1.73,371,13,6,1,+7,80%,206,34%,2,0,+2,Playoffs:  Lower Round 1
+542274,233488,ct,Boo,1144,Brimstone,1001,Lithuania,1.11,219,9,6,4,+3,80%,149,50%,1,0,+1,Playoffs:  Lower Round 1
+542274,233488,ct,RieNs,10971,Fade,1001,Turkey,1.27,184,7,6,5,+1,80%,114,22%,0,0,0,Playoffs:  Lower Round 1
+542274,233488,ct,benjyfishy,29873,Viper,1001,England,0.94,211,6,7,3,-1,70%,139,22%,3,1,+2,Playoffs:  Lower Round 1
+542274,233488,ct,Wo0t,21328,Yoru,1001,Turkey,0.70,156,6,7,2,-1,70%,97,50%,1,2,-1,Playoffs:  Lower Round 1
+542274,233488,ct,Cloud,4181,Gekko,14419,Russia,1.11,183,8,6,5,+2,83%,131,28%,1,1,0,Playoffs:  Lower Round 1
+542274,233488,ct,westside,34684,Deadlock,14419,Poland,1.04,178,9,8,3,+1,67%,104,33%,0,0,0,Playoffs:  Lower Round 1
+542274,233488,ct,Flickless,6959,Viper,14419,Belgium,1.24,231,10,7,6,+3,92%,157,39%,3,0,+3,Playoffs:  Lower Round 1
+542274,233488,ct,grubinho,5550,Astra,14419,Poland,1.42,277,12,7,9,+5,92%,165,21%,2,0,+2,Playoffs:  Lower Round 1
+542274,233488,ct,ara,11332,Raze,14419,Romania,1.13,252,10,8,4,+2,75%,164,28%,4,1,+3,Playoffs:  Lower Round 1
+542268,233469,t,kaajak,9554,Yoru,2593,Poland,1.37,311,12,9,3,+3,82%,194,35%,2,1,+1,Playoffs:  Upper Semifinals
+542268,233469,t,doma,1369,Tejo,2593,Croatia,1.06,172,7,8,1,-1,64%,123,29%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233469,t,Boaster,438,Astra,2593,United Kingdom,0.85,139,4,7,4,-3,64%,105,38%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233469,t,crashies,4,Fade,2593,United States,0.45,111,4,9,5,-5,73%,79,21%,0,3,-3,Playoffs:  Upper Semifinals
+542268,233469,t,Chronicle,458,Viper,2593,Russia,0.44,109,4,9,1,-5,55%,77,30%,0,3,-3,Playoffs:  Upper Semifinals
+542268,233469,t,d4v41,9803,Viper,624,Malaysia,1.01,164,8,8,2,0,58%,112,26%,1,3,-2,Playoffs:  Upper Semifinals
+542268,233469,t,f0rsakeN,9801,Brimstone,624,Indonesia,1.31,272,11,9,3,+2,83%,190,35%,0,0,0,Playoffs:  Upper Semifinals
+542268,233469,t,PatMen,13744,Fade,624,Philippines,1.28,195,8,7,2,+1,50%,139,28%,0,0,0,Playoffs:  Upper Semifinals
+542268,233469,t,something,17086,Yoru,624,Russia,0.48,107,5,10,0,-5,50%,76,27%,2,1,+1,Playoffs:  Upper Semifinals
+542268,233469,t,Jinggg,7378,Raze,624,Singapore,0.49,146,5,11,5,-6,58%,111,15%,0,5,-5,Playoffs:  Upper Semifinals
+542268,233469,ct,kaajak,9554,Yoru,2593,Poland,1.96,423,18,8,5,+10,83%,260,31%,6,0,+6,Playoffs:  Upper Semifinals
+542268,233469,ct,doma,1369,Tejo,2593,Croatia,0.94,148,6,6,3,0,67%,114,35%,0,0,0,Playoffs:  Upper Semifinals
+542268,233469,ct,Boaster,438,Astra,2593,United Kingdom,0.81,130,5,7,2,-2,75%,100,17%,0,0,0,Playoffs:  Upper Semifinals
+542268,233469,ct,crashies,4,Fade,2593,United States,1.07,215,10,7,2,+3,83%,131,18%,2,0,+2,Playoffs:  Upper Semifinals
+542268,233469,ct,Chronicle,458,Viper,2593,Russia,0.66,148,6,9,2,-3,50%,113,41%,1,3,-2,Playoffs:  Upper Semifinals
+542268,233469,ct,d4v41,9803,Viper,624,Malaysia,1.51,221,10,4,1,+6,91%,145,30%,0,0,0,Playoffs:  Upper Semifinals
+542268,233469,ct,f0rsakeN,9801,Brimstone,624,Indonesia,0.92,161,6,6,5,0,64%,111,62%,0,1,-1,Playoffs:  Upper Semifinals
+542268,233469,ct,PatMen,13744,Fade,624,Philippines,0.87,173,7,7,1,0,73%,118,33%,2,2,0,Playoffs:  Upper Semifinals
+542268,233469,ct,something,17086,Yoru,624,Russia,1.36,280,11,7,2,+4,91%,165,16%,3,1,+2,Playoffs:  Upper Semifinals
+542268,233469,ct,Jinggg,7378,Raze,624,Singapore,1.16,226,8,7,3,+1,100%,171,22%,2,0,+2,Playoffs:  Upper Semifinals
+542268,233470,t,kaajak,9554,Yoru,2593,Poland,1.84,408,17,8,2,+9,83%,258,28%,4,0,+4,Playoffs:  Upper Semifinals
+542268,233470,t,Chronicle,458,Viper,2593,Russia,1.43,240,10,6,3,+4,75%,172,31%,2,1,+1,Playoffs:  Upper Semifinals
+542268,233470,t,crashies,4,Sova,2593,United States,1.15,166,8,6,0,+2,67%,110,36%,1,2,-1,Playoffs:  Upper Semifinals
+542268,233470,t,Boaster,438,Omen,2593,United Kingdom,0.50,56,3,8,4,-5,75%,33,33%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,t,doma,1369,Killjoy,2593,Croatia,0.51,152,6,9,1,-3,50%,108,30%,0,2,-2,Playoffs:  Upper Semifinals
+542268,233470,t,d4v41,9803,Vyse,624,Malaysia,0.16,61,1,5,0,-4,20%,52,0%,0,1,-1,Playoffs:  Upper Semifinals
+542268,233470,t,Jinggg,7378,Omen,624,Singapore,0.30,96,2,5,1,-3,40%,66,29%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,t,f0rsakeN,9801,Waylay,624,Indonesia,0.32,141,2,5,2,-3,40%,105,44%,0,3,-3,Playoffs:  Upper Semifinals
+542268,233470,t,PatMen,13744,Fade,624,Philippines,0.04,9,0,5,1,-5,20%,4,0%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,t,something,17086,Yoru,624,Russia,0.77,230,3,5,2,-2,60%,139,30%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233470,ct,kaajak,9554,Yoru,2593,Poland,1.33,126,3,1,1,+2,100%,81,50%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,ct,Chronicle,458,Viper,2593,Russia,1.55,424,8,3,1,+5,100%,241,22%,1,1,0,Playoffs:  Upper Semifinals
+542268,233470,ct,crashies,4,Sova,2593,United States,1.65,183,4,1,0,+3,80%,134,30%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,ct,Boaster,438,Omen,2593,United Kingdom,2.01,291,5,1,4,+4,100%,151,56%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233470,ct,doma,1369,Killjoy,2593,Croatia,1.65,268,5,2,1,+3,80%,159,27%,2,0,+2,Playoffs:  Upper Semifinals
+542268,233470,ct,d4v41,9803,Vyse,624,Malaysia,1.12,194,10,7,1,+3,67%,113,33%,0,2,-2,Playoffs:  Upper Semifinals
+542268,233470,ct,Jinggg,7378,Omen,624,Singapore,0.88,173,7,8,1,-1,58%,105,33%,0,0,0,Playoffs:  Upper Semifinals
+542268,233470,ct,f0rsakeN,9801,Waylay,624,Indonesia,0.76,237,10,11,1,-1,58%,136,20%,2,2,0,Playoffs:  Upper Semifinals
+542268,233470,ct,PatMen,13744,Fade,624,Philippines,0.82,190,7,10,4,-3,75%,118,26%,1,1,0,Playoffs:  Upper Semifinals
+542268,233470,ct,something,17086,Yoru,624,Russia,0.42,96,3,8,2,-5,42%,59,16%,2,2,0,Playoffs:  Upper Semifinals
+542268,233471,t,Chronicle,458,Viper,2593,Russia,1.40,348,14,11,3,+3,75%,218,50%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233471,t,Boaster,438,Omen,2593,United Kingdom,0.40,124,4,11,3,-7,42%,90,7%,0,3,-3,Playoffs:  Upper Semifinals
+542268,233471,t,kaajak,9554,Raze,2593,Poland,0.84,223,8,11,4,-3,67%,145,20%,1,4,-3,Playoffs:  Upper Semifinals
+542268,233471,t,doma,1369,Killjoy,2593,Croatia,0.79,139,6,10,3,-4,83%,95,33%,1,1,0,Playoffs:  Upper Semifinals
+542268,233471,t,crashies,4,Fade,2593,United States,0.47,69,3,9,1,-6,67%,56,33%,0,1,-1,Playoffs:  Upper Semifinals
+542268,233471,t,Jinggg,7378,Raze,624,Singapore,0.31,118,3,10,3,-7,60%,79,6%,2,2,0,Playoffs:  Upper Semifinals
+542268,233471,t,d4v41,9803,Vyse,624,Malaysia,1.06,285,10,10,2,0,90%,176,18%,0,0,0,Playoffs:  Upper Semifinals
+542268,233471,t,f0rsakeN,9801,Omen,624,Indonesia,0.80,200,6,10,4,-4,70%,126,33%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233471,t,PatMen,13744,Fade,624,Philippines,0.39,136,4,10,0,-6,50%,100,31%,0,0,0,Playoffs:  Upper Semifinals
+542268,233471,t,something,17086,Yoru,624,Russia,0.02,32,0,10,1,-10,40%,32,13%,0,5,-5,Playoffs:  Upper Semifinals
+542268,233471,ct,Chronicle,458,Viper,2593,Russia,2.42,411,17,3,4,+14,100%,279,32%,2,0,+2,Playoffs:  Upper Semifinals
+542268,233471,ct,Boaster,438,Omen,2593,United Kingdom,1.85,298,10,3,7,+7,90%,194,11%,0,0,0,Playoffs:  Upper Semifinals
+542268,233471,ct,kaajak,9554,Raze,2593,Poland,1.29,283,11,7,4,+4,90%,162,12%,4,2,+2,Playoffs:  Upper Semifinals
+542268,233471,ct,doma,1369,Killjoy,2593,Croatia,1.15,181,6,5,4,+1,100%,149,22%,1,1,0,Playoffs:  Upper Semifinals
+542268,233471,ct,crashies,4,Fade,2593,United States,1.20,159,6,5,6,+1,90%,106,46%,0,0,0,Playoffs:  Upper Semifinals
+542268,233471,ct,Jinggg,7378,Raze,624,Singapore,1.71,328,16,7,3,+9,100%,235,38%,1,0,+1,Playoffs:  Upper Semifinals
+542268,233471,ct,d4v41,9803,Vyse,624,Malaysia,0.96,150,7,7,3,0,92%,97,37%,2,0,+2,Playoffs:  Upper Semifinals
+542268,233471,ct,f0rsakeN,9801,Omen,624,Indonesia,1.04,236,9,8,3,+1,83%,147,15%,3,0,+3,Playoffs:  Upper Semifinals
+542268,233471,ct,PatMen,13744,Fade,624,Philippines,1.09,149,7,6,4,+1,92%,109,33%,0,0,0,Playoffs:  Upper Semifinals
+542268,233471,ct,something,17086,Yoru,624,Russia,1.40,274,13,7,2,+6,75%,215,24%,3,3,0,Playoffs:  Upper Semifinals
+542269,233472,t,aspas,8480,Jett,7386,Brazil,1.94,383,21,8,1,+13,87%,236,26%,3,0,+3,Playoffs:  Upper Semifinals
+542269,233472,t,cortezia,5395,Cypher,7386,Brazil,0.79,169,9,10,0,-1,60%,113,59%,2,1,+1,Playoffs:  Upper Semifinals
+542269,233472,t,xenom,20240,Astra,7386,Brazil,1.17,196,10,8,8,+2,80%,130,21%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233472,t,Verno,21668,Sova,7386,United States,0.70,131,6,10,4,-4,60%,73,25%,2,0,+2,Playoffs:  Upper Semifinals
+542269,233472,t,artzin,5957,Kayo,7386,Brazil,0.47,109,5,11,9,-6,53%,78,21%,0,5,-5,Playoffs:  Upper Semifinals
+542269,233472,t,mada,5132,Yoru,1034,Canada,0.79,175,8,10,4,-2,60%,101,28%,2,3,-1,Playoffs:  Upper Semifinals
+542269,233472,t,brawk,2172,Sova,1034,United States,0.97,104,6,8,1,-2,60%,65,5%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233472,t,Ethan,11225,Omen,1034,United States,0.69,140,6,11,6,-5,60%,84,16%,1,3,-2,Playoffs:  Upper Semifinals
+542269,233472,t,s0m,4164,Harbor,1034,United States,1.02,169,10,10,1,0,60%,104,24%,2,2,0,Playoffs:  Upper Semifinals
+542269,233472,t,skuba,11118,Vyse,1034,United States,0.75,107,4,11,7,-7,60%,78,8%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233472,ct,aspas,8480,Jett,7386,Brazil,0.96,187,11,7,1,+4,67%,114,0%,3,3,0,Playoffs:  Upper Semifinals
+542269,233472,ct,cortezia,5395,Cypher,7386,Brazil,1.57,293,16,7,2,+9,87%,215,34%,2,0,+2,Playoffs:  Upper Semifinals
+542269,233472,ct,xenom,20240,Astra,7386,Brazil,0.77,98,6,7,8,-1,80%,50,25%,1,1,0,Playoffs:  Upper Semifinals
+542269,233472,ct,Verno,21668,Sova,7386,United States,1.06,152,6,5,8,+1,93%,108,12%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233472,ct,artzin,5957,Kayo,7386,Brazil,1.09,207,11,8,7,+3,87%,137,37%,1,3,-2,Playoffs:  Upper Semifinals
+542269,233472,ct,mada,5132,Yoru,1034,Canada,1.37,213,12,9,3,+3,60%,126,35%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233472,ct,brawk,2172,Sova,1034,United States,0.93,193,9,11,5,-2,67%,126,27%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233472,ct,Ethan,11225,Omen,1034,United States,1.07,215,10,11,5,-1,67%,143,24%,3,2,+1,Playoffs:  Upper Semifinals
+542269,233472,ct,s0m,4164,Harbor,1034,United States,0.56,156,8,13,4,-5,80%,98,17%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233472,ct,skuba,11118,Vyse,1034,United States,0.71,174,8,12,5,-4,67%,118,21%,1,1,0,Playoffs:  Upper Semifinals
+542269,233473,t,aspas,8480,Neon,7386,Brazil,1.26,246,5,4,1,+1,80%,160,67%,2,0,+2,Playoffs:  Upper Semifinals
+542269,233473,t,cortezia,5395,Killjoy,7386,Brazil,1.47,207,4,2,0,+2,60%,104,60%,2,0,+2,Playoffs:  Upper Semifinals
+542269,233473,t,Verno,21668,Sova,7386,United States,1.46,228,4,2,1,+2,80%,143,40%,0,0,0,Playoffs:  Upper Semifinals
+542269,233473,t,artzin,5957,Viper,7386,Brazil,0.39,134,2,4,1,-2,60%,94,25%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233473,t,xenom,20240,Omen,7386,Brazil,0.86,66,1,2,4,-1,60%,35,0%,0,0,0,Playoffs:  Upper Semifinals
+542269,233473,t,brawk,2172,Sova,1034,United States,0.80,192,4,11,7,-7,67%,149,10%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233473,t,skuba,11118,Killjoy,1034,United States,0.40,96,4,12,0,-8,50%,72,18%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233473,t,s0m,4164,Viper,1034,United States,0.70,218,9,11,0,-2,50%,132,32%,1,4,-3,Playoffs:  Upper Semifinals
+542269,233473,t,Ethan,11225,Omen,1034,United States,0.29,93,3,12,2,-9,42%,70,29%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233473,t,mada,5132,Neon,1034,Canada,0.32,92,4,11,2,-7,33%,69,33%,0,4,-4,Playoffs:  Upper Semifinals
+542269,233473,ct,aspas,8480,Neon,7386,Brazil,1.93,348,18,4,0,+14,100%,178,15%,4,0,+4,Playoffs:  Upper Semifinals
+542269,233473,ct,cortezia,5395,Killjoy,7386,Brazil,1.60,240,11,3,4,+8,92%,166,13%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233473,ct,Verno,21668,Sova,7386,United States,1.31,242,9,7,7,+2,92%,174,35%,5,1,+4,Playoffs:  Upper Semifinals
+542269,233473,ct,artzin,5957,Viper,7386,Brazil,1.53,278,14,6,5,+8,83%,187,13%,0,0,0,Playoffs:  Upper Semifinals
+542269,233473,ct,xenom,20240,Omen,7386,Brazil,1.23,141,5,4,15,+1,92%,68,18%,1,0,+1,Playoffs:  Upper Semifinals
+542269,233473,ct,brawk,2172,Sova,1034,United States,1.33,256,5,3,2,+2,60%,143,35%,1,1,0,Playoffs:  Upper Semifinals
+542269,233473,ct,skuba,11118,Killjoy,1034,United States,1.22,214,4,3,1,+1,60%,175,23%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233473,ct,s0m,4164,Viper,1034,United States,0.41,122,2,4,0,-2,40%,94,25%,0,2,-2,Playoffs:  Upper Semifinals
+542269,233473,ct,Ethan,11225,Omen,1034,United States,0.75,82,1,2,1,-1,60%,52,20%,0,0,0,Playoffs:  Upper Semifinals
+542269,233473,ct,mada,5132,Neon,1034,Canada,0.65,123,2,4,1,-2,60%,89,0%,0,0,0,Playoffs:  Upper Semifinals
+542269,233474,t,aspas,8480,Waylay,7386,Brazil,0.69,160,9,10,1,-1,53%,90,25%,2,2,0,Playoffs:  Upper Semifinals
+542269,233474,t,Verno,21668,Sova,7386,United States,0.84,161,9,9,3,0,73%,116,24%,0,2,-2,Playoffs:  Upper Semifinals
+542269,233474,t,xenom,20240,Omen,7386,Brazil,0.84,137,7,11,9,-4,73%,78,20%,0,0,0,Playoffs:  Upper Semifinals
+542269,233474,t,cortezia,5395,Viper,7386,Brazil,1.20,203,10,8,3,+2,73%,125,32%,4,1,+3,Playoffs:  Upper Semifinals
+542269,233474,t,artzin,5957,Kayo,7386,Brazil,0.95,196,11,11,3,0,67%,111,20%,3,1,+2,Playoffs:  Upper Semifinals
+542269,233474,t,s0m,4164,Omen,1034,United States,1.19,201,12,10,3,+2,73%,125,28%,1,1,0,Playoffs:  Upper Semifinals
+542269,233474,t,skuba,11118,Viper,1034,United States,1.01,148,8,8,5,0,60%,117,47%,0,2,-2,Playoffs:  Upper Semifinals
+542269,233474,t,Ethan,11225,Kayo,1034,United States,0.85,159,7,10,9,-3,73%,89,14%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233474,t,brawk,2172,Sova,1034,United States,1.40,304,15,9,6,+6,87%,196,14%,0,1,-1,Playoffs:  Upper Semifinals
+542269,233474,t,mada,5132,Waylay,1034,Canada,0.61,146,7,12,2,-5,67%,94,39%,4,3,+1,Playoffs:  Upper Semifinals
+542269,233474,ct,aspas,8480,Waylay,7386,Brazil,1.47,265,16,9,2,+7,67%,168,41%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233474,ct,Verno,21668,Sova,7386,United States,1.18,271,13,10,3,+3,80%,164,36%,5,0,+5,Playoffs:  Upper Semifinals
+542269,233474,ct,xenom,20240,Omen,7386,Brazil,0.88,158,9,9,7,0,73%,101,18%,0,0,0,Playoffs:  Upper Semifinals
+542269,233474,ct,cortezia,5395,Viper,7386,Brazil,0.49,119,5,11,4,-6,67%,79,43%,2,1,+1,Playoffs:  Upper Semifinals
+542269,233474,ct,artzin,5957,Kayo,7386,Brazil,0.57,122,6,10,5,-4,60%,67,35%,1,3,-2,Playoffs:  Upper Semifinals
+542269,233474,ct,s0m,4164,Omen,1034,United States,1.30,184,10,8,5,+2,67%,148,32%,1,1,0,Playoffs:  Upper Semifinals
+542269,233474,ct,skuba,11118,Viper,1034,United States,1.29,215,12,8,2,+4,93%,152,32%,0,0,0,Playoffs:  Upper Semifinals
+542269,233474,ct,Ethan,11225,Kayo,1034,United States,1.26,214,11,9,8,+2,93%,163,26%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233474,ct,brawk,2172,Sova,1034,United States,0.62,153,5,12,6,-7,60%,118,18%,1,2,-1,Playoffs:  Upper Semifinals
+542269,233474,ct,mada,5132,Waylay,1034,Canada,1.08,205,11,9,1,+2,73%,134,19%,3,4,-1,Playoffs:  Upper Semifinals
+542277,233492,t,d4v41,9803,Vyse,624,Malaysia,1.58,245,12,5,6,+7,83%,150,19%,2,1,+1,Playoffs:  Lower Round 2
+542277,233492,t,something,17086,Yoru,624,Russia,1.43,350,14,9,7,+5,83%,217,23%,3,1,+2,Playoffs:  Lower Round 2
+542277,233492,t,f0rsakeN,9801,Omen,624,Indonesia,1.34,254,11,7,8,+4,83%,141,23%,2,1,+1,Playoffs:  Lower Round 2
+542277,233492,t,PatMen,13744,Sova,624,Philippines,0.81,135,5,7,7,-2,67%,106,24%,0,1,-1,Playoffs:  Lower Round 2
+542277,233492,t,Jinggg,7378,Sage,624,Singapore,1.09,185,9,7,6,+2,83%,108,21%,0,1,-1,Playoffs:  Lower Round 2
+542277,233492,t,Wo0t,21328,Jett,1001,Turkey,1.04,249,11,10,3,+1,67%,159,32%,3,3,0,Playoffs:  Lower Round 2
+542277,233492,t,RieNs,10971,Sova,1001,Turkey,1.30,235,10,7,5,+3,92%,191,45%,1,0,+1,Playoffs:  Lower Round 2
+542277,233492,t,Boo,1144,Omen,1001,Lithuania,1.12,176,7,7,6,0,75%,99,40%,0,0,0,Playoffs:  Lower Round 2
+542277,233492,t,MiniBoo,18350,Yoru,1001,Lithuania,1.57,247,11,5,1,+6,75%,155,20%,2,1,+1,Playoffs:  Lower Round 2
+542277,233492,t,benjyfishy,29873,Cypher,1001,England,0.74,88,4,6,2,-2,83%,65,10%,0,2,-2,Playoffs:  Lower Round 2
+542277,233492,ct,d4v41,9803,Vyse,624,Malaysia,1.17,223,8,8,5,0,67%,153,18%,2,2,0,Playoffs:  Lower Round 2
+542277,233492,ct,something,17086,Yoru,624,Russia,1.06,208,8,8,2,0,92%,120,11%,3,1,+2,Playoffs:  Lower Round 2
+542277,233492,ct,f0rsakeN,9801,Omen,624,Indonesia,0.73,169,7,10,4,-3,50%,104,28%,1,1,0,Playoffs:  Lower Round 2
+542277,233492,ct,PatMen,13744,Sova,624,Philippines,0.89,204,8,8,2,0,75%,118,35%,0,0,0,Playoffs:  Lower Round 2
+542277,233492,ct,Jinggg,7378,Sage,624,Singapore,0.43,117,4,9,4,-5,67%,80,38%,0,2,-2,Playoffs:  Lower Round 2
+542277,233492,ct,Wo0t,21328,Jett,1001,Turkey,1.49,315,13,9,0,+4,67%,204,29%,2,1,+1,Playoffs:  Lower Round 2
+542277,233492,ct,RieNs,10971,Sova,1001,Turkey,1.02,215,9,10,2,-1,58%,119,50%,2,2,0,Playoffs:  Lower Round 2
+542277,233492,ct,Boo,1144,Omen,1001,Lithuania,0.81,169,6,10,4,-4,67%,122,56%,0,2,-2,Playoffs:  Lower Round 2
+542277,233492,ct,MiniBoo,18350,Yoru,1001,Lithuania,0.12,87,2,12,3,-10,58%,74,13%,1,2,-1,Playoffs:  Lower Round 2
+542277,233492,ct,benjyfishy,29873,Cypher,1001,England,0.54,116,5,10,1,-5,50%,75,31%,0,0,0,Playoffs:  Lower Round 2
+542277,233493,t,f0rsakeN,9801,Brimstone,624,Indonesia,1.08,253,8,9,5,-1,80%,165,30%,2,0,+2,Playoffs:  Lower Round 2
+542277,233493,t,d4v41,9803,Viper,624,Malaysia,0.85,217,8,9,0,-1,40%,141,35%,0,1,-1,Playoffs:  Lower Round 2
+542277,233493,t,Jinggg,7378,Raze,624,Singapore,0.47,178,6,10,1,-4,50%,104,16%,1,2,-1,Playoffs:  Lower Round 2
+542277,233493,t,something,17086,Yoru,624,Russia,0.50,107,4,9,1,-5,50%,67,33%,2,1,+1,Playoffs:  Lower Round 2
+542277,233493,t,PatMen,13744,Fade,624,Philippines,0.30,99,3,9,2,-6,60%,60,18%,0,1,-1,Playoffs:  Lower Round 2
+542277,233493,t,Wo0t,21328,Yoru,1001,Turkey,0.92,178,8,10,1,-2,75%,103,44%,2,1,+1,Playoffs:  Lower Round 2
+542277,233493,t,RieNs,10971,Fade,1001,Turkey,0.63,112,4,11,5,-7,50%,76,40%,0,0,0,Playoffs:  Lower Round 2
+542277,233493,t,benjyfishy,29873,Viper,1001,England,0.82,177,8,9,1,-1,67%,102,33%,2,0,+2,Playoffs:  Lower Round 2
+542277,233493,t,Boo,1144,Brimstone,1001,Lithuania,0.78,155,6,10,4,-4,75%,101,50%,1,3,-2,Playoffs:  Lower Round 2
+542277,233493,t,MiniBoo,18350,Waylay,1001,Lithuania,0.75,159,6,11,3,-5,33%,107,36%,2,1,+1,Playoffs:  Lower Round 2
+542277,233493,ct,f0rsakeN,9801,Brimstone,624,Indonesia,1.29,311,13,8,4,+5,83%,195,50%,1,1,0,Playoffs:  Lower Round 2
+542277,233493,ct,d4v41,9803,Viper,624,Malaysia,0.95,184,7,7,8,0,75%,124,33%,1,3,-2,Playoffs:  Lower Round 2
+542277,233493,ct,Jinggg,7378,Raze,624,Singapore,1.24,244,10,6,3,+4,92%,163,8%,1,2,-1,Playoffs:  Lower Round 2
+542277,233493,ct,something,17086,Yoru,624,Russia,1.16,181,8,5,4,+3,75%,111,17%,1,1,0,Playoffs:  Lower Round 2
+542277,233493,ct,PatMen,13744,Fade,624,Philippines,1.33,256,13,6,3,+7,83%,170,38%,1,0,+1,Playoffs:  Lower Round 2
+542277,233493,ct,Wo0t,21328,Yoru,1001,Turkey,2.30,429,17,6,3,+11,100%,249,36%,2,1,+1,Playoffs:  Lower Round 2
+542277,233493,ct,RieNs,10971,Fade,1001,Turkey,1.65,271,10,4,4,+6,100%,175,32%,2,0,+2,Playoffs:  Lower Round 2
+542277,233493,ct,benjyfishy,29873,Viper,1001,England,0.99,142,5,5,4,0,70%,93,21%,0,0,0,Playoffs:  Lower Round 2
+542277,233493,ct,Boo,1144,Brimstone,1001,Lithuania,0.99,202,7,7,5,0,80%,140,33%,1,0,+1,Playoffs:  Lower Round 2
+542277,233493,ct,MiniBoo,18350,Waylay,1001,Lithuania,0.77,191,7,7,3,0,80%,112,17%,0,4,-4,Playoffs:  Lower Round 2
+542277,233494,t,PatMen,13744,Fade,624,Philippines,1.75,263,11,5,5,+6,83%,189,37%,0,1,-1,Playoffs:  Lower Round 2
+542277,233494,t,f0rsakeN,9801,Omen,624,Indonesia,0.89,139,6,8,6,-2,83%,87,67%,1,2,-1,Playoffs:  Lower Round 2
+542277,233494,t,d4v41,9803,Vyse,624,Malaysia,1.77,317,14,6,1,+8,75%,228,44%,1,0,+1,Playoffs:  Lower Round 2
+542277,233494,t,something,17086,Yoru,624,Russia,0.96,208,9,8,4,+1,75%,148,30%,0,3,-3,Playoffs:  Lower Round 2
+542277,233494,t,Jinggg,7378,Raze,624,Singapore,0.56,150,6,10,3,-4,58%,91,13%,1,3,-2,Playoffs:  Lower Round 2
+542277,233494,t,benjyfishy,29873,Deadlock,1001,England,1.95,423,7,5,1,+2,100%,286,42%,1,0,+1,Playoffs:  Lower Round 2
+542277,233494,t,RieNs,10971,Fade,1001,Turkey,0.93,238,5,5,2,0,80%,132,71%,0,0,0,Playoffs:  Lower Round 2
+542277,233494,t,Wo0t,21328,Chamber,1001,Turkey,0.01,30,0,5,1,-5,20%,31,33%,0,1,-1,Playoffs:  Lower Round 2
+542277,233494,t,Boo,1144,Omen,1001,Lithuania,0.01,33,0,5,2,-5,40%,23,50%,0,1,-1,Playoffs:  Lower Round 2
+542277,233494,t,MiniBoo,18350,Raze,1001,Lithuania,0.71,234,3,5,2,-2,100%,178,25%,1,1,0,Playoffs:  Lower Round 2
+542277,233494,ct,PatMen,13744,Fade,624,Philippines,1.28,182,4,3,6,+1,100%,77,11%,0,0,0,Playoffs:  Lower Round 2
+542277,233494,ct,f0rsakeN,9801,Omen,624,Indonesia,2.98,481,8,2,7,+6,100%,331,29%,1,0,+1,Playoffs:  Lower Round 2
+542277,233494,ct,d4v41,9803,Vyse,624,Malaysia,0.50,170,3,4,1,-1,60%,84,11%,2,1,+1,Playoffs:  Lower Round 2
+542277,233494,ct,something,17086,Yoru,624,Russia,1.29,238,4,3,5,+1,80%,151,15%,0,1,-1,Playoffs:  Lower Round 2
+542277,233494,ct,Jinggg,7378,Raze,624,Singapore,1.67,286,6,3,1,+3,80%,172,15%,0,0,0,Playoffs:  Lower Round 2
+542277,233494,ct,benjyfishy,29873,Deadlock,1001,England,0.64,102,4,9,5,-5,83%,82,31%,1,0,+1,Playoffs:  Lower Round 2
+542277,233494,ct,RieNs,10971,Fade,1001,Turkey,0.92,204,9,9,4,0,50%,137,33%,1,1,0,Playoffs:  Lower Round 2
+542277,233494,ct,Wo0t,21328,Chamber,1001,Turkey,1.15,173,8,7,3,+1,58%,127,50%,3,1,+2,Playoffs:  Lower Round 2
+542277,233494,ct,Boo,1144,Omen,1001,Lithuania,1.04,231,9,10,5,-1,67%,150,14%,2,0,+2,Playoffs:  Lower Round 2
+542277,233494,ct,MiniBoo,18350,Raze,1001,Lithuania,0.64,202,7,11,2,-4,67%,138,12%,2,1,+1,Playoffs:  Lower Round 2
+542276,233489,t,aspas,8480,Neon,7386,Brazil,1.02,240,9,11,3,-2,67%,148,30%,2,0,+2,Playoffs:  Lower Round 2
+542276,233489,t,cortezia,5395,Cypher,7386,Brazil,1.32,274,12,9,1,+3,67%,186,29%,1,0,+1,Playoffs:  Lower Round 2
+542276,233489,t,Verno,21668,Sova,7386,United States,0.25,70,2,10,2,-8,50%,54,57%,0,2,-2,Playoffs:  Lower Round 2
+542276,233489,t,artzin,5957,Viper,7386,Brazil,0.29,92,3,11,1,-8,58%,62,15%,1,3,-2,Playoffs:  Lower Round 2
+542276,233489,t,xenom,20240,Omen,7386,Brazil,0.77,166,7,11,4,-4,58%,110,35%,1,2,-1,Playoffs:  Lower Round 2
+542276,233489,t,BeYN,4678,Sova,8185,South Korea,0.66,141,5,10,1,-5,45%,93,31%,0,0,0,Playoffs:  Lower Round 2
+542276,233489,t,free1ng,1916,Cypher,8185,South Korea,0.35,91,3,11,1,-8,36%,61,17%,0,2,-2,Playoffs:  Lower Round 2
+542276,233489,t,MaKo,4462,Omen,8185,South Korea,0.32,65,2,10,0,-8,27%,42,8%,0,1,-1,Playoffs:  Lower Round 2
+542276,233489,t,HYUNMIN,28400,Waylay,8185,South Korea,0.55,138,5,10,0,-5,18%,89,27%,0,1,-1,Playoffs:  Lower Round 2
+542276,233489,t,Flashback,35013,Neon,8185,South Korea,0.01,27,0,11,1,-11,9%,27,13%,0,7,-7,Playoffs:  Lower Round 2
+542276,233489,ct,aspas,8480,Neon,7386,Brazil,1.92,357,16,4,1,+12,100%,254,24%,3,0,+3,Playoffs:  Lower Round 2
+542276,233489,ct,cortezia,5395,Cypher,7386,Brazil,1.22,156,6,2,2,+4,82%,107,58%,2,0,+2,Playoffs:  Lower Round 2
+542276,233489,ct,Verno,21668,Sova,7386,United States,1.92,367,14,3,3,+11,91%,230,33%,2,0,+2,Playoffs:  Lower Round 2
+542276,233489,ct,artzin,5957,Viper,7386,Brazil,1.81,298,13,4,0,+9,100%,209,32%,4,0,+4,Playoffs:  Lower Round 2
+542276,233489,ct,xenom,20240,Omen,7386,Brazil,1.07,91,3,2,5,+1,100%,57,15%,0,0,0,Playoffs:  Lower Round 2
+542276,233489,ct,BeYN,4678,Sova,8185,South Korea,1.29,210,10,6,4,+4,83%,138,33%,0,2,-2,Playoffs:  Lower Round 2
+542276,233489,ct,free1ng,1916,Cypher,8185,South Korea,1.57,252,11,4,2,+7,92%,165,50%,1,1,0,Playoffs:  Lower Round 2
+542276,233489,ct,MaKo,4462,Omen,8185,South Korea,1.50,240,11,6,7,+5,92%,166,26%,2,0,+2,Playoffs:  Lower Round 2
+542276,233489,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.86,162,8,7,2,+1,67%,119,41%,2,0,+2,Playoffs:  Lower Round 2
+542276,233489,ct,Flashback,35013,Neon,8185,South Korea,1.07,278,12,10,2,+2,75%,176,23%,2,2,0,Playoffs:  Lower Round 2
+542276,233490,t,aspas,8480,Jett,7386,Brazil,1.40,265,13,10,3,+3,79%,171,28%,2,2,0,Playoffs:  Lower Round 2
+542276,233490,t,cortezia,5395,Vyse,7386,Brazil,1.18,191,10,8,3,+2,57%,115,42%,3,0,+3,Playoffs:  Lower Round 2
+542276,233490,t,Verno,21668,Sova,7386,United States,0.79,152,7,10,4,-3,43%,96,25%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,t,xenom,20240,Omen,7386,Brazil,1.40,217,11,8,6,+3,79%,136,38%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,t,artzin,5957,Kayo,7386,Brazil,0.36,67,2,10,7,-8,79%,43,15%,0,5,-5,Playoffs:  Lower Round 2
+542276,233490,t,BeYN,4678,Sova,8185,South Korea,1.50,249,13,6,3,+7,71%,164,19%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,t,free1ng,1916,Vyse,8185,South Korea,1.25,236,12,9,6,+3,79%,165,48%,2,2,0,Playoffs:  Lower Round 2
+542276,233490,t,Flashback,35013,Yoru,8185,South Korea,0.57,185,8,13,5,-5,64%,127,14%,2,4,-2,Playoffs:  Lower Round 2
+542276,233490,t,MaKo,4462,Omen,8185,South Korea,0.96,203,10,10,7,0,79%,125,19%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,t,HYUNMIN,28400,Waylay,8185,South Korea,0.79,186,9,10,3,-1,64%,119,48%,0,2,-2,Playoffs:  Lower Round 2
+542276,233490,ct,aspas,8480,Jett,7386,Brazil,1.36,272,15,9,0,+6,71%,168,11%,6,0,+6,Playoffs:  Lower Round 2
+542276,233490,ct,cortezia,5395,Vyse,7386,Brazil,1.14,257,12,10,2,+2,71%,189,39%,1,2,-1,Playoffs:  Lower Round 2
+542276,233490,ct,Verno,21668,Sova,7386,United States,1.13,207,9,9,5,0,64%,156,24%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,ct,xenom,20240,Omen,7386,Brazil,0.49,141,6,12,8,-6,64%,82,6%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,ct,artzin,5957,Kayo,7386,Brazil,0.63,167,6,12,9,-6,79%,108,12%,3,0,+3,Playoffs:  Lower Round 2
+542276,233490,ct,BeYN,4678,Sova,8185,South Korea,1.24,237,11,8,3,+3,71%,160,31%,2,0,+2,Playoffs:  Lower Round 2
+542276,233490,ct,free1ng,1916,Vyse,8185,South Korea,1.03,213,11,8,3,+3,64%,125,25%,2,2,0,Playoffs:  Lower Round 2
+542276,233490,ct,Flashback,35013,Yoru,8185,South Korea,1.23,251,12,9,5,+3,71%,169,31%,3,1,+2,Playoffs:  Lower Round 2
+542276,233490,ct,MaKo,4462,Omen,8185,South Korea,0.58,75,3,8,3,-5,57%,54,22%,0,1,-1,Playoffs:  Lower Round 2
+542276,233490,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.73,178,9,10,0,-1,57%,116,64%,2,1,+1,Playoffs:  Lower Round 2
+542276,233491,t,aspas,8480,Raze,7386,Brazil,1.13,240,10,10,0,0,83%,158,21%,4,1,+3,Playoffs:  Lower Round 2
+542276,233491,t,cortezia,5395,Viper,7386,Brazil,1.40,307,13,8,4,+5,83%,210,33%,0,0,0,Playoffs:  Lower Round 2
+542276,233491,t,xenom,20240,Brimstone,7386,Brazil,0.79,105,4,7,10,-3,67%,57,43%,0,1,-1,Playoffs:  Lower Round 2
+542276,233491,t,Verno,21668,Fade,7386,United States,1.13,193,7,7,7,0,83%,120,16%,2,1,+1,Playoffs:  Lower Round 2
+542276,233491,t,artzin,5957,Yoru,7386,Brazil,0.97,148,6,6,1,0,75%,107,32%,2,1,+1,Playoffs:  Lower Round 2
+542276,233491,t,Flashback,35013,Yoru,8185,South Korea,1.45,296,12,6,0,+6,64%,179,23%,3,1,+2,Playoffs:  Lower Round 2
+542276,233491,t,MaKo,4462,Brimstone,8185,South Korea,1.52,197,8,3,2,+5,91%,119,26%,0,0,0,Playoffs:  Lower Round 2
+542276,233491,t,BeYN,4678,Fade,8185,South Korea,1.07,189,7,6,4,+1,82%,121,12%,1,0,+1,Playoffs:  Lower Round 2
+542276,233491,t,HYUNMIN,28400,Waylay,8185,South Korea,0.38,91,3,8,3,-5,64%,73,25%,0,2,-2,Playoffs:  Lower Round 2
+542276,233491,t,free1ng,1916,Viper,8185,South Korea,0.73,171,6,8,2,-2,64%,116,17%,2,1,+1,Playoffs:  Lower Round 2
+542276,233491,ct,aspas,8480,Raze,7386,Brazil,1.61,333,13,7,1,+6,73%,206,28%,1,1,0,Playoffs:  Lower Round 2
+542276,233491,ct,cortezia,5395,Viper,7386,Brazil,0.70,100,4,6,4,-2,73%,62,27%,0,0,0,Playoffs:  Lower Round 2
+542276,233491,ct,xenom,20240,Brimstone,7386,Brazil,0.98,197,6,8,10,-2,82%,123,15%,1,0,+1,Playoffs:  Lower Round 2
+542276,233491,ct,Verno,21668,Fade,7386,United States,0.52,87,4,7,4,-3,73%,68,25%,0,0,0,Playoffs:  Lower Round 2
+542276,233491,ct,artzin,5957,Yoru,7386,Brazil,0.54,124,4,8,2,-4,82%,85,38%,2,5,-3,Playoffs:  Lower Round 2
+542276,233491,ct,Flashback,35013,Yoru,8185,South Korea,1.34,225,11,7,1,+4,50%,142,23%,2,2,0,Playoffs:  Lower Round 2
+542276,233491,ct,MaKo,4462,Brimstone,8185,South Korea,0.58,131,3,8,6,-5,75%,105,13%,0,3,-3,Playoffs:  Lower Round 2
+542276,233491,ct,BeYN,4678,Fade,8185,South Korea,0.80,126,5,7,6,-2,67%,75,16%,0,1,-1,Playoffs:  Lower Round 2
+542276,233491,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.18,250,11,10,1,+1,58%,160,45%,0,0,0,Playoffs:  Lower Round 2
+542276,233491,ct,free1ng,1916,Viper,8185,South Korea,0.84,191,8,8,1,0,67%,122,28%,2,2,0,Playoffs:  Lower Round 2
+542270,233475,t,kaajak,9554,Yoru,2593,Poland,0.39,105,5,13,5,-8,62%,70,36%,0,4,-4,Playoffs:  Upper Final
+542270,233475,t,Boaster,438,Omen,2593,United Kingdom,1.07,185,9,9,5,0,62%,105,23%,1,1,0,Playoffs:  Upper Final
+542270,233475,t,Chronicle,458,Vyse,2593,Russia,1.37,221,10,8,3,+2,46%,143,21%,3,0,+3,Playoffs:  Upper Final
+542270,233475,t,crashies,4,Sova,2593,United States,0.79,157,7,10,1,-3,54%,93,28%,0,0,0,Playoffs:  Upper Final
+542270,233475,t,Alfajer,9810,Sage,2593,Turkey,0.51,141,5,11,7,-6,77%,97,33%,3,1,+2,Playoffs:  Upper Final
+542270,233475,t,brawk,2172,Sova,1034,United States,0.99,223,10,11,4,-1,77%,143,16%,0,0,0,Playoffs:  Upper Final
+542270,233475,t,s0m,4164,Omen,1034,United States,1.22,245,10,10,5,0,92%,179,22%,1,0,+1,Playoffs:  Upper Final
+542270,233475,t,skuba,11118,Vyse,1034,United States,1.18,222,11,9,2,+2,62%,146,36%,0,0,0,Playoffs:  Upper Final
+542270,233475,t,Ethan,11225,Kayo,1034,United States,0.63,116,5,10,6,-5,85%,84,13%,1,2,-1,Playoffs:  Upper Final
+542270,233475,t,mada,5132,Jett,1034,Canada,0.34,151,6,12,2,-6,38%,100,38%,2,7,-5,Playoffs:  Upper Final
+542270,233475,ct,kaajak,9554,Yoru,2593,Poland,2.03,385,18,9,0,+9,77%,251,41%,5,1,+4,Playoffs:  Upper Final
+542270,233475,ct,Boaster,438,Omen,2593,United Kingdom,1.24,186,9,7,9,+2,77%,133,19%,0,2,-2,Playoffs:  Upper Final
+542270,233475,ct,Chronicle,458,Vyse,2593,Russia,0.73,144,8,8,2,0,77%,96,29%,1,0,+1,Playoffs:  Upper Final
+542270,233475,ct,crashies,4,Sova,2593,United States,0.95,185,7,8,5,-1,69%,143,24%,1,0,+1,Playoffs:  Upper Final
+542270,233475,ct,Alfajer,9810,Sage,2593,Turkey,0.95,206,10,10,5,0,69%,124,33%,2,1,+1,Playoffs:  Upper Final
+542270,233475,ct,brawk,2172,Sova,1034,United States,1.45,304,12,7,7,+5,92%,184,7%,1,1,0,Playoffs:  Upper Final
+542270,233475,ct,s0m,4164,Omen,1034,United States,1.15,190,9,7,5,+2,77%,93,22%,0,0,0,Playoffs:  Upper Final
+542270,233475,ct,skuba,11118,Vyse,1034,United States,1.17,236,11,6,2,+5,85%,146,28%,1,0,+1,Playoffs:  Upper Final
+542270,233475,ct,Ethan,11225,Kayo,1034,United States,1.14,224,10,8,7,+2,69%,125,21%,2,1,+1,Playoffs:  Upper Final
+542270,233475,ct,mada,5132,Jett,1034,Canada,0.97,203,9,8,0,+1,54%,137,45%,2,5,-3,Playoffs:  Upper Final
+542270,233476,t,Chronicle,458,Breach,2593,Russia,1.06,147,4,3,1,+1,83%,85,30%,0,0,0,Playoffs:  Upper Final
+542270,233476,t,crashies,4,Sova,2593,United States,1.70,286,7,3,2,+4,83%,203,31%,2,1,+1,Playoffs:  Upper Final
+542270,233476,t,kaajak,9554,Waylay,2593,Poland,1.08,145,4,3,0,+1,67%,95,29%,2,0,+2,Playoffs:  Upper Final
+542270,233476,t,Alfajer,9810,Cypher,2593,Turkey,0.70,115,3,4,0,-1,50%,76,29%,0,0,0,Playoffs:  Upper Final
+542270,233476,t,Boaster,438,Astra,2593,United Kingdom,0.75,106,1,3,5,-2,67%,88,15%,0,1,-1,Playoffs:  Upper Final
+542270,233476,t,skuba,11118,Vyse,1034,United States,2.05,324,15,3,5,+12,92%,196,46%,1,0,+1,Playoffs:  Upper Final
+542270,233476,t,mada,5132,Yoru,1034,Canada,1.06,215,10,7,1,+3,67%,136,20%,1,2,-1,Playoffs:  Upper Final
+542270,233476,t,brawk,2172,Sova,1034,United States,1.33,199,9,4,1,+5,92%,130,33%,0,1,-1,Playoffs:  Upper Final
+542270,233476,t,s0m,4164,Harbor,1034,United States,1.49,285,13,6,5,+7,100%,198,38%,1,1,0,Playoffs:  Upper Final
+542270,233476,t,Ethan,11225,Omen,1034,United States,0.95,163,7,6,3,+1,67%,105,26%,2,3,-1,Playoffs:  Upper Final
+542270,233476,ct,Chronicle,458,Breach,2593,Russia,0.85,187,7,11,2,-4,75%,138,29%,2,0,+2,Playoffs:  Upper Final
+542270,233476,ct,crashies,4,Sova,2593,United States,0.48,132,5,12,3,-7,58%,87,19%,1,2,-1,Playoffs:  Upper Final
+542270,233476,ct,kaajak,9554,Waylay,2593,Poland,0.57,159,6,11,1,-5,58%,109,38%,2,2,0,Playoffs:  Upper Final
+542270,233476,ct,Alfajer,9810,Cypher,2593,Turkey,0.54,137,6,11,0,-5,50%,95,31%,1,1,0,Playoffs:  Upper Final
+542270,233476,ct,Boaster,438,Astra,2593,United Kingdom,0.23,64,2,10,0,-8,33%,43,6%,1,0,+1,Playoffs:  Upper Final
+542270,233476,ct,skuba,11118,Vyse,1034,United States,0.45,108,2,4,1,-2,67%,81,40%,0,3,-3,Playoffs:  Upper Final
+542270,233476,ct,mada,5132,Yoru,1034,Canada,1.57,310,6,4,1,+2,67%,202,54%,2,0,+2,Playoffs:  Upper Final
+542270,233476,ct,brawk,2172,Sova,1034,United States,0.69,145,3,5,1,-2,67%,98,27%,0,0,0,Playoffs:  Upper Final
+542270,233476,ct,s0m,4164,Harbor,1034,United States,0.24,37,1,5,1,-4,33%,36,50%,0,1,-1,Playoffs:  Upper Final
+542270,233476,ct,Ethan,11225,Omen,1034,United States,1.17,197,4,4,2,0,100%,133,33%,0,0,0,Playoffs:  Upper Final
+542278,233495,t,HYUNMIN,28400,Waylay,8185,South Korea,1.26,255,13,10,0,+3,50%,164,45%,2,1,+1,Playoffs:  Lower Round 3
+542278,233495,t,free1ng,1916,Vyse,8185,South Korea,0.66,146,6,12,4,-6,57%,91,60%,1,4,-3,Playoffs:  Lower Round 3
+542278,233495,t,MaKo,4462,Omen,8185,South Korea,0.66,137,6,11,5,-5,57%,87,44%,1,3,-2,Playoffs:  Lower Round 3
+542278,233495,t,BeYN,4678,Sova,8185,South Korea,0.43,94,3,12,3,-9,57%,77,13%,0,0,0,Playoffs:  Lower Round 3
+542278,233495,t,Flashback,35013,Yoru,8185,South Korea,0.84,186,8,11,2,-3,57%,120,18%,0,2,-2,Playoffs:  Lower Round 3
+542278,233495,t,Jinggg,7378,Sage,624,Singapore,0.72,176,7,12,3,-5,43%,119,53%,1,6,-5,Playoffs:  Lower Round 3
+542278,233495,t,d4v41,9803,Vyse,624,Malaysia,0.98,240,8,13,8,-5,71%,178,20%,1,2,-1,Playoffs:  Lower Round 3
+542278,233495,t,PatMen,13744,Sova,624,Philippines,0.44,122,4,13,1,-9,57%,95,50%,0,2,-2,Playoffs:  Lower Round 3
+542278,233495,t,f0rsakeN,9801,Omen,624,Indonesia,0.73,119,8,12,1,-4,43%,87,50%,0,0,0,Playoffs:  Lower Round 3
+542278,233495,t,something,17086,Yoru,624,Russia,0.44,143,7,14,1,-7,29%,84,22%,1,1,0,Playoffs:  Lower Round 3
+542278,233495,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.84,436,23,9,1,+14,79%,276,38%,6,0,+6,Playoffs:  Lower Round 3
+542278,233495,ct,free1ng,1916,Vyse,8185,South Korea,1.28,207,10,5,3,+5,93%,130,63%,2,0,+2,Playoffs:  Lower Round 3
+542278,233495,ct,MaKo,4462,Omen,8185,South Korea,1.27,163,9,5,3,+4,93%,124,23%,0,0,0,Playoffs:  Lower Round 3
+542278,233495,ct,BeYN,4678,Sova,8185,South Korea,1.48,251,13,6,4,+7,86%,161,21%,1,0,+1,Playoffs:  Lower Round 3
+542278,233495,ct,Flashback,35013,Yoru,8185,South Korea,0.84,186,9,9,5,0,79%,122,19%,2,3,-1,Playoffs:  Lower Round 3
+542278,233495,ct,Jinggg,7378,Sage,624,Singapore,1.81,376,21,7,2,+14,86%,231,38%,6,0,+6,Playoffs:  Lower Round 3
+542278,233495,ct,d4v41,9803,Vyse,624,Malaysia,0.91,150,8,8,2,0,86%,108,18%,0,0,0,Playoffs:  Lower Round 3
+542278,233495,ct,PatMen,13744,Sova,624,Philippines,1.31,180,9,5,2,+4,86%,131,27%,1,0,+1,Playoffs:  Lower Round 3
+542278,233495,ct,f0rsakeN,9801,Omen,624,Indonesia,0.92,157,7,9,10,-2,79%,107,29%,1,2,-1,Playoffs:  Lower Round 3
+542278,233495,ct,something,17086,Yoru,624,Russia,1.12,217,11,7,2,+4,86%,135,10%,2,2,0,Playoffs:  Lower Round 3
+542278,233496,t,MaKo,4462,Omen,8185,South Korea,1.31,168,7,5,9,+2,75%,93,18%,2,0,+2,Playoffs:  Lower Round 3
+542278,233496,t,free1ng,1916,Vyse,8185,South Korea,0.86,148,6,8,1,-2,58%,93,38%,2,1,+1,Playoffs:  Lower Round 3
+542278,233496,t,BeYN,4678,Fade,8185,South Korea,1.52,268,11,6,1,+5,83%,169,43%,3,0,+3,Playoffs:  Lower Round 3
+542278,233496,t,HYUNMIN,28400,Raze,8185,South Korea,0.92,190,9,7,1,+2,50%,146,50%,0,2,-2,Playoffs:  Lower Round 3
+542278,233496,t,Flashback,35013,Yoru,8185,South Korea,1.31,222,10,8,5,+2,67%,162,20%,0,2,-2,Playoffs:  Lower Round 3
+542278,233496,t,Jinggg,7378,Raze,624,Singapore,1.49,299,10,7,0,+3,100%,210,37%,4,0,+4,Playoffs:  Lower Round 3
+542278,233496,t,d4v41,9803,Vyse,624,Malaysia,0.86,170,5,7,1,-2,67%,104,31%,0,1,-1,Playoffs:  Lower Round 3
+542278,233496,t,f0rsakeN,9801,Omen,624,Indonesia,0.59,155,4,7,3,-3,56%,103,32%,0,1,-1,Playoffs:  Lower Round 3
+542278,233496,t,something,17086,Yoru,624,Russia,0.36,98,3,8,3,-5,67%,72,18%,0,1,-1,Playoffs:  Lower Round 3
+542278,233496,t,PatMen,13744,Fade,624,Philippines,0.06,52,1,8,0,-7,22%,43,33%,0,2,-2,Playoffs:  Lower Round 3
+542278,233496,ct,MaKo,4462,Omen,8185,South Korea,1.93,256,10,3,5,+7,89%,142,24%,1,0,+1,Playoffs:  Lower Round 3
+542278,233496,ct,free1ng,1916,Vyse,8185,South Korea,1.79,296,10,3,4,+7,100%,196,28%,1,0,+1,Playoffs:  Lower Round 3
+542278,233496,ct,BeYN,4678,Fade,8185,South Korea,0.84,95,3,4,3,-1,67%,65,30%,1,0,+1,Playoffs:  Lower Round 3
+542278,233496,ct,HYUNMIN,28400,Raze,8185,South Korea,1.41,321,10,6,2,+4,67%,208,28%,1,1,0,Playoffs:  Lower Round 3
+542278,233496,ct,Flashback,35013,Yoru,8185,South Korea,0.63,144,4,7,3,-3,78%,96,40%,1,3,-2,Playoffs:  Lower Round 3
+542278,233496,ct,Jinggg,7378,Raze,624,Singapore,1.09,234,10,8,1,+2,50%,160,33%,0,2,-2,Playoffs:  Lower Round 3
+542278,233496,ct,d4v41,9803,Vyse,624,Malaysia,1.09,148,7,7,2,0,58%,101,20%,0,0,0,Playoffs:  Lower Round 3
+542278,233496,ct,f0rsakeN,9801,Omen,624,Indonesia,0.67,170,7,9,2,-2,75%,107,26%,0,2,-2,Playoffs:  Lower Round 3
+542278,233496,ct,something,17086,Yoru,624,Russia,0.69,182,7,10,3,-3,67%,120,42%,3,2,+1,Playoffs:  Lower Round 3
+542278,233496,ct,PatMen,13744,Fade,624,Philippines,0.37,64,3,9,1,-6,42%,40,18%,2,1,+1,Playoffs:  Lower Round 3
+542279,233498,t,Alfajer,9810,Vyse,2593,Turkey,1.50,314,13,9,1,+4,75%,201,46%,1,3,-2,Playoffs:  Lower Final
+542279,233498,t,crashies,4,Fade,2593,United States,1.29,200,8,8,1,0,58%,151,36%,0,0,0,Playoffs:  Lower Final
+542279,233498,t,kaajak,9554,Neon,2593,Poland,0.65,196,7,11,3,-4,50%,124,50%,2,4,-2,Playoffs:  Lower Final
+542279,233498,t,Boaster,438,Omen,2593,United Kingdom,0.39,71,3,10,3,-7,58%,37,60%,0,1,-1,Playoffs:  Lower Final
+542279,233498,t,Chronicle,458,Breach,2593,Russia,0.06,42,1,11,1,-10,42%,37,18%,0,1,-1,Playoffs:  Lower Final
+542279,233498,t,free1ng,1916,Cypher,8185,South Korea,0.95,150,5,5,0,0,56%,106,45%,1,0,+1,Playoffs:  Lower Final
+542279,233498,t,HYUNMIN,28400,Waylay,8185,South Korea,1.19,210,8,6,0,+2,67%,164,44%,1,2,-1,Playoffs:  Lower Final
+542279,233498,t,Flashback,35013,Yoru,8185,South Korea,1.10,180,7,5,0,+2,78%,132,13%,0,1,-1,Playoffs:  Lower Final
+542279,233498,t,BeYN,4678,Sova,8185,South Korea,0.78,162,5,7,1,-2,78%,110,19%,1,1,0,Playoffs:  Lower Final
+542279,233498,t,MaKo,4462,Omen,8185,South Korea,0.48,55,2,5,1,-3,56%,41,29%,0,2,-2,Playoffs:  Lower Final
+542279,233498,ct,Alfajer,9810,Vyse,2593,Turkey,0.92,186,6,6,2,0,56%,127,40%,2,2,0,Playoffs:  Lower Final
+542279,233498,ct,crashies,4,Fade,2593,United States,0.94,132,4,4,3,0,78%,84,50%,1,0,+1,Playoffs:  Lower Final
+542279,233498,ct,kaajak,9554,Neon,2593,Poland,1.28,201,7,5,1,+2,78%,140,30%,2,0,+2,Playoffs:  Lower Final
+542279,233498,ct,Boaster,438,Omen,2593,United Kingdom,1.13,166,6,5,2,+1,78%,105,33%,1,1,0,Playoffs:  Lower Final
+542279,233498,ct,Chronicle,458,Breach,2593,Russia,0.84,168,5,7,4,-2,67%,114,20%,0,0,0,Playoffs:  Lower Final
+542279,233498,ct,free1ng,1916,Cypher,8185,South Korea,1.61,257,10,4,2,+6,75%,173,36%,2,0,+2,Playoffs:  Lower Final
+542279,233498,ct,HYUNMIN,28400,Waylay,8185,South Korea,1.27,333,14,9,4,+5,67%,201,43%,3,0,+3,Playoffs:  Lower Final
+542279,233498,ct,Flashback,35013,Yoru,8185,South Korea,1.28,312,13,8,1,+5,92%,183,26%,3,2,+1,Playoffs:  Lower Final
+542279,233498,ct,BeYN,4678,Sova,8185,South Korea,0.84,142,6,6,2,0,75%,94,18%,0,1,-1,Playoffs:  Lower Final
+542279,233498,ct,MaKo,4462,Omen,8185,South Korea,0.91,134,6,5,3,+1,67%,84,45%,1,0,+1,Playoffs:  Lower Final
+542279,233499,t,crashies,4,Fade,2593,United States,2.11,333,16,4,1,+12,83%,214,50%,1,0,+1,Playoffs:  Lower Final
+542279,233499,t,Chronicle,458,Viper,2593,Russia,1.04,178,9,7,3,+2,75%,121,23%,0,0,0,Playoffs:  Lower Final
+542279,233499,t,Alfajer,9810,Vyse,2593,Turkey,1.57,254,12,6,3,+6,92%,190,38%,5,0,+5,Playoffs:  Lower Final
+542279,233499,t,Boaster,438,Astra,2593,United Kingdom,1.51,193,10,3,2,+7,83%,124,33%,0,1,-1,Playoffs:  Lower Final
+542279,233499,t,kaajak,9554,Yoru,2593,Poland,0.84,175,5,8,6,-3,75%,139,25%,3,2,+1,Playoffs:  Lower Final
+542279,233499,t,BeYN,4678,Fade,8185,South Korea,1.42,205,5,3,0,+2,50%,145,44%,1,0,+1,Playoffs:  Lower Final
+542279,233499,t,HYUNMIN,28400,Waylay,8185,South Korea,0.07,43,1,4,2,-3,50%,102,33%,0,1,-1,Playoffs:  Lower Final
+542279,233499,t,Flashback,35013,Yoru,8185,South Korea,0.17,52,1,4,0,-3,25%,78,20%,1,1,0,Playoffs:  Lower Final
+542279,233499,t,free1ng,1916,Vyse,8185,South Korea,1.18,146,3,2,0,+1,50%,60,67%,0,0,0,Playoffs:  Lower Final
+542279,233499,t,MaKo,4462,Omen,8185,South Korea,0.12,10,0,3,1,-3,50%,20,0%,0,0,0,Playoffs:  Lower Final
+542279,233499,ct,crashies,4,Fade,2593,United States,0.81,162,2,2,1,0,50%,102,40%,0,1,-1,Playoffs:  Lower Final
+542279,233499,ct,Chronicle,458,Viper,2593,Russia,3.29,661,9,2,1,+7,100%,396,44%,1,0,+1,Playoffs:  Lower Final
+542279,233499,ct,Alfajer,9810,Vyse,2593,Turkey,0.59,95,2,2,0,0,50%,53,33%,0,1,-1,Playoffs:  Lower Final
+542279,233499,ct,Boaster,438,Astra,2593,United Kingdom,0.51,53,0,2,1,-2,75%,54,0%,0,0,0,Playoffs:  Lower Final
+542279,233499,ct,kaajak,9554,Yoru,2593,Poland,1.25,177,3,2,0,+1,100%,88,67%,1,0,+1,Playoffs:  Lower Final
+542279,233499,ct,BeYN,4678,Fade,8185,South Korea,0.54,147,5,10,2,-5,50%,81,50%,0,1,-1,Playoffs:  Lower Final
+542279,233499,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.82,222,8,10,2,-2,67%,137,30%,0,0,0,Playoffs:  Lower Final
+542279,233499,ct,Flashback,35013,Yoru,8185,South Korea,0.78,233,9,11,0,-2,67%,109,42%,2,3,-1,Playoffs:  Lower Final
+542279,233499,ct,free1ng,1916,Vyse,8185,South Korea,0.37,116,4,10,1,-6,50%,82,33%,0,2,-2,Playoffs:  Lower Final
+542279,233499,ct,MaKo,4462,Omen,8185,South Korea,0.27,81,2,11,4,-9,50%,62,25%,1,3,-2,Playoffs:  Lower Final
+542279,233500,t,crashies,4,Sova,2593,United States,1.26,159,8,5,4,+3,75%,104,58%,0,0,0,Playoffs:  Lower Final
+542279,233500,t,kaajak,9554,Yoru,2593,Poland,0.92,157,6,8,3,-2,58%,108,14%,3,3,0,Playoffs:  Lower Final
+542279,233500,t,Chronicle,458,Viper,2593,Russia,1.44,279,11,7,6,+4,92%,178,33%,1,0,+1,Playoffs:  Lower Final
+542279,233500,t,Alfajer,9810,Killjoy,2593,Turkey,0.54,148,6,9,0,-3,50%,91,35%,0,4,-4,Playoffs:  Lower Final
+542279,233500,t,Boaster,438,Omen,2593,United Kingdom,0.87,130,6,8,4,-2,58%,82,29%,0,1,-1,Playoffs:  Lower Final
+542279,233500,t,BeYN,4678,Sova,8185,South Korea,1.23,251,11,8,4,+3,75%,144,32%,0,0,0,Playoffs:  Lower Final
+542279,233500,t,HYUNMIN,28400,Waylay,8185,South Korea,1.05,216,8,9,4,-1,67%,165,39%,1,0,+1,Playoffs:  Lower Final
+542279,233500,t,MaKo,4462,Omen,8185,South Korea,1.05,196,8,8,6,0,83%,114,7%,2,2,0,Playoffs:  Lower Final
+542279,233500,t,Flashback,35013,Yoru,8185,South Korea,0.29,106,5,10,1,-5,42%,72,15%,0,3,-3,Playoffs:  Lower Final
+542279,233500,t,free1ng,1916,Cypher,8185,South Korea,0.77,130,5,9,3,-4,67%,83,42%,2,2,0,Playoffs:  Lower Final
+542279,233500,ct,crashies,4,Sova,2593,United States,1.55,272,12,6,1,+6,92%,176,50%,2,0,+2,Playoffs:  Lower Final
+542279,233500,ct,kaajak,9554,Yoru,2593,Poland,1.69,330,14,6,2,+8,83%,183,39%,3,1,+2,Playoffs:  Lower Final
+542279,233500,ct,Chronicle,458,Viper,2593,Russia,0.58,128,5,9,2,-4,50%,106,25%,1,4,-3,Playoffs:  Lower Final
+542279,233500,ct,Alfajer,9810,Killjoy,2593,Turkey,1.15,225,9,7,0,+2,58%,150,33%,1,0,+1,Playoffs:  Lower Final
+542279,233500,ct,Boaster,438,Omen,2593,United Kingdom,0.58,119,4,9,10,-5,83%,75,42%,0,0,0,Playoffs:  Lower Final
+542279,233500,ct,BeYN,4678,Sova,8185,South Korea,1.30,235,9,6,3,+3,75%,167,43%,1,0,+1,Playoffs:  Lower Final
+542279,233500,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.76,122,4,7,3,-3,67%,80,44%,2,2,0,Playoffs:  Lower Final
+542279,233500,ct,MaKo,4462,Omen,8185,South Korea,0.78,199,8,9,5,-1,67%,117,27%,1,0,+1,Playoffs:  Lower Final
+542279,233500,ct,Flashback,35013,Yoru,8185,South Korea,1.44,238,11,7,2,+4,67%,145,41%,3,1,+2,Playoffs:  Lower Final
+542279,233500,ct,free1ng,1916,Cypher,8185,South Korea,0.67,135,5,8,4,-3,75%,86,43%,1,1,0,Playoffs:  Lower Final
+542279,233501,t,Chronicle,458,Viper,2593,Russia,1.53,286,12,4,3,+8,83%,184,26%,3,0,+3,Playoffs:  Lower Final
+542279,233501,t,kaajak,9554,Yoru,2593,Poland,1.67,313,14,5,6,+9,92%,192,39%,5,2,+3,Playoffs:  Lower Final
+542279,233501,t,Boaster,438,Astra,2593,United Kingdom,1.55,223,10,4,2,+6,83%,122,10%,0,0,0,Playoffs:  Lower Final
+542279,233501,t,crashies,4,Fade,2593,United States,1.18,236,11,6,3,+5,83%,143,38%,1,0,+1,Playoffs:  Lower Final
+542279,233501,t,Alfajer,9810,Tejo,2593,Turkey,0.53,79,3,6,2,-3,58%,63,24%,0,1,-1,Playoffs:  Lower Final
+542279,233501,t,MaKo,4462,Brimstone,8185,South Korea,1.60,327,6,3,4,+3,80%,149,21%,2,0,+2,Playoffs:  Lower Final
+542279,233501,t,BeYN,4678,Fade,8185,South Korea,0.84,109,2,3,2,-1,80%,72,33%,0,0,0,Playoffs:  Lower Final
+542279,233501,t,HYUNMIN,28400,Waylay,8185,South Korea,0.12,49,1,5,0,-4,60%,30,0%,0,0,0,Playoffs:  Lower Final
+542279,233501,t,free1ng,1916,Viper,8185,South Korea,1.19,245,4,3,2,+1,80%,153,16%,1,1,0,Playoffs:  Lower Final
+542279,233501,t,Flashback,35013,Yoru,8185,South Korea,1.06,204,4,3,2,+1,80%,130,15%,1,0,+1,Playoffs:  Lower Final
+542279,233501,ct,Chronicle,458,Viper,2593,Russia,1.43,260,5,4,0,+1,60%,189,50%,1,1,0,Playoffs:  Lower Final
+542279,233501,ct,kaajak,9554,Yoru,2593,Poland,0.76,199,3,4,2,-1,60%,125,33%,0,1,-1,Playoffs:  Lower Final
+542279,233501,ct,Boaster,438,Astra,2593,United Kingdom,0.82,108,2,3,2,-1,60%,69,10%,0,0,0,Playoffs:  Lower Final
+542279,233501,ct,crashies,4,Fade,2593,United States,0.95,235,4,4,1,0,80%,146,63%,0,1,-1,Playoffs:  Lower Final
+542279,233501,ct,Alfajer,9810,Tejo,2593,Turkey,1.18,151,3,2,2,+1,60%,86,13%,0,1,-1,Playoffs:  Lower Final
+542279,233501,ct,MaKo,4462,Brimstone,8185,South Korea,0.81,116,5,8,3,-3,42%,72,25%,0,1,-1,Playoffs:  Lower Final
+542279,233501,ct,BeYN,4678,Fade,8185,South Korea,0.84,143,6,8,1,-2,67%,94,33%,1,2,-1,Playoffs:  Lower Final
+542279,233501,ct,HYUNMIN,28400,Waylay,8185,South Korea,0.87,236,8,11,4,-3,42%,142,47%,1,1,0,Playoffs:  Lower Final
+542279,233501,ct,free1ng,1916,Viper,8185,South Korea,0.41,103,4,12,1,-8,42%,66,25%,1,1,0,Playoffs:  Lower Final
+542279,233501,ct,Flashback,35013,Yoru,8185,South Korea,0.22,107,2,11,1,-9,33%,85,8%,0,4,-4,Playoffs:  Lower Final
+542272,233478,t,brawk,2172,Sova,1034,United States,2.13,410,7,1,0,+6,75%,230,16%,0,0,0,Playoffs:  Grand Final
+542272,233478,t,mada,5132,Waylay,1034,Canada,0.85,200,3,3,1,0,100%,104,33%,3,1,+2,Playoffs:  Grand Final
+542272,233478,t,Ethan,11225,Kayo,1034,United States,1.45,186,3,1,2,+2,100%,107,38%,0,0,0,Playoffs:  Grand Final
+542272,233478,t,s0m,4164,Omen,1034,United States,1.47,275,4,2,2,+2,100%,161,38%,0,0,0,Playoffs:  Grand Final
+542272,233478,t,skuba,11118,Viper,1034,United States,1.64,157,3,0,0,+3,100%,94,20%,0,0,0,Playoffs:  Grand Final
+542272,233478,t,kaajak,9554,Yoru,2593,Poland,0.86,148,7,9,0,-2,50%,110,55%,1,1,0,Playoffs:  Grand Final
+542272,233478,t,crashies,4,Fade,2593,United States,1.03,207,8,9,6,-1,67%,144,21%,1,2,-1,Playoffs:  Grand Final
+542272,233478,t,Chronicle,458,Viper,2593,Russia,0.73,139,6,11,2,-5,42%,90,38%,1,1,0,Playoffs:  Grand Final
+542272,233478,t,Boaster,438,Astra,2593,United Kingdom,0.53,133,5,11,4,-6,67%,81,14%,1,1,0,Playoffs:  Grand Final
+542272,233478,t,Alfajer,9810,Vyse,2593,Turkey,0.50,165,7,12,2,-5,58%,113,50%,1,2,-1,Playoffs:  Grand Final
+542272,233478,ct,brawk,2172,Sova,1034,United States,1.87,364,17,6,2,+11,100%,206,20%,1,1,0,Playoffs:  Grand Final
+542272,233478,ct,mada,5132,Waylay,1034,Canada,1.60,328,14,7,5,+7,75%,190,17%,3,2,+1,Playoffs:  Grand Final
+542272,233478,ct,Ethan,11225,Kayo,1034,United States,1.14,176,8,6,2,+2,67%,126,36%,2,1,+1,Playoffs:  Grand Final
+542272,233478,ct,s0m,4164,Omen,1034,United States,0.98,163,6,6,8,0,83%,102,13%,1,0,+1,Playoffs:  Grand Final
+542272,233478,ct,skuba,11118,Viper,1034,United States,0.76,164,7,8,4,-1,92%,123,25%,0,1,-1,Playoffs:  Grand Final
+542272,233478,ct,kaajak,9554,Yoru,2593,Poland,1.55,294,4,4,0,0,75%,184,67%,0,0,0,Playoffs:  Grand Final
+542272,233478,ct,crashies,4,Fade,2593,United States,0.02,54,1,4,0,-3,50%,24,100%,0,2,-2,Playoffs:  Grand Final
+542272,233478,ct,Chronicle,458,Viper,2593,Russia,0.02,35,0,4,1,-4,25%,28,0%,0,0,0,Playoffs:  Grand Final
+542272,233478,ct,Boaster,438,Astra,2593,United Kingdom,0.18,88,1,4,0,-3,25%,51,0%,1,1,0,Playoffs:  Grand Final
+542272,233478,ct,Alfajer,9810,Vyse,2593,Turkey,0.13,85,1,4,0,-3,25%,69,25%,0,0,0,Playoffs:  Grand Final
+542272,233479,t,mada,5132,Raze,1034,Canada,0.96,196,10,7,2,+3,75%,116,47%,2,3,-1,Playoffs:  Grand Final
+542272,233479,t,skuba,11118,Viper,1034,United States,1.14,186,9,6,2,+3,83%,101,50%,1,2,-1,Playoffs:  Grand Final
+542272,233479,t,brawk,2172,Vyse,1034,United States,1.02,208,9,8,5,+1,75%,124,8%,0,2,-2,Playoffs:  Grand Final
+542272,233479,t,Ethan,11225,Fade,1034,United States,1.10,197,10,7,1,+3,75%,106,26%,0,0,0,Playoffs:  Grand Final
+542272,233479,t,s0m,4164,Omen,1034,United States,1.02,202,8,8,4,0,75%,120,12%,1,1,0,Playoffs:  Grand Final
+542272,233479,t,kaajak,9554,Raze,2593,Poland,0.86,253,7,6,1,+1,71%,136,38%,2,2,0,Playoffs:  Grand Final
+542272,233479,t,Chronicle,458,Viper,2593,Russia,1.29,209,5,4,3,+1,71%,157,43%,0,1,-1,Playoffs:  Grand Final
+542272,233479,t,Alfajer,9810,Killjoy,2593,Turkey,0.87,197,5,5,0,0,57%,117,31%,0,1,-1,Playoffs:  Grand Final
+542272,233479,t,Boaster,438,Omen,2593,United Kingdom,1.03,164,4,4,3,0,86%,118,14%,0,0,0,Playoffs:  Grand Final
+542272,233479,t,crashies,4,Fade,2593,United States,0.54,121,3,5,2,-2,57%,67,44%,0,1,-1,Playoffs:  Grand Final
+542272,233479,ct,mada,5132,Raze,1034,Canada,1.81,410,10,6,2,+4,86%,262,33%,3,1,+2,Playoffs:  Grand Final
+542272,233479,ct,skuba,11118,Viper,1034,United States,1.30,157,4,3,2,+1,86%,107,25%,0,0,0,Playoffs:  Grand Final
+542272,233479,ct,brawk,2172,Vyse,1034,United States,1.07,194,5,5,3,0,71%,104,10%,1,0,+1,Playoffs:  Grand Final
+542272,233479,ct,Ethan,11225,Fade,1034,United States,0.53,92,3,5,3,-2,71%,70,8%,0,0,0,Playoffs:  Grand Final
+542272,233479,ct,s0m,4164,Omen,1034,United States,0.64,90,2,5,2,-3,57%,69,25%,1,1,0,Playoffs:  Grand Final
+542272,233479,ct,kaajak,9554,Raze,2593,Poland,1.62,348,14,9,3,+5,83%,234,37%,4,2,+2,Playoffs:  Grand Final
+542272,233479,ct,Chronicle,458,Viper,2593,Russia,0.92,173,7,8,2,-1,50%,116,22%,1,1,0,Playoffs:  Grand Final
+542272,233479,ct,Alfajer,9810,Killjoy,2593,Turkey,0.89,159,6,8,1,-2,58%,116,24%,1,0,+1,Playoffs:  Grand Final
+542272,233479,ct,Boaster,438,Omen,2593,United Kingdom,0.69,162,5,10,4,-5,75%,105,11%,1,0,+1,Playoffs:  Grand Final
+542272,233479,ct,crashies,4,Fade,2593,United States,0.47,99,4,11,5,-7,58%,84,19%,1,1,0,Playoffs:  Grand Final
+542272,233480,t,skuba,11118,Vyse,1034,United States,0.73,134,6,11,2,-5,64%,87,29%,1,2,-1,Playoffs:  Grand Final
+542272,233480,t,brawk,2172,Sova,1034,United States,0.78,187,7,12,3,-5,50%,126,25%,1,1,0,Playoffs:  Grand Final
+542272,233480,t,Ethan,11225,Omen,1034,United States,0.47,127,5,12,4,-7,50%,87,28%,0,1,-1,Playoffs:  Grand Final
+542272,233480,t,mada,5132,Yoru,1034,Canada,0.19,97,4,13,0,-9,29%,83,29%,1,4,-3,Playoffs:  Grand Final
+542272,233480,t,s0m,4164,Harbor,1034,United States,0.37,127,6,14,1,-8,57%,85,43%,0,3,-3,Playoffs:  Grand Final
+542272,233480,t,crashies,4,Sova,2593,United States,1.00,187,9,12,2,-3,43%,122,27%,2,3,-1,Playoffs:  Grand Final
+542272,233480,t,kaajak,9554,Waylay,2593,Poland,0.40,124,5,12,1,-7,43%,85,17%,1,3,-2,Playoffs:  Grand Final
+542272,233480,t,Chronicle,458,Breach,2593,Russia,0.23,83,3,13,2,-10,29%,70,16%,0,1,-1,Playoffs:  Grand Final
+542272,233480,t,Alfajer,9810,Cypher,2593,Turkey,0.58,88,3,10,3,-7,36%,64,10%,1,2,-1,Playoffs:  Grand Final
+542272,233480,t,Boaster,438,Astra,2593,United Kingdom,0.69,133,6,12,4,-6,57%,89,31%,1,0,+1,Playoffs:  Grand Final
+542272,233480,ct,skuba,11118,Vyse,1034,United States,1.67,300,16,4,2,+12,86%,175,33%,2,0,+2,Playoffs:  Grand Final
+542272,233480,ct,brawk,2172,Sova,1034,United States,1.58,258,13,5,6,+8,93%,177,26%,2,0,+2,Playoffs:  Grand Final
+542272,233480,ct,Ethan,11225,Omen,1034,United States,1.53,241,12,4,6,+8,93%,150,24%,1,1,0,Playoffs:  Grand Final
+542272,233480,ct,mada,5132,Yoru,1034,Canada,1.45,210,11,5,3,+6,100%,142,50%,4,1,+3,Playoffs:  Grand Final
+542272,233480,ct,s0m,4164,Harbor,1034,United States,0.70,132,7,8,4,-1,71%,89,19%,0,3,-3,Playoffs:  Grand Final
+542272,233480,ct,crashies,4,Sova,2593,United States,1.75,255,13,3,5,+10,79%,157,31%,1,0,+1,Playoffs:  Grand Final
+542272,233480,ct,kaajak,9554,Waylay,2593,Poland,1.85,372,19,7,3,+12,86%,234,36%,6,1,+5,Playoffs:  Grand Final
+542272,233480,ct,Chronicle,458,Breach,2593,Russia,1.60,253,14,6,6,+8,93%,163,37%,2,0,+2,Playoffs:  Grand Final
+542272,233480,ct,Alfajer,9810,Cypher,2593,Turkey,1.14,186,11,7,2,+4,86%,109,25%,2,0,+2,Playoffs:  Grand Final
+542272,233480,ct,Boaster,438,Astra,2593,United Kingdom,1.01,128,5,5,6,0,86%,85,25%,0,2,-2,Playoffs:  Grand Final
+542272,233481,t,brawk,2172,Sova,1034,United States,1.59,270,8,5,5,+3,78%,167,26%,1,0,+1,Playoffs:  Grand Final
+542272,233481,t,s0m,4164,Omen,1034,United States,0.95,193,6,7,4,-1,78%,128,26%,1,1,0,Playoffs:  Grand Final
+542272,233481,t,Ethan,11225,Kayo,1034,United States,1.20,177,6,5,5,+1,67%,108,14%,0,1,-1,Playoffs:  Grand Final
+542272,233481,t,skuba,11118,Vyse,1034,United States,0.89,213,8,8,0,0,78%,135,38%,0,1,-1,Playoffs:  Grand Final
+542272,233481,t,mada,5132,Jett,1034,Canada,0.33,107,2,8,4,-6,44%,87,14%,1,3,-2,Playoffs:  Grand Final
+542272,233481,t,Alfajer,9810,Sage,2593,Turkey,1.15,249,12,8,1,+4,75%,171,48%,1,1,0,Playoffs:  Grand Final
+542272,233481,t,kaajak,9554,Yoru,2593,Poland,1.65,326,15,8,3,+7,83%,205,41%,4,1,+3,Playoffs:  Grand Final
+542272,233481,t,crashies,4,Sova,2593,United States,1.28,227,10,8,4,+2,75%,154,44%,1,2,-1,Playoffs:  Grand Final
+542272,233481,t,Chronicle,458,Vyse,2593,Russia,0.80,196,8,10,4,-2,75%,135,23%,0,0,0,Playoffs:  Grand Final
+542272,233481,t,Boaster,438,Omen,2593,United Kingdom,0.32,39,1,7,3,-6,75%,32,29%,0,2,-2,Playoffs:  Grand Final
+542272,233481,ct,brawk,2172,Sova,1034,United States,0.95,180,7,8,5,-1,75%,120,25%,1,1,0,Playoffs:  Grand Final
+542272,233481,ct,s0m,4164,Omen,1034,United States,1.04,286,11,11,3,0,75%,160,24%,3,1,+2,Playoffs:  Grand Final
+542272,233481,ct,Ethan,11225,Kayo,1034,United States,0.69,156,7,10,3,-3,75%,86,14%,0,3,-3,Playoffs:  Grand Final
+542272,233481,ct,skuba,11118,Vyse,1034,United States,0.76,197,8,11,2,-3,67%,106,25%,2,0,+2,Playoffs:  Grand Final
+542272,233481,ct,mada,5132,Jett,1034,Canada,1.15,174,8,6,0,+2,75%,99,18%,0,1,-1,Playoffs:  Grand Final
+542272,233481,ct,Alfajer,9810,Sage,2593,Turkey,1.82,367,11,6,3,+5,78%,238,45%,4,0,+4,Playoffs:  Grand Final
+542272,233481,ct,kaajak,9554,Yoru,2593,Poland,0.56,85,3,5,1,-2,56%,48,33%,2,1,+1,Playoffs:  Grand Final
+542272,233481,ct,crashies,4,Sova,2593,United States,0.71,169,4,8,6,-4,78%,113,8%,0,0,0,Playoffs:  Grand Final
+542272,233481,ct,Chronicle,458,Vyse,2593,Russia,1.21,256,10,6,3,+4,67%,139,18%,0,2,-2,Playoffs:  Grand Final
+542272,233481,ct,Boaster,438,Omen,2593,United Kingdom,1.11,188,5,5,6,0,78%,134,15%,0,0,0,Playoffs:  Grand Final
+542272,233482,t,Ethan,11225,Breach,1034,United States,1.77,339,15,8,8,+7,75%,214,27%,1,2,-1,Playoffs:  Grand Final
+542272,233482,t,skuba,11118,Cypher,1034,United States,1.02,205,9,8,2,+1,75%,153,19%,2,0,+2,Playoffs:  Grand Final
+542272,233482,t,brawk,2172,Sova,1034,United States,1.42,240,9,6,7,+3,100%,171,37%,0,0,0,Playoffs:  Grand Final
+542272,233482,t,s0m,4164,Omen,1034,United States,1.10,184,10,9,8,+1,75%,117,27%,2,1,+1,Playoffs:  Grand Final
+542272,233482,t,mada,5132,Neon,1034,Canada,0.38,130,5,10,4,-5,67%,91,36%,2,2,0,Playoffs:  Grand Final
+542272,233482,t,kaajak,9554,Yoru,2593,Poland,0.61,146,4,6,0,-2,67%,96,43%,0,0,0,Playoffs:  Grand Final
+542272,233482,t,Alfajer,9810,Neon,2593,Turkey,0.97,212,5,5,1,0,83%,144,17%,1,2,-1,Playoffs:  Grand Final
+542272,233482,t,Chronicle,458,Cypher,2593,Russia,0.71,138,3,5,2,-2,67%,85,11%,1,1,0,Playoffs:  Grand Final
+542272,233482,t,crashies,4,Fade,2593,United States,0.81,217,4,5,1,-1,83%,145,58%,0,1,-1,Playoffs:  Grand Final
+542272,233482,t,Boaster,438,Omen,2593,United Kingdom,0.21,62,1,5,1,-4,33%,48,0%,0,0,0,Playoffs:  Grand Final
+542272,233482,ct,Ethan,11225,Breach,1034,United States,1.60,389,8,4,1,+4,100%,242,27%,1,0,+1,Playoffs:  Grand Final
+542272,233482,ct,skuba,11118,Cypher,1034,United States,1.53,193,6,1,0,+5,100%,116,17%,1,0,+1,Playoffs:  Grand Final
+542272,233482,ct,brawk,2172,Sova,1034,United States,0.52,131,2,5,4,-3,100%,92,17%,0,0,0,Playoffs:  Grand Final
+542272,233482,ct,s0m,4164,Omen,1034,United States,0.82,114,3,3,1,0,100%,74,5%,0,1,-1,Playoffs:  Grand Final
+542272,233482,ct,mada,5132,Neon,1034,Canada,1.48,315,7,4,1,+3,67%,195,20%,2,1,+1,Playoffs:  Grand Final
+542272,233482,ct,kaajak,9554,Yoru,2593,Poland,1.37,269,12,9,2,+3,67%,181,22%,3,1,+2,Playoffs:  Grand Final
+542272,233482,ct,Alfajer,9810,Neon,2593,Turkey,1.08,275,11,10,4,+1,67%,168,20%,2,2,0,Playoffs:  Grand Final
+542272,233482,ct,Chronicle,458,Cypher,2593,Russia,1.14,228,10,10,3,0,83%,154,27%,0,2,-2,Playoffs:  Grand Final
+542272,233482,ct,crashies,4,Fade,2593,United States,0.45,104,3,9,5,-6,67%,75,28%,0,2,-2,Playoffs:  Grand Final
+542272,233482,ct,Boaster,438,Omen,2593,United Kingdom,0.63,139,5,10,8,-5,75%,74,13%,0,0,0,Playoffs:  Grand Final

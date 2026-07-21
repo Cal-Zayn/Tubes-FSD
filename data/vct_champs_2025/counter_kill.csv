@@ -1,0 +1,881 @@
+match_id,game_id,player,team_id,2k,3k,4k,5k,1v1,1v2,1v3,1v4,1v5,econ_rating,plant,defuse,event_name
+542195,233397,Jinggg,624,5,3,0,0,0,0,0,0,0,89,0,1,Group Stage:  Opening (A)
+542195,233397,f0rsakeN,624,4,1,0,0,0,0,0,0,0,67,1,0,Group Stage:  Opening (A)
+542195,233397,d4v41,624,0,1,0,0,0,0,0,0,0,53,2,1,Group Stage:  Opening (A)
+542195,233397,PatMen,624,3,0,0,0,0,0,0,0,0,45,4,0,Group Stage:  Opening (A)
+542195,233397,something,624,5,0,1,0,0,1,0,0,0,68,0,1,Group Stage:  Opening (A)
+542195,233397,NoMan,13581,6,0,0,0,0,0,0,0,0,50,1,0,Group Stage:  Opening (A)
+542195,233397,coconut,13581,5,0,0,0,0,0,0,0,0,39,7,0,Group Stage:  Opening (A)
+542195,233397,Rarga,13581,3,0,0,0,0,1,0,0,0,54,0,1,Group Stage:  Opening (A)
+542195,233397,Viva,13581,2,0,1,0,0,1,0,1,0,45,0,0,Group Stage:  Opening (A)
+542195,233397,happywei,13581,0,0,0,0,0,0,0,0,0,34,1,1,Group Stage:  Opening (A)
+542195,233398,Jinggg,624,3,2,0,0,0,0,0,0,0,57,0,1,Group Stage:  Opening (A)
+542195,233398,f0rsakeN,624,1,0,3,0,0,1,0,0,0,64,0,0,Group Stage:  Opening (A)
+542195,233398,d4v41,624,2,1,0,0,3,0,0,0,0,33,3,2,Group Stage:  Opening (A)
+542195,233398,PatMen,624,1,0,0,0,0,0,0,0,0,26,0,0,Group Stage:  Opening (A)
+542195,233398,something,624,2,1,0,1,1,0,0,0,0,88,1,1,Group Stage:  Opening (A)
+542195,233398,NoMan,13581,4,1,0,0,0,0,0,0,0,84,0,0,Group Stage:  Opening (A)
+542195,233398,coconut,13581,2,0,0,0,0,0,0,0,0,37,2,0,Group Stage:  Opening (A)
+542195,233398,Rarga,13581,3,1,0,0,0,0,0,0,0,41,0,0,Group Stage:  Opening (A)
+542195,233398,Viva,13581,0,0,0,0,1,0,0,0,0,32,6,0,Group Stage:  Opening (A)
+542195,233398,happywei,13581,1,2,0,0,0,0,0,0,0,71,0,0,Group Stage:  Opening (A)
+542196,233400,Cloud,14419,1,0,0,0,0,0,0,0,0,41,0,0,Group Stage:  Opening (A)
+542196,233400,grubinho,14419,3,0,0,0,0,0,0,0,0,35,1,0,Group Stage:  Opening (A)
+542196,233400,Flickless,14419,2,0,0,0,0,0,0,0,0,29,0,0,Group Stage:  Opening (A)
+542196,233400,ara,14419,2,1,0,0,0,0,0,0,0,45,0,1,Group Stage:  Opening (A)
+542196,233400,westside,14419,2,1,0,0,0,0,0,0,0,37,1,0,Group Stage:  Opening (A)
+542196,233400,Zellsis,2,1,0,0,0,0,0,0,0,0,39,0,1,Group Stage:  Opening (A)
+542196,233400,johnqt,2,2,1,0,0,0,0,0,0,0,74,2,0,Group Stage:  Opening (A)
+542196,233400,bang,2,3,0,0,0,0,0,0,0,0,45,3,0,Group Stage:  Opening (A)
+542196,233400,zekken,2,2,3,1,0,0,0,0,0,0,66,0,0,Group Stage:  Opening (A)
+542196,233400,N4RRATE,2,4,0,1,0,1,0,0,0,0,77,2,1,Group Stage:  Opening (A)
+542196,233401,Cloud,14419,7,1,0,0,0,0,0,0,0,102,3,0,Group Stage:  Opening (A)
+542196,233401,grubinho,14419,2,0,0,0,0,0,0,0,0,55,0,0,Group Stage:  Opening (A)
+542196,233401,Flickless,14419,2,1,0,0,0,1,0,0,0,59,1,2,Group Stage:  Opening (A)
+542196,233401,ara,14419,2,1,0,0,0,0,0,0,0,34,0,0,Group Stage:  Opening (A)
+542196,233401,westside,14419,4,1,0,0,1,0,0,0,0,86,0,0,Group Stage:  Opening (A)
+542196,233401,Zellsis,2,1,0,0,0,0,0,0,0,0,39,0,0,Group Stage:  Opening (A)
+542196,233401,johnqt,2,1,2,0,0,0,0,0,0,0,55,0,0,Group Stage:  Opening (A)
+542196,233401,bang,2,1,0,0,0,0,0,0,0,0,22,2,0,Group Stage:  Opening (A)
+542196,233401,zekken,2,1,0,0,0,0,0,0,0,0,40,0,0,Group Stage:  Opening (A)
+542196,233401,N4RRATE,2,2,1,0,0,1,0,0,0,0,58,2,1,Group Stage:  Opening (A)
+542196,233402,Cloud,14419,5,1,0,0,0,0,0,0,0,64,2,0,Group Stage:  Opening (A)
+542196,233402,grubinho,14419,4,2,0,0,1,0,0,0,0,41,0,0,Group Stage:  Opening (A)
+542196,233402,Flickless,14419,2,0,0,0,0,0,0,0,0,52,7,1,Group Stage:  Opening (A)
+542196,233402,ara,14419,5,1,0,0,0,0,0,0,0,67,0,0,Group Stage:  Opening (A)
+542196,233402,westside,14419,2,0,0,0,0,0,0,0,0,39,1,0,Group Stage:  Opening (A)
+542196,233402,Zellsis,2,2,0,0,0,0,0,0,0,0,40,0,0,Group Stage:  Opening (A)
+542196,233402,johnqt,2,3,0,0,0,0,0,0,0,0,54,3,1,Group Stage:  Opening (A)
+542196,233402,bang,2,2,0,0,0,0,0,0,0,0,38,2,0,Group Stage:  Opening (A)
+542196,233402,zekken,2,2,1,1,0,0,0,1,0,0,60,1,0,Group Stage:  Opening (A)
+542196,233402,N4RRATE,2,2,1,0,0,0,0,0,0,0,46,3,0,Group Stage:  Opening (A)
+542207,233430,brawk,1034,5,1,0,0,0,0,0,0,0,50,3,1,Group Stage:  Opening (C)
+542207,233430,s0m,1034,3,0,1,0,0,0,0,0,0,35,10,0,Group Stage:  Opening (C)
+542207,233430,mada,1034,5,4,0,0,0,1,0,0,0,52,0,0,Group Stage:  Opening (C)
+542207,233430,skuba,1034,2,2,1,0,1,0,0,0,0,45,1,0,Group Stage:  Opening (C)
+542207,233430,Ethan,1034,4,1,0,0,0,0,0,0,0,49,2,0,Group Stage:  Opening (C)
+542207,233430,nobody,1120,3,1,0,0,0,0,0,0,0,43,5,1,Group Stage:  Opening (C)
+542207,233430,ZmjjKK,1120,4,2,0,0,0,0,0,0,0,44,1,0,Group Stage:  Opening (C)
+542207,233430,Smoggy,1120,4,3,0,0,0,1,1,0,0,44,1,1,Group Stage:  Opening (C)
+542207,233430,CHICHOO,1120,5,0,0,0,0,0,0,0,0,41,5,0,Group Stage:  Opening (C)
+542207,233430,Jieni7,1120,4,3,0,0,0,0,0,0,0,36,1,1,Group Stage:  Opening (C)
+542207,233431,brawk,1034,1,1,0,0,0,0,0,0,0,47,5,0,Group Stage:  Opening (C)
+542207,233431,s0m,1034,7,0,0,0,1,0,0,0,0,60,0,1,Group Stage:  Opening (C)
+542207,233431,mada,1034,2,0,1,0,0,0,0,0,0,35,2,0,Group Stage:  Opening (C)
+542207,233431,skuba,1034,3,1,1,0,1,1,0,0,0,68,0,1,Group Stage:  Opening (C)
+542207,233431,Ethan,1034,2,1,1,0,1,0,0,0,0,60,2,1,Group Stage:  Opening (C)
+542207,233431,nobody,1120,3,0,0,0,1,0,0,0,0,49,4,2,Group Stage:  Opening (C)
+542207,233431,ZmjjKK,1120,6,2,0,0,0,0,0,0,0,66,1,0,Group Stage:  Opening (C)
+542207,233431,Smoggy,1120,6,2,0,0,0,0,0,0,0,54,3,0,Group Stage:  Opening (C)
+542207,233431,CHICHOO,1120,2,0,0,0,0,0,0,0,0,46,2,0,Group Stage:  Opening (C)
+542207,233431,Jieni7,1120,1,0,0,0,0,0,0,0,0,31,0,0,Group Stage:  Opening (C)
+542205,233427,paTiTek,474,1,1,0,0,0,0,0,0,0,50,0,1,Group Stage:  Opening (C)
+542205,233427,nAts,474,0,0,0,0,0,0,0,0,0,18,1,0,Group Stage:  Opening (C)
+542205,233427,trexx,474,2,2,0,0,0,0,0,0,0,47,4,1,Group Stage:  Opening (C)
+542205,233427,keiko,474,4,1,0,0,1,0,0,0,0,54,0,1,Group Stage:  Opening (C)
+542205,233427,kamo,474,2,2,0,0,0,0,0,0,0,71,0,1,Group Stage:  Opening (C)
+542205,233427,free1ng,8185,2,0,0,0,0,0,0,0,0,44,0,0,Group Stage:  Opening (C)
+542205,233427,MaKo,8185,5,1,0,0,0,1,0,0,0,74,3,1,Group Stage:  Opening (C)
+542205,233427,BeYN,8185,1,0,0,0,1,0,0,0,0,41,4,0,Group Stage:  Opening (C)
+542205,233427,HYUNMIN,8185,3,0,0,0,0,0,0,0,0,39,2,2,Group Stage:  Opening (C)
+542205,233427,Flashback,8185,5,2,0,0,0,0,0,0,0,55,1,0,Group Stage:  Opening (C)
+542205,233428,paTiTek,474,3,0,0,0,1,0,0,0,0,38,0,1,Group Stage:  Opening (C)
+542205,233428,nAts,474,1,2,0,0,0,0,0,0,0,59,0,1,Group Stage:  Opening (C)
+542205,233428,trexx,474,0,1,0,0,0,0,0,0,0,31,4,0,Group Stage:  Opening (C)
+542205,233428,keiko,474,2,0,1,0,0,1,0,0,0,48,1,1,Group Stage:  Opening (C)
+542205,233428,kamo,474,2,2,0,0,0,0,0,0,0,42,1,0,Group Stage:  Opening (C)
+542205,233428,free1ng,8185,1,1,0,0,0,0,0,0,0,44,0,0,Group Stage:  Opening (C)
+542205,233428,MaKo,8185,2,2,0,0,0,1,0,0,0,61,5,2,Group Stage:  Opening (C)
+542205,233428,BeYN,8185,2,1,1,0,0,0,0,0,0,59,4,0,Group Stage:  Opening (C)
+542205,233428,HYUNMIN,8185,2,1,0,0,0,0,0,0,0,48,0,0,Group Stage:  Opening (C)
+542205,233428,Flashback,8185,1,2,0,0,0,0,0,0,0,47,0,0,Group Stage:  Opening (C)
+542212,233445,Flex1n,11981,2,0,0,0,0,0,0,0,0,26,2,0,Group Stage:  Opening (D)
+542212,233445,Nicc,11981,5,2,0,0,0,0,0,0,0,51,6,1,Group Stage:  Opening (D)
+542212,233445,Demon1,11981,6,0,0,0,1,0,0,0,0,49,3,2,Group Stage:  Opening (D)
+542212,233445,SpiritZ1,11981,6,1,0,0,0,0,0,0,0,65,0,0,Group Stage:  Opening (D)
+542212,233445,Akeman,11981,4,1,0,0,0,0,0,0,0,33,0,0,Group Stage:  Opening (D)
+542212,233445,stax,14,2,1,0,0,0,0,0,0,0,40,7,0,Group Stage:  Opening (D)
+542212,233445,BuZz,14,6,0,0,0,1,0,0,0,0,50,1,1,Group Stage:  Opening (D)
+542212,233445,Meteor,14,4,0,0,0,2,0,0,0,0,40,1,0,Group Stage:  Opening (D)
+542212,233445,iZu,14,6,0,0,0,0,0,0,0,0,41,1,1,Group Stage:  Opening (D)
+542212,233445,DH,14,5,2,1,0,1,2,0,0,0,59,2,1,Group Stage:  Opening (D)
+542212,233446,Flex1n,11981,3,1,0,0,0,0,0,0,0,47,4,0,Group Stage:  Opening (D)
+542212,233446,Nicc,11981,4,1,0,0,0,0,0,0,0,46,4,2,Group Stage:  Opening (D)
+542212,233446,Demon1,11981,3,1,0,0,0,0,0,0,0,40,0,0,Group Stage:  Opening (D)
+542212,233446,SpiritZ1,11981,2,2,1,0,0,0,0,0,0,48,0,2,Group Stage:  Opening (D)
+542212,233446,Akeman,11981,4,0,1,0,1,1,0,0,0,42,0,1,Group Stage:  Opening (D)
+542212,233446,stax,14,3,0,0,0,0,0,0,0,0,38,6,1,Group Stage:  Opening (D)
+542212,233446,BuZz,14,5,4,0,0,2,0,0,0,0,54,0,0,Group Stage:  Opening (D)
+542212,233446,Meteor,14,3,3,1,0,0,0,0,0,0,54,2,0,Group Stage:  Opening (D)
+542212,233446,iZu,14,4,0,0,0,2,0,0,0,0,30,2,1,Group Stage:  Opening (D)
+542212,233446,DH,14,3,1,0,0,1,0,0,0,0,33,1,0,Group Stage:  Opening (D)
+542211,233442,valyn,11058,4,1,0,0,0,0,0,0,0,54,1,0,Group Stage:  Opening (D)
+542211,233442,jawgemo,11058,1,0,0,0,0,0,0,0,0,41,0,2,Group Stage:  Opening (D)
+542211,233442,JonahP,11058,4,0,0,0,0,0,0,0,0,29,0,0,Group Stage:  Opening (D)
+542211,233442,leaf,11058,2,2,0,0,0,0,0,0,0,54,0,1,Group Stage:  Opening (D)
+542211,233442,trent,11058,0,2,0,0,0,0,0,0,0,41,2,0,Group Stage:  Opening (D)
+542211,233442,Boo,1001,0,0,0,0,0,0,0,0,0,37,2,0,Group Stage:  Opening (D)
+542211,233442,RieNs,1001,4,1,0,1,0,0,0,0,0,64,1,0,Group Stage:  Opening (D)
+542211,233442,MiniBoo,1001,3,2,1,0,0,0,0,0,0,57,1,0,Group Stage:  Opening (D)
+542211,233442,Wo0t,1001,0,0,0,0,0,0,0,0,0,27,0,0,Group Stage:  Opening (D)
+542211,233442,benjyfishy,1001,4,0,2,0,1,0,0,0,0,82,3,1,Group Stage:  Opening (D)
+542211,233443,valyn,11058,5,0,1,0,0,0,0,0,0,68,2,0,Group Stage:  Opening (D)
+542211,233443,jawgemo,11058,4,1,0,0,1,0,0,0,0,34,1,1,Group Stage:  Opening (D)
+542211,233443,JonahP,11058,2,0,0,0,0,0,0,0,0,32,0,2,Group Stage:  Opening (D)
+542211,233443,leaf,11058,4,1,0,0,0,0,1,0,0,61,0,0,Group Stage:  Opening (D)
+542211,233443,trent,11058,4,0,0,0,0,0,0,0,0,41,5,1,Group Stage:  Opening (D)
+542211,233443,Boo,1001,2,1,0,0,1,0,0,0,0,47,0,1,Group Stage:  Opening (D)
+542211,233443,RieNs,1001,5,1,0,0,0,1,0,0,0,57,6,1,Group Stage:  Opening (D)
+542211,233443,MiniBoo,1001,5,0,0,0,0,0,0,0,0,60,1,1,Group Stage:  Opening (D)
+542211,233443,Wo0t,1001,5,2,0,0,0,0,0,0,0,72,0,2,Group Stage:  Opening (D)
+542211,233443,benjyfishy,1001,3,0,0,0,1,0,0,0,0,50,2,0,Group Stage:  Opening (D)
+542200,233412,Knight,12010,3,0,0,0,0,0,0,0,0,64,1,0,Group Stage:  Opening (B)
+542200,233412,whzy,12010,1,0,0,0,0,0,0,0,0,34,0,0,Group Stage:  Opening (B)
+542200,233412,nephh,12010,0,0,0,0,0,0,0,0,0,40,0,0,Group Stage:  Opening (B)
+542200,233412,Levius,12010,2,0,0,0,0,1,0,0,0,19,0,1,Group Stage:  Opening (B)
+542200,233412,rushia,12010,0,0,0,0,0,0,0,0,0,32,0,0,Group Stage:  Opening (B)
+542200,233412,cortezia,7386,3,0,0,0,1,0,0,0,0,70,2,1,Group Stage:  Opening (B)
+542200,233412,artzin,7386,4,0,0,0,0,0,0,0,0,47,1,0,Group Stage:  Opening (B)
+542200,233412,aspas,7386,0,1,1,0,0,0,0,0,0,80,0,0,Group Stage:  Opening (B)
+542200,233412,xenom,7386,2,0,0,0,0,0,0,0,0,33,2,0,Group Stage:  Opening (B)
+542200,233412,Verno,7386,2,0,2,0,0,1,0,0,0,93,5,0,Group Stage:  Opening (B)
+542200,233413,Knight,12010,3,0,0,0,0,0,0,0,0,52,1,2,Group Stage:  Opening (B)
+542200,233413,whzy,12010,1,0,1,0,0,0,0,0,0,34,0,0,Group Stage:  Opening (B)
+542200,233413,nephh,12010,2,1,0,0,0,0,0,0,0,52,3,1,Group Stage:  Opening (B)
+542200,233413,Levius,12010,3,1,0,0,0,0,0,0,0,57,0,0,Group Stage:  Opening (B)
+542200,233413,rushia,12010,3,0,0,0,0,0,0,0,0,40,0,1,Group Stage:  Opening (B)
+542200,233413,cortezia,7386,2,2,0,0,0,0,0,0,0,53,1,0,Group Stage:  Opening (B)
+542200,233413,artzin,7386,3,1,0,0,0,0,0,0,0,58,2,0,Group Stage:  Opening (B)
+542200,233413,aspas,7386,6,0,0,1,0,0,0,0,0,63,0,1,Group Stage:  Opening (B)
+542200,233413,xenom,7386,1,1,0,0,0,0,0,0,0,35,2,0,Group Stage:  Opening (B)
+542200,233413,Verno,7386,6,0,0,0,0,0,0,0,0,56,4,1,Group Stage:  Opening (B)
+542201,233415,crazyguy,878,1,0,0,0,0,0,0,0,0,36,1,0,Group Stage:  Opening (B)
+542201,233415,Kushy,878,3,0,0,1,0,1,0,0,0,72,3,1,Group Stage:  Opening (B)
+542201,233415,xffero,878,3,0,1,0,0,1,0,0,0,49,0,1,Group Stage:  Opening (B)
+542201,233415,Monyet,878,1,0,0,0,0,0,0,0,0,28,3,0,Group Stage:  Opening (B)
+542201,233415,Jemkin,878,1,3,0,0,0,0,0,0,0,53,0,0,Group Stage:  Opening (B)
+542201,233415,crashies,2593,3,1,0,0,0,1,0,0,0,55,3,1,Group Stage:  Opening (B)
+542201,233415,Boaster,2593,2,0,0,0,0,0,0,0,0,36,3,1,Group Stage:  Opening (B)
+542201,233415,Chronicle,2593,3,2,1,1,0,0,0,0,0,104,1,1,Group Stage:  Opening (B)
+542201,233415,kaajak,2593,0,0,0,0,0,0,0,0,0,35,1,0,Group Stage:  Opening (B)
+542201,233415,Alfajer,2593,5,1,0,0,0,0,0,0,0,52,1,0,Group Stage:  Opening (B)
+542201,233416,crazyguy,878,3,0,0,0,2,0,0,0,0,54,3,0,Group Stage:  Opening (B)
+542201,233416,Kushy,878,4,0,1,0,0,0,0,0,0,61,4,0,Group Stage:  Opening (B)
+542201,233416,xffero,878,0,0,0,0,0,0,0,0,0,23,2,0,Group Stage:  Opening (B)
+542201,233416,Monyet,878,4,0,0,0,0,0,0,0,0,30,3,0,Group Stage:  Opening (B)
+542201,233416,Jemkin,878,2,0,0,0,0,0,0,0,0,36,0,0,Group Stage:  Opening (B)
+542201,233416,crashies,2593,1,0,0,0,0,0,0,0,0,32,2,0,Group Stage:  Opening (B)
+542201,233416,Boaster,2593,6,2,1,0,1,1,0,0,0,128,2,4,Group Stage:  Opening (B)
+542201,233416,Chronicle,2593,3,2,0,0,0,0,0,0,0,77,3,0,Group Stage:  Opening (B)
+542201,233416,kaajak,2593,4,0,0,0,0,0,0,0,0,38,0,0,Group Stage:  Opening (B)
+542201,233416,Alfajer,2593,4,1,0,0,0,0,0,0,0,66,1,1,Group Stage:  Opening (B)
+542197,233403,Jinggg,624,2,0,0,0,0,0,0,0,0,43,1,0,Group Stage:  Winner's (A)
+542197,233403,f0rsakeN,624,4,1,0,0,0,0,0,0,0,42,3,0,Group Stage:  Winner's (A)
+542197,233403,d4v41,624,3,0,0,0,1,0,0,0,0,48,0,0,Group Stage:  Winner's (A)
+542197,233403,PatMen,624,4,0,0,0,0,0,0,0,0,50,2,0,Group Stage:  Winner's (A)
+542197,233403,something,624,3,0,0,1,1,0,0,0,0,47,0,2,Group Stage:  Winner's (A)
+542197,233403,Cloud,14419,3,1,0,0,0,0,0,0,0,66,1,1,Group Stage:  Winner's (A)
+542197,233403,grubinho,14419,1,0,0,0,0,0,0,0,0,38,0,0,Group Stage:  Winner's (A)
+542197,233403,Flickless,14419,2,0,0,0,0,0,0,0,0,40,4,0,Group Stage:  Winner's (A)
+542197,233403,ara,14419,6,3,0,0,0,0,0,0,0,64,1,0,Group Stage:  Winner's (A)
+542197,233403,westside,14419,5,1,0,0,1,0,0,0,0,58,0,1,Group Stage:  Winner's (A)
+542197,233404,Jinggg,624,2,2,0,0,0,0,0,0,0,61,1,0,Group Stage:  Winner's (A)
+542197,233404,f0rsakeN,624,2,0,0,0,1,0,0,0,0,33,4,0,Group Stage:  Winner's (A)
+542197,233404,d4v41,624,2,2,1,0,0,0,0,0,0,62,2,0,Group Stage:  Winner's (A)
+542197,233404,PatMen,624,1,1,0,0,0,0,0,0,0,37,2,0,Group Stage:  Winner's (A)
+542197,233404,something,624,4,3,0,0,0,0,0,0,0,64,0,1,Group Stage:  Winner's (A)
+542197,233404,Cloud,14419,2,1,0,0,1,0,0,0,0,41,5,0,Group Stage:  Winner's (A)
+542197,233404,grubinho,14419,0,0,1,0,0,0,0,0,0,46,1,0,Group Stage:  Winner's (A)
+542197,233404,Flickless,14419,2,1,0,0,0,0,0,0,0,50,0,1,Group Stage:  Winner's (A)
+542197,233404,ara,14419,2,1,0,0,0,0,0,0,0,37,0,1,Group Stage:  Winner's (A)
+542197,233404,westside,14419,2,1,0,0,0,0,0,0,0,61,0,0,Group Stage:  Winner's (A)
+542197,233405,Jinggg,624,8,1,0,0,0,0,0,0,0,70,1,0,Group Stage:  Winner's (A)
+542197,233405,f0rsakeN,624,2,0,0,0,0,0,0,0,0,42,1,0,Group Stage:  Winner's (A)
+542197,233405,d4v41,624,2,0,0,0,1,0,0,0,0,39,4,1,Group Stage:  Winner's (A)
+542197,233405,PatMen,624,2,1,0,0,0,0,0,0,0,48,0,0,Group Stage:  Winner's (A)
+542197,233405,something,624,5,1,1,0,0,0,0,0,0,69,2,1,Group Stage:  Winner's (A)
+542197,233405,Cloud,14419,0,1,0,0,0,0,0,0,0,50,2,0,Group Stage:  Winner's (A)
+542197,233405,grubinho,14419,3,1,0,0,1,0,0,0,0,51,0,1,Group Stage:  Winner's (A)
+542197,233405,Flickless,14419,3,1,0,0,0,0,0,0,0,55,1,0,Group Stage:  Winner's (A)
+542197,233405,ara,14419,1,0,1,0,0,0,0,1,0,45,0,0,Group Stage:  Winner's (A)
+542197,233405,westside,14419,0,1,0,0,0,0,0,0,0,45,0,0,Group Stage:  Winner's (A)
+542208,233433,free1ng,8185,4,0,0,0,1,0,0,0,0,47,1,0,Group Stage:  Winner's (C)
+542208,233433,MaKo,8185,2,0,0,0,0,0,0,0,0,31,3,0,Group Stage:  Winner's (C)
+542208,233433,BeYN,8185,2,1,0,0,1,0,0,0,0,42,6,0,Group Stage:  Winner's (C)
+542208,233433,HYUNMIN,8185,4,1,0,0,0,0,0,0,0,54,0,1,Group Stage:  Winner's (C)
+542208,233433,Flashback,8185,6,0,0,0,0,1,0,0,0,64,0,0,Group Stage:  Winner's (C)
+542208,233433,brawk,1034,0,0,0,0,0,0,0,0,0,48,0,1,Group Stage:  Winner's (C)
+542208,233433,s0m,1034,1,1,0,0,0,0,0,0,0,34,0,0,Group Stage:  Winner's (C)
+542208,233433,mada,1034,1,2,1,0,0,0,0,0,0,64,0,0,Group Stage:  Winner's (C)
+542208,233433,skuba,1034,3,2,0,0,0,0,0,0,0,52,0,1,Group Stage:  Winner's (C)
+542208,233433,Ethan,1034,1,0,0,0,0,0,0,0,0,33,1,0,Group Stage:  Winner's (C)
+542208,233434,free1ng,8185,2,0,0,0,1,0,0,0,0,54,0,1,Group Stage:  Winner's (C)
+542208,233434,MaKo,8185,0,1,0,0,0,0,0,0,0,37,2,0,Group Stage:  Winner's (C)
+542208,233434,BeYN,8185,3,1,0,0,0,0,0,0,0,51,4,0,Group Stage:  Winner's (C)
+542208,233434,HYUNMIN,8185,4,0,0,0,0,0,0,0,0,46,2,0,Group Stage:  Winner's (C)
+542208,233434,Flashback,8185,8,2,0,0,0,0,0,0,0,62,0,0,Group Stage:  Winner's (C)
+542208,233434,brawk,1034,2,0,0,0,0,0,0,0,0,53,2,1,Group Stage:  Winner's (C)
+542208,233434,s0m,1034,2,3,0,0,0,0,0,0,0,49,2,0,Group Stage:  Winner's (C)
+542208,233434,mada,1034,4,1,0,1,0,0,0,0,0,55,1,0,Group Stage:  Winner's (C)
+542208,233434,skuba,1034,6,0,0,0,0,0,0,0,0,54,1,0,Group Stage:  Winner's (C)
+542208,233434,Ethan,1034,1,0,1,0,0,0,0,0,0,28,3,0,Group Stage:  Winner's (C)
+542208,233435,free1ng,8185,1,0,0,0,0,0,0,0,0,32,1,1,Group Stage:  Winner's (C)
+542208,233435,MaKo,8185,1,0,0,0,2,0,0,0,0,30,1,1,Group Stage:  Winner's (C)
+542208,233435,BeYN,8185,2,1,2,0,0,1,0,1,0,69,6,0,Group Stage:  Winner's (C)
+542208,233435,HYUNMIN,8185,3,1,0,0,0,0,0,0,0,49,3,0,Group Stage:  Winner's (C)
+542208,233435,Flashback,8185,5,2,0,0,0,0,0,0,0,65,1,0,Group Stage:  Winner's (C)
+542208,233435,brawk,1034,6,3,0,0,0,0,0,0,0,80,0,2,Group Stage:  Winner's (C)
+542208,233435,s0m,1034,3,0,0,0,0,0,0,0,0,41,0,0,Group Stage:  Winner's (C)
+542208,233435,mada,1034,4,1,0,0,0,0,0,0,0,50,0,0,Group Stage:  Winner's (C)
+542208,233435,skuba,1034,1,0,0,0,0,0,0,0,0,32,2,0,Group Stage:  Winner's (C)
+542208,233435,Ethan,1034,2,0,0,0,0,0,0,0,0,42,7,2,Group Stage:  Winner's (C)
+542213,233448,Boo,1001,1,0,0,0,1,0,0,0,0,33,0,2,Group Stage:  Winner's (D)
+542213,233448,RieNs,1001,5,2,0,0,0,1,0,0,0,71,7,1,Group Stage:  Winner's (D)
+542213,233448,MiniBoo,1001,1,0,2,0,0,0,0,0,0,54,0,1,Group Stage:  Winner's (D)
+542213,233448,Wo0t,1001,4,2,1,0,0,0,0,0,0,64,0,0,Group Stage:  Winner's (D)
+542213,233448,benjyfishy,1001,3,1,0,0,0,0,0,0,0,50,0,1,Group Stage:  Winner's (D)
+542213,233448,stax,14,0,0,0,0,0,0,0,0,0,24,8,0,Group Stage:  Winner's (D)
+542213,233448,BuZz,14,2,1,1,0,0,0,0,0,0,51,0,0,Group Stage:  Winner's (D)
+542213,233448,Meteor,14,0,1,0,0,0,0,0,0,0,35,0,0,Group Stage:  Winner's (D)
+542213,233448,iZu,14,2,2,0,0,0,1,0,0,0,58,0,1,Group Stage:  Winner's (D)
+542213,233448,DH,14,2,1,1,0,0,0,0,0,0,56,1,1,Group Stage:  Winner's (D)
+542213,233449,Boo,1001,1,1,0,0,1,1,0,0,0,51,1,0,Group Stage:  Winner's (D)
+542213,233449,RieNs,1001,5,1,0,0,0,0,0,0,0,60,3,0,Group Stage:  Winner's (D)
+542213,233449,MiniBoo,1001,2,2,0,0,0,1,0,0,0,47,1,1,Group Stage:  Winner's (D)
+542213,233449,Wo0t,1001,1,1,0,0,1,0,0,0,0,61,1,1,Group Stage:  Winner's (D)
+542213,233449,benjyfishy,1001,3,1,0,0,0,0,0,0,0,28,1,0,Group Stage:  Winner's (D)
+542213,233449,stax,14,1,0,0,0,1,0,0,0,0,39,5,0,Group Stage:  Winner's (D)
+542213,233449,BuZz,14,1,1,1,0,0,0,0,0,0,37,0,0,Group Stage:  Winner's (D)
+542213,233449,Meteor,14,4,2,0,0,0,0,0,0,0,67,1,0,Group Stage:  Winner's (D)
+542213,233449,iZu,14,3,2,0,0,0,0,0,0,0,45,1,0,Group Stage:  Winner's (D)
+542213,233449,DH,14,3,0,1,0,0,0,0,0,0,58,1,0,Group Stage:  Winner's (D)
+542202,233418,cortezia,7386,4,2,0,0,1,1,0,0,0,55,2,1,Group Stage:  Winner's (B)
+542202,233418,artzin,7386,4,1,0,0,0,0,0,0,0,47,1,0,Group Stage:  Winner's (B)
+542202,233418,aspas,7386,2,2,0,0,0,0,0,0,0,74,0,0,Group Stage:  Winner's (B)
+542202,233418,xenom,7386,1,1,0,0,0,0,0,0,0,45,1,0,Group Stage:  Winner's (B)
+542202,233418,Verno,7386,0,1,1,0,0,0,0,0,0,44,5,1,Group Stage:  Winner's (B)
+542202,233418,crashies,2593,2,0,1,0,0,0,0,0,0,55,2,0,Group Stage:  Winner's (B)
+542202,233418,Boaster,2593,1,0,0,0,0,0,0,0,0,29,1,0,Group Stage:  Winner's (B)
+542202,233418,Chronicle,2593,1,0,0,0,0,0,0,0,0,55,0,0,Group Stage:  Winner's (B)
+542202,233418,kaajak,2593,3,0,0,0,0,0,0,0,0,53,0,1,Group Stage:  Winner's (B)
+542202,233418,Alfajer,2593,3,0,0,0,0,0,0,0,0,45,0,1,Group Stage:  Winner's (B)
+542202,233419,cortezia,7386,4,0,0,0,0,0,0,0,0,33,0,0,Group Stage:  Winner's (B)
+542202,233419,artzin,7386,1,1,0,0,0,0,0,0,0,33,4,0,Group Stage:  Winner's (B)
+542202,233419,aspas,7386,4,2,0,0,0,0,0,0,0,78,0,0,Group Stage:  Winner's (B)
+542202,233419,xenom,7386,1,0,0,0,0,0,0,0,0,20,1,0,Group Stage:  Winner's (B)
+542202,233419,Verno,7386,3,2,0,0,0,0,0,0,0,47,3,0,Group Stage:  Winner's (B)
+542202,233419,crashies,2593,1,1,0,0,0,0,0,0,0,78,2,0,Group Stage:  Winner's (B)
+542202,233419,Boaster,2593,2,1,0,0,0,1,0,0,0,53,0,0,Group Stage:  Winner's (B)
+542202,233419,Chronicle,2593,3,0,0,0,0,0,0,0,0,41,5,0,Group Stage:  Winner's (B)
+542202,233419,kaajak,2593,1,2,0,0,0,0,0,0,0,50,0,0,Group Stage:  Winner's (B)
+542202,233419,Alfajer,2593,4,0,1,0,0,0,0,0,0,67,1,1,Group Stage:  Winner's (B)
+542202,233420,cortezia,7386,1,0,0,0,0,0,0,0,0,37,0,0,Group Stage:  Winner's (B)
+542202,233420,artzin,7386,2,2,0,0,1,0,0,0,0,76,0,0,Group Stage:  Winner's (B)
+542202,233420,aspas,7386,3,0,0,0,0,0,0,0,0,35,0,0,Group Stage:  Winner's (B)
+542202,233420,xenom,7386,2,1,1,0,0,0,0,0,0,61,1,0,Group Stage:  Winner's (B)
+542202,233420,Verno,7386,2,0,0,0,0,1,0,0,0,34,2,0,Group Stage:  Winner's (B)
+542202,233420,crashies,2593,4,1,0,0,0,0,0,0,0,53,3,0,Group Stage:  Winner's (B)
+542202,233420,Boaster,2593,1,1,0,0,0,0,0,0,0,42,1,0,Group Stage:  Winner's (B)
+542202,233420,Chronicle,2593,3,1,0,0,0,0,1,0,0,58,1,0,Group Stage:  Winner's (B)
+542202,233420,kaajak,2593,4,2,0,0,0,0,0,0,0,51,0,0,Group Stage:  Winner's (B)
+542202,233420,Alfajer,2593,3,0,0,0,0,0,0,0,0,48,0,0,Group Stage:  Winner's (B)
+542209,233436,paTiTek,474,0,1,0,0,0,0,0,0,0,52,0,0,Group Stage:  Elimination (C)
+542209,233436,nAts,474,0,0,0,0,0,0,0,0,0,39,0,0,Group Stage:  Elimination (C)
+542209,233436,trexx,474,3,0,0,0,1,0,0,0,0,55,3,1,Group Stage:  Elimination (C)
+542209,233436,keiko,474,1,0,0,0,0,0,0,0,0,39,0,0,Group Stage:  Elimination (C)
+542209,233436,kamo,474,2,0,0,0,0,0,0,0,0,27,1,0,Group Stage:  Elimination (C)
+542209,233436,nobody,1120,3,1,0,0,0,0,0,0,0,91,2,1,Group Stage:  Elimination (C)
+542209,233436,ZmjjKK,1120,4,1,2,0,0,0,0,0,0,71,0,1,Group Stage:  Elimination (C)
+542209,233436,Smoggy,1120,2,0,0,0,0,0,0,0,0,37,0,0,Group Stage:  Elimination (C)
+542209,233436,CHICHOO,1120,1,0,0,0,0,0,0,0,0,50,0,1,Group Stage:  Elimination (C)
+542209,233436,Jieni7,1120,3,1,0,0,0,0,0,0,0,82,1,0,Group Stage:  Elimination (C)
+542209,233437,paTiTek,474,2,2,0,0,0,0,0,0,0,50,6,0,Group Stage:  Elimination (C)
+542209,233437,nAts,474,5,3,1,0,1,0,1,0,0,106,1,0,Group Stage:  Elimination (C)
+542209,233437,trexx,474,1,0,0,0,0,0,0,0,0,49,4,1,Group Stage:  Elimination (C)
+542209,233437,keiko,474,1,1,0,0,0,0,0,0,0,45,0,0,Group Stage:  Elimination (C)
+542209,233437,kamo,474,1,1,0,1,0,0,0,0,0,60,0,0,Group Stage:  Elimination (C)
+542209,233437,nobody,1120,1,0,0,0,1,0,0,0,0,39,4,1,Group Stage:  Elimination (C)
+542209,233437,ZmjjKK,1120,3,0,0,0,0,0,0,0,0,30,0,0,Group Stage:  Elimination (C)
+542209,233437,Smoggy,1120,3,0,0,0,1,1,0,0,0,45,0,1,Group Stage:  Elimination (C)
+542209,233437,CHICHOO,1120,3,0,0,0,0,1,0,0,0,33,0,0,Group Stage:  Elimination (C)
+542209,233437,Jieni7,1120,1,1,0,0,0,0,0,0,0,48,0,1,Group Stage:  Elimination (C)
+542209,233438,paTiTek,474,4,0,1,0,0,0,0,0,0,43,4,0,Group Stage:  Elimination (C)
+542209,233438,nAts,474,4,2,1,0,1,1,0,0,0,55,1,0,Group Stage:  Elimination (C)
+542209,233438,trexx,474,0,2,0,0,0,0,0,0,0,38,2,0,Group Stage:  Elimination (C)
+542209,233438,keiko,474,2,0,0,0,0,0,0,0,0,36,1,2,Group Stage:  Elimination (C)
+542209,233438,kamo,474,5,1,1,0,2,0,0,0,0,54,2,0,Group Stage:  Elimination (C)
+542209,233438,nobody,1120,3,1,0,0,1,0,0,0,0,35,4,0,Group Stage:  Elimination (C)
+542209,233438,ZmjjKK,1120,5,2,0,0,0,0,0,0,0,41,0,0,Group Stage:  Elimination (C)
+542209,233438,Smoggy,1120,5,2,0,0,0,0,0,0,0,52,1,1,Group Stage:  Elimination (C)
+542209,233438,CHICHOO,1120,5,1,0,0,1,0,0,0,0,43,1,1,Group Stage:  Elimination (C)
+542209,233438,Jieni7,1120,2,2,0,0,0,0,0,0,0,37,2,1,Group Stage:  Elimination (C)
+542198,233406,NoMan,13581,2,0,0,0,0,0,0,0,0,42,0,0,Group Stage:  Elimination (A)
+542198,233406,coconut,13581,3,1,0,0,0,0,0,0,0,46,0,1,Group Stage:  Elimination (A)
+542198,233406,Rarga,13581,2,0,0,0,0,0,0,0,0,39,0,0,Group Stage:  Elimination (A)
+542198,233406,Viva,13581,2,2,0,0,0,0,0,0,0,54,8,2,Group Stage:  Elimination (A)
+542198,233406,happywei,13581,3,0,0,0,0,0,0,0,0,49,1,0,Group Stage:  Elimination (A)
+542198,233406,Zellsis,2,3,1,0,0,0,0,0,0,0,47,4,1,Group Stage:  Elimination (A)
+542198,233406,johnqt,2,1,1,0,0,0,0,0,0,0,48,4,2,Group Stage:  Elimination (A)
+542198,233406,bang,2,3,1,0,0,0,1,0,0,0,48,1,0,Group Stage:  Elimination (A)
+542198,233406,zekken,2,2,2,0,0,0,0,0,0,0,59,0,0,Group Stage:  Elimination (A)
+542198,233406,N4RRATE,2,4,1,0,0,0,0,0,0,0,52,1,1,Group Stage:  Elimination (A)
+542198,233407,NoMan,13581,3,1,0,0,1,0,0,0,0,54,4,1,Group Stage:  Elimination (A)
+542198,233407,coconut,13581,4,1,0,0,0,0,0,0,0,39,2,0,Group Stage:  Elimination (A)
+542198,233407,Rarga,13581,5,0,0,0,0,0,0,0,0,49,0,0,Group Stage:  Elimination (A)
+542198,233407,Viva,13581,2,0,0,0,0,0,0,0,0,48,5,1,Group Stage:  Elimination (A)
+542198,233407,happywei,13581,3,2,0,0,1,0,0,0,0,60,0,1,Group Stage:  Elimination (A)
+542198,233407,Zellsis,2,3,0,0,0,0,0,0,0,0,41,0,1,Group Stage:  Elimination (A)
+542198,233407,johnqt,2,2,0,0,0,0,0,0,0,0,56,1,0,Group Stage:  Elimination (A)
+542198,233407,bang,2,3,0,0,0,0,0,0,0,0,33,1,0,Group Stage:  Elimination (A)
+542198,233407,zekken,2,4,2,0,1,0,0,0,0,0,65,4,1,Group Stage:  Elimination (A)
+542198,233407,N4RRATE,2,2,1,0,0,1,0,0,0,0,34,5,0,Group Stage:  Elimination (A)
+542198,233408,NoMan,13581,5,3,0,0,0,0,0,0,0,94,0,1,Group Stage:  Elimination (A)
+542198,233408,coconut,13581,2,1,0,0,0,0,0,0,0,33,2,0,Group Stage:  Elimination (A)
+542198,233408,Rarga,13581,3,2,0,0,0,0,0,0,0,58,0,1,Group Stage:  Elimination (A)
+542198,233408,Viva,13581,2,0,0,0,0,0,0,0,0,44,6,0,Group Stage:  Elimination (A)
+542198,233408,happywei,13581,6,2,0,0,0,0,0,0,0,83,0,0,Group Stage:  Elimination (A)
+542198,233408,Zellsis,2,0,0,0,0,0,0,0,0,0,37,0,0,Group Stage:  Elimination (A)
+542198,233408,johnqt,2,5,0,0,0,1,1,0,0,0,63,3,0,Group Stage:  Elimination (A)
+542198,233408,bang,2,0,2,0,0,0,0,0,0,0,38,0,0,Group Stage:  Elimination (A)
+542198,233408,zekken,2,2,1,0,0,0,1,0,0,0,43,1,1,Group Stage:  Elimination (A)
+542198,233408,N4RRATE,2,2,0,0,0,0,0,0,0,0,37,1,0,Group Stage:  Elimination (A)
+542203,233421,Knight,12010,5,0,0,0,0,0,0,0,0,70,3,0,Group Stage:  Elimination (B)
+542203,233421,whzy,12010,4,0,0,0,0,0,0,0,0,51,0,1,Group Stage:  Elimination (B)
+542203,233421,nephh,12010,1,0,0,0,0,0,0,0,0,30,5,0,Group Stage:  Elimination (B)
+542203,233421,Levius,12010,3,4,1,0,0,0,0,0,0,68,0,0,Group Stage:  Elimination (B)
+542203,233421,rushia,12010,2,0,0,0,0,0,0,0,0,48,0,1,Group Stage:  Elimination (B)
+542203,233421,crazyguy,878,4,0,0,0,1,0,0,0,0,57,1,1,Group Stage:  Elimination (B)
+542203,233421,Kushy,878,3,0,0,0,0,0,0,0,0,30,1,0,Group Stage:  Elimination (B)
+542203,233421,xffero,878,2,0,0,0,0,0,0,0,0,37,0,0,Group Stage:  Elimination (B)
+542203,233421,Monyet,878,4,0,0,0,0,0,0,0,0,41,1,0,Group Stage:  Elimination (B)
+542203,233421,Jemkin,878,3,0,0,0,0,0,0,0,0,57,0,1,Group Stage:  Elimination (B)
+542203,233422,Knight,12010,2,0,1,0,1,1,0,0,0,49,7,1,Group Stage:  Elimination (B)
+542203,233422,whzy,12010,0,1,0,0,0,0,0,0,0,43,0,0,Group Stage:  Elimination (B)
+542203,233422,nephh,12010,1,1,1,1,1,0,0,0,0,53,1,0,Group Stage:  Elimination (B)
+542203,233422,Levius,12010,4,0,0,0,0,0,0,0,0,48,0,0,Group Stage:  Elimination (B)
+542203,233422,rushia,12010,0,1,0,0,0,0,0,0,0,38,1,0,Group Stage:  Elimination (B)
+542203,233422,crazyguy,878,3,1,0,0,0,0,0,0,0,61,0,1,Group Stage:  Elimination (B)
+542203,233422,Kushy,878,2,1,0,0,1,0,0,0,0,50,5,1,Group Stage:  Elimination (B)
+542203,233422,xffero,878,3,1,0,0,0,0,0,0,0,46,0,0,Group Stage:  Elimination (B)
+542203,233422,Monyet,878,3,0,0,1,0,1,0,0,0,68,2,1,Group Stage:  Elimination (B)
+542203,233422,Jemkin,878,1,2,0,0,0,0,0,0,0,45,0,1,Group Stage:  Elimination (B)
+542203,233423,Knight,12010,3,0,0,0,0,0,0,0,0,38,2,0,Group Stage:  Elimination (B)
+542203,233423,whzy,12010,0,0,0,0,0,0,0,0,0,28,0,0,Group Stage:  Elimination (B)
+542203,233423,nephh,12010,2,1,0,0,0,0,0,0,0,52,0,0,Group Stage:  Elimination (B)
+542203,233423,Levius,12010,2,0,0,0,0,0,0,0,0,50,0,1,Group Stage:  Elimination (B)
+542203,233423,rushia,12010,2,0,0,0,0,0,0,0,0,48,1,0,Group Stage:  Elimination (B)
+542203,233423,crazyguy,878,2,0,0,0,0,0,0,0,0,41,1,1,Group Stage:  Elimination (B)
+542203,233423,Kushy,878,2,0,0,0,0,0,0,0,0,43,4,1,Group Stage:  Elimination (B)
+542203,233423,xffero,878,2,2,0,0,0,0,0,0,0,63,1,0,Group Stage:  Elimination (B)
+542203,233423,Monyet,878,1,2,0,0,0,0,0,0,0,61,2,0,Group Stage:  Elimination (B)
+542203,233423,Jemkin,878,4,3,1,0,0,0,0,0,0,123,0,1,Group Stage:  Elimination (B)
+542214,233451,valyn,11058,3,0,0,0,1,0,0,0,0,47,4,2,Group Stage:  Elimination (D)
+542214,233451,jawgemo,11058,3,1,0,0,0,0,0,0,0,61,0,0,Group Stage:  Elimination (D)
+542214,233451,JonahP,11058,3,1,0,0,0,1,0,0,0,52,3,1,Group Stage:  Elimination (D)
+542214,233451,leaf,11058,2,4,0,0,1,0,0,0,0,75,2,0,Group Stage:  Elimination (D)
+542214,233451,trent,11058,1,0,0,0,0,0,0,0,0,35,3,0,Group Stage:  Elimination (D)
+542214,233451,Flex1n,11981,3,0,0,0,0,0,0,0,0,50,1,1,Group Stage:  Elimination (D)
+542214,233451,Nicc,11981,1,0,0,0,0,0,0,0,0,29,2,2,Group Stage:  Elimination (D)
+542214,233451,Demon1,11981,1,1,0,0,0,0,0,0,0,40,0,3,Group Stage:  Elimination (D)
+542214,233451,SpiritZ1,11981,4,0,0,0,0,0,0,0,0,40,1,0,Group Stage:  Elimination (D)
+542214,233451,Akeman,11981,1,2,1,0,0,0,0,0,0,61,0,0,Group Stage:  Elimination (D)
+542214,233452,valyn,11058,2,0,0,0,0,0,0,0,0,42,2,2,Group Stage:  Elimination (D)
+542214,233452,jawgemo,11058,4,1,2,0,0,1,0,1,0,71,0,2,Group Stage:  Elimination (D)
+542214,233452,JonahP,11058,5,0,0,0,1,0,0,0,0,57,1,0,Group Stage:  Elimination (D)
+542214,233452,leaf,11058,1,0,0,0,0,0,0,0,0,40,2,0,Group Stage:  Elimination (D)
+542214,233452,trent,11058,3,2,0,0,0,1,0,0,0,76,3,1,Group Stage:  Elimination (D)
+542214,233452,Flex1n,11981,6,0,0,0,0,0,0,0,0,65,6,0,Group Stage:  Elimination (D)
+542214,233452,Nicc,11981,1,0,0,0,0,0,0,0,0,46,4,0,Group Stage:  Elimination (D)
+542214,233452,Demon1,11981,2,1,0,0,1,0,0,0,0,72,0,0,Group Stage:  Elimination (D)
+542214,233452,SpiritZ1,11981,3,1,0,0,0,0,0,0,0,44,0,0,Group Stage:  Elimination (D)
+542214,233452,Akeman,11981,2,0,0,0,0,1,0,0,0,46,2,1,Group Stage:  Elimination (D)
+542210,233439,free1ng,8185,1,0,0,0,0,1,0,0,0,41,0,1,Group Stage:  Decider (C)
+542210,233439,MaKo,8185,5,1,0,0,0,0,0,0,0,81,1,1,Group Stage:  Decider (C)
+542210,233439,BeYN,8185,1,0,0,0,1,0,0,0,0,45,7,2,Group Stage:  Decider (C)
+542210,233439,HYUNMIN,8185,1,1,0,0,1,0,0,0,0,42,0,0,Group Stage:  Decider (C)
+542210,233439,Flashback,8185,2,3,0,0,0,0,0,0,0,65,0,0,Group Stage:  Decider (C)
+542210,233439,paTiTek,474,5,0,0,0,0,0,0,0,0,47,6,0,Group Stage:  Decider (C)
+542210,233439,nAts,474,1,2,0,0,0,0,0,0,0,45,0,0,Group Stage:  Decider (C)
+542210,233439,trexx,474,2,1,0,0,0,0,0,0,0,50,2,0,Group Stage:  Decider (C)
+542210,233439,keiko,474,4,1,0,0,0,0,0,0,0,61,1,0,Group Stage:  Decider (C)
+542210,233439,kamo,474,3,0,0,0,0,0,0,0,0,49,1,1,Group Stage:  Decider (C)
+542210,233440,free1ng,8185,0,1,0,0,0,0,0,0,0,45,0,0,Group Stage:  Decider (C)
+542210,233440,MaKo,8185,2,1,0,0,0,0,0,0,0,45,2,0,Group Stage:  Decider (C)
+542210,233440,BeYN,8185,3,0,0,0,0,1,0,0,0,35,2,4,Group Stage:  Decider (C)
+542210,233440,HYUNMIN,8185,5,2,1,0,0,0,0,0,0,83,0,0,Group Stage:  Decider (C)
+542210,233440,Flashback,8185,1,1,2,0,0,0,1,0,0,59,0,0,Group Stage:  Decider (C)
+542210,233440,paTiTek,474,0,0,0,0,0,0,0,0,0,21,3,0,Group Stage:  Decider (C)
+542210,233440,nAts,474,4,0,0,0,0,0,0,0,0,40,1,0,Group Stage:  Decider (C)
+542210,233440,trexx,474,1,1,0,0,0,0,0,0,0,48,1,0,Group Stage:  Decider (C)
+542210,233440,keiko,474,3,1,0,0,0,0,0,0,0,64,2,0,Group Stage:  Decider (C)
+542210,233440,kamo,474,4,2,0,0,0,0,0,0,0,62,3,0,Group Stage:  Decider (C)
+542199,233409,Cloud,14419,2,1,0,0,1,0,0,0,0,50,9,1,Group Stage:  Decider (A)
+542199,233409,grubinho,14419,3,0,0,0,1,1,0,0,0,48,0,1,Group Stage:  Decider (A)
+542199,233409,Flickless,14419,1,0,0,0,1,0,0,0,0,30,1,0,Group Stage:  Decider (A)
+542199,233409,ara,14419,8,2,0,0,0,0,1,0,0,56,0,0,Group Stage:  Decider (A)
+542199,233409,westside,14419,3,0,0,0,0,0,0,0,0,42,1,1,Group Stage:  Decider (A)
+542199,233409,NoMan,13581,2,2,0,0,0,0,0,0,0,41,0,1,Group Stage:  Decider (A)
+542199,233409,coconut,13581,2,0,0,0,0,0,0,0,0,31,7,0,Group Stage:  Decider (A)
+542199,233409,Rarga,13581,4,1,1,0,0,0,0,0,0,43,1,0,Group Stage:  Decider (A)
+542199,233409,Viva,13581,2,2,1,0,0,0,0,0,0,75,3,2,Group Stage:  Decider (A)
+542199,233409,happywei,13581,5,2,0,0,1,0,0,0,0,68,0,0,Group Stage:  Decider (A)
+542199,233410,Cloud,14419,2,1,0,0,0,0,0,0,0,64,2,0,Group Stage:  Decider (A)
+542199,233410,grubinho,14419,2,0,0,0,0,0,0,0,0,29,0,0,Group Stage:  Decider (A)
+542199,233410,Flickless,14419,4,1,0,0,0,0,0,0,0,61,2,0,Group Stage:  Decider (A)
+542199,233410,ara,14419,1,5,1,0,0,0,0,0,0,74,1,2,Group Stage:  Decider (A)
+542199,233410,westside,14419,2,1,0,0,0,0,0,0,0,39,0,0,Group Stage:  Decider (A)
+542199,233410,NoMan,13581,3,1,1,0,0,0,0,0,0,62,1,0,Group Stage:  Decider (A)
+542199,233410,coconut,13581,2,0,0,0,0,0,0,0,0,30,0,0,Group Stage:  Decider (A)
+542199,233410,Rarga,13581,2,2,0,0,0,0,0,0,0,48,0,0,Group Stage:  Decider (A)
+542199,233410,Viva,13581,1,2,0,0,0,0,0,0,0,65,3,0,Group Stage:  Decider (A)
+542199,233410,happywei,13581,0,2,0,0,0,0,0,0,0,38,0,0,Group Stage:  Decider (A)
+542215,233454,stax,14,2,1,0,0,0,0,0,0,0,30,6,0,Group Stage:  Decider (D)
+542215,233454,BuZz,14,2,1,0,0,0,0,0,0,0,43,0,0,Group Stage:  Decider (D)
+542215,233454,Meteor,14,3,1,0,0,0,0,0,0,0,56,0,0,Group Stage:  Decider (D)
+542215,233454,iZu,14,4,2,0,0,0,0,1,0,0,67,1,0,Group Stage:  Decider (D)
+542215,233454,DH,14,1,0,0,0,0,0,0,0,0,30,1,1,Group Stage:  Decider (D)
+542215,233454,valyn,11058,4,2,1,0,0,0,0,0,0,71,2,0,Group Stage:  Decider (D)
+542215,233454,jawgemo,11058,7,2,0,0,0,0,0,0,0,49,0,1,Group Stage:  Decider (D)
+542215,233454,JonahP,11058,0,1,0,0,1,0,0,0,0,33,1,1,Group Stage:  Decider (D)
+542215,233454,leaf,11058,4,0,1,0,1,1,0,0,0,70,1,0,Group Stage:  Decider (D)
+542215,233454,trent,11058,1,0,0,0,0,0,0,0,0,45,2,1,Group Stage:  Decider (D)
+542215,233455,stax,14,1,2,0,0,0,0,1,0,0,52,7,0,Group Stage:  Decider (D)
+542215,233455,BuZz,14,1,0,0,0,0,0,0,0,0,33,0,0,Group Stage:  Decider (D)
+542215,233455,Meteor,14,3,0,0,0,1,0,0,0,0,53,1,0,Group Stage:  Decider (D)
+542215,233455,iZu,14,2,1,0,0,0,0,0,0,0,35,0,0,Group Stage:  Decider (D)
+542215,233455,DH,14,2,0,0,0,0,0,0,0,0,48,0,0,Group Stage:  Decider (D)
+542215,233455,valyn,11058,2,0,0,0,0,0,0,0,0,64,1,0,Group Stage:  Decider (D)
+542215,233455,jawgemo,11058,5,1,0,0,0,0,0,0,0,55,1,1,Group Stage:  Decider (D)
+542215,233455,JonahP,11058,2,0,0,0,0,0,0,0,0,42,2,0,Group Stage:  Decider (D)
+542215,233455,leaf,11058,3,3,0,0,0,0,0,0,0,63,0,1,Group Stage:  Decider (D)
+542215,233455,trent,11058,6,1,0,0,1,0,0,0,0,59,4,2,Group Stage:  Decider (D)
+542204,233424,cortezia,7386,2,2,0,0,0,0,0,0,0,57,2,0,Group Stage:  Decider (B)
+542204,233424,artzin,7386,3,2,0,1,1,0,0,0,0,93,2,2,Group Stage:  Decider (B)
+542204,233424,aspas,7386,5,1,0,0,1,0,0,0,0,50,2,0,Group Stage:  Decider (B)
+542204,233424,xenom,7386,1,1,0,0,0,0,0,0,0,41,1,0,Group Stage:  Decider (B)
+542204,233424,Verno,7386,1,1,0,0,0,0,0,0,0,42,5,0,Group Stage:  Decider (B)
+542204,233424,crazyguy,878,0,0,0,0,0,0,0,0,0,33,0,0,Group Stage:  Decider (B)
+542204,233424,Kushy,878,3,0,0,0,0,0,0,0,0,47,3,1,Group Stage:  Decider (B)
+542204,233424,xffero,878,0,0,0,0,0,0,0,0,0,39,1,1,Group Stage:  Decider (B)
+542204,233424,Monyet,878,2,1,0,0,1,0,0,0,0,64,0,1,Group Stage:  Decider (B)
+542204,233424,Jemkin,878,1,0,0,0,0,0,0,0,0,28,0,0,Group Stage:  Decider (B)
+542204,233425,cortezia,7386,4,0,0,0,0,0,0,0,0,49,0,0,Group Stage:  Decider (B)
+542204,233425,artzin,7386,1,0,0,0,0,0,0,0,0,39,1,0,Group Stage:  Decider (B)
+542204,233425,aspas,7386,2,0,2,0,0,0,0,0,0,78,0,2,Group Stage:  Decider (B)
+542204,233425,xenom,7386,3,1,0,0,1,1,0,0,0,50,1,2,Group Stage:  Decider (B)
+542204,233425,Verno,7386,1,1,0,0,0,0,0,0,0,53,4,2,Group Stage:  Decider (B)
+542204,233425,crazyguy,878,1,0,0,0,0,0,0,0,0,42,1,1,Group Stage:  Decider (B)
+542204,233425,Kushy,878,1,0,0,0,0,0,0,0,0,17,5,0,Group Stage:  Decider (B)
+542204,233425,xffero,878,2,1,0,0,0,0,0,0,0,63,0,0,Group Stage:  Decider (B)
+542204,233425,Monyet,878,1,0,0,0,0,0,0,0,0,40,4,0,Group Stage:  Decider (B)
+542204,233425,Jemkin,878,1,1,2,0,0,0,1,0,0,73,0,0,Group Stage:  Decider (B)
+542265,233460,Jinggg,624,2,2,0,0,0,0,0,0,0,59,0,0,Playoffs:  Upper Quarterfinals
+542265,233460,f0rsakeN,624,2,0,1,0,0,0,0,0,0,42,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,d4v41,624,2,1,0,0,1,0,0,0,0,65,1,1,Playoffs:  Upper Quarterfinals
+542265,233460,PatMen,624,4,1,0,0,0,0,0,0,0,42,7,1,Playoffs:  Upper Quarterfinals
+542265,233460,something,624,3,2,0,0,0,0,0,0,0,52,0,0,Playoffs:  Upper Quarterfinals
+542265,233460,valyn,11058,1,2,0,0,0,0,0,0,0,48,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,jawgemo,11058,3,3,0,0,0,1,0,0,0,58,0,2,Playoffs:  Upper Quarterfinals
+542265,233460,JonahP,11058,2,1,1,0,0,0,0,0,0,55,1,0,Playoffs:  Upper Quarterfinals
+542265,233460,leaf,11058,3,1,1,0,0,0,0,0,0,58,0,0,Playoffs:  Upper Quarterfinals
+542265,233460,trent,11058,1,0,0,0,1,0,0,0,0,24,5,0,Playoffs:  Upper Quarterfinals
+542265,233461,Jinggg,624,3,1,0,0,0,0,0,0,0,48,0,2,Playoffs:  Upper Quarterfinals
+542265,233461,f0rsakeN,624,1,2,1,0,0,0,0,0,0,39,1,0,Playoffs:  Upper Quarterfinals
+542265,233461,d4v41,624,2,0,1,0,0,0,0,0,0,36,0,0,Playoffs:  Upper Quarterfinals
+542265,233461,PatMen,624,4,2,0,0,0,0,0,0,0,47,8,0,Playoffs:  Upper Quarterfinals
+542265,233461,something,624,5,2,1,0,0,0,1,0,0,55,1,0,Playoffs:  Upper Quarterfinals
+542265,233461,valyn,11058,2,0,0,0,0,0,0,0,0,34,0,1,Playoffs:  Upper Quarterfinals
+542265,233461,jawgemo,11058,1,2,0,0,2,0,0,0,0,30,1,1,Playoffs:  Upper Quarterfinals
+542265,233461,JonahP,11058,4,3,0,0,0,0,0,0,0,55,2,1,Playoffs:  Upper Quarterfinals
+542265,233461,leaf,11058,4,2,0,0,1,0,0,0,0,53,1,0,Playoffs:  Upper Quarterfinals
+542265,233461,trent,11058,3,3,0,0,0,1,0,0,0,51,5,1,Playoffs:  Upper Quarterfinals
+542265,233462,Jinggg,624,1,3,0,0,0,0,0,0,0,43,1,0,Playoffs:  Upper Quarterfinals
+542265,233462,f0rsakeN,624,1,3,2,0,0,1,0,0,0,78,4,1,Playoffs:  Upper Quarterfinals
+542265,233462,d4v41,624,5,0,0,0,0,0,0,0,0,54,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,PatMen,624,1,1,0,0,1,0,0,0,0,28,5,1,Playoffs:  Upper Quarterfinals
+542265,233462,something,624,4,0,1,0,0,0,0,0,0,64,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,valyn,11058,3,0,0,0,0,0,0,0,0,44,1,0,Playoffs:  Upper Quarterfinals
+542265,233462,jawgemo,11058,4,0,0,0,0,0,0,0,0,41,2,0,Playoffs:  Upper Quarterfinals
+542265,233462,JonahP,11058,4,0,0,0,0,0,0,0,0,39,0,0,Playoffs:  Upper Quarterfinals
+542265,233462,leaf,11058,8,1,1,0,0,0,0,0,0,116,1,0,Playoffs:  Upper Quarterfinals
+542265,233462,trent,11058,1,1,0,0,0,1,0,0,0,44,6,2,Playoffs:  Upper Quarterfinals
+542264,233457,crashies,2593,5,0,0,0,1,0,0,0,0,55,4,0,Playoffs:  Upper Quarterfinals
+542264,233457,Boaster,2593,2,1,0,0,0,0,0,0,0,24,4,0,Playoffs:  Upper Quarterfinals
+542264,233457,Chronicle,2593,1,0,0,0,0,0,0,0,0,40,2,0,Playoffs:  Upper Quarterfinals
+542264,233457,kaajak,2593,2,2,1,0,0,0,0,0,0,66,0,1,Playoffs:  Upper Quarterfinals
+542264,233457,Alfajer,2593,2,2,2,0,0,0,1,0,0,82,2,0,Playoffs:  Upper Quarterfinals
+542264,233457,free1ng,8185,3,0,0,0,0,0,0,0,0,38,0,0,Playoffs:  Upper Quarterfinals
+542264,233457,MaKo,8185,4,1,0,0,0,1,0,0,0,61,2,1,Playoffs:  Upper Quarterfinals
+542264,233457,BeYN,8185,3,0,0,0,1,1,0,0,0,65,9,0,Playoffs:  Upper Quarterfinals
+542264,233457,HYUNMIN,8185,4,0,0,0,0,0,0,0,0,50,0,0,Playoffs:  Upper Quarterfinals
+542264,233457,Flashback,8185,3,1,0,0,0,0,0,0,0,43,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,crashies,2593,2,0,0,0,0,0,0,0,0,32,4,0,Playoffs:  Upper Quarterfinals
+542264,233458,Boaster,2593,1,1,0,0,0,0,0,0,0,33,2,0,Playoffs:  Upper Quarterfinals
+542264,233458,Chronicle,2593,1,2,1,0,0,0,0,0,0,69,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,kaajak,2593,2,2,0,0,0,0,0,0,0,60,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,Alfajer,2593,3,2,0,0,0,0,0,0,0,52,1,0,Playoffs:  Upper Quarterfinals
+542264,233458,free1ng,8185,1,0,1,0,0,0,0,0,0,33,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,MaKo,8185,4,0,1,0,0,0,0,0,0,75,3,0,Playoffs:  Upper Quarterfinals
+542264,233458,BeYN,8185,2,0,0,0,2,0,0,0,0,65,4,1,Playoffs:  Upper Quarterfinals
+542264,233458,HYUNMIN,8185,3,1,0,0,0,0,0,0,0,51,0,0,Playoffs:  Upper Quarterfinals
+542264,233458,Flashback,8185,3,1,0,0,0,0,0,0,0,77,0,0,Playoffs:  Upper Quarterfinals
+542264,233459,crashies,2593,2,2,0,0,0,0,0,0,0,41,3,0,Playoffs:  Upper Quarterfinals
+542264,233459,Boaster,2593,1,1,0,0,0,0,0,0,0,39,3,0,Playoffs:  Upper Quarterfinals
+542264,233459,Chronicle,2593,2,0,0,0,0,0,0,0,0,44,2,0,Playoffs:  Upper Quarterfinals
+542264,233459,kaajak,2593,3,0,1,0,1,0,0,0,0,49,1,3,Playoffs:  Upper Quarterfinals
+542264,233459,Alfajer,2593,5,2,0,0,0,0,0,0,0,89,0,0,Playoffs:  Upper Quarterfinals
+542264,233459,free1ng,8185,1,0,0,0,0,1,0,0,0,46,1,1,Playoffs:  Upper Quarterfinals
+542264,233459,MaKo,8185,0,0,0,0,0,0,0,0,0,36,2,0,Playoffs:  Upper Quarterfinals
+542264,233459,BeYN,8185,2,0,0,0,1,0,0,0,0,39,1,0,Playoffs:  Upper Quarterfinals
+542264,233459,HYUNMIN,8185,4,0,0,0,0,0,0,0,0,42,0,0,Playoffs:  Upper Quarterfinals
+542264,233459,Flashback,8185,4,1,0,0,0,0,0,0,0,51,0,0,Playoffs:  Upper Quarterfinals
+542266,233463,Boo,1001,2,0,0,0,0,0,0,0,0,36,5,0,Playoffs:  Upper Quarterfinals
+542266,233463,RieNs,1001,4,1,0,0,1,0,0,0,0,54,1,0,Playoffs:  Upper Quarterfinals
+542266,233463,MiniBoo,1001,3,1,0,0,2,0,0,0,0,45,1,1,Playoffs:  Upper Quarterfinals
+542266,233463,Wo0t,1001,4,0,0,0,0,1,0,0,0,48,2,0,Playoffs:  Upper Quarterfinals
+542266,233463,benjyfishy,1001,1,0,0,0,1,0,0,0,0,33,2,1,Playoffs:  Upper Quarterfinals
+542266,233463,cortezia,7386,4,0,0,0,0,0,0,0,0,33,0,1,Playoffs:  Upper Quarterfinals
+542266,233463,artzin,7386,4,3,0,0,1,0,0,0,0,84,2,2,Playoffs:  Upper Quarterfinals
+542266,233463,aspas,7386,4,0,0,0,1,0,0,0,0,39,0,0,Playoffs:  Upper Quarterfinals
+542266,233463,xenom,7386,3,1,0,0,0,0,0,0,0,47,1,0,Playoffs:  Upper Quarterfinals
+542266,233463,Verno,7386,1,2,0,0,0,0,0,0,0,51,7,0,Playoffs:  Upper Quarterfinals
+542266,233464,Boo,1001,2,0,0,0,1,0,0,0,0,26,2,1,Playoffs:  Upper Quarterfinals
+542266,233464,RieNs,1001,3,1,0,0,0,0,0,0,0,55,3,0,Playoffs:  Upper Quarterfinals
+542266,233464,MiniBoo,1001,0,1,0,0,0,0,0,0,0,32,0,2,Playoffs:  Upper Quarterfinals
+542266,233464,Wo0t,1001,1,1,0,0,0,0,0,1,0,40,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,benjyfishy,1001,2,0,1,0,0,0,0,0,0,41,1,0,Playoffs:  Upper Quarterfinals
+542266,233464,cortezia,7386,4,1,0,0,0,0,0,0,0,75,2,0,Playoffs:  Upper Quarterfinals
+542266,233464,artzin,7386,1,1,0,0,0,0,0,0,0,60,0,1,Playoffs:  Upper Quarterfinals
+542266,233464,aspas,7386,1,3,0,0,0,0,0,0,0,83,0,1,Playoffs:  Upper Quarterfinals
+542266,233464,xenom,7386,3,0,0,0,0,0,0,0,0,46,0,0,Playoffs:  Upper Quarterfinals
+542266,233464,Verno,7386,4,1,0,0,1,0,0,0,0,71,4,1,Playoffs:  Upper Quarterfinals
+542267,233466,brawk,1034,3,0,2,0,0,0,0,0,0,138,2,1,Playoffs:  Upper Quarterfinals
+542267,233466,s0m,1034,1,1,1,0,0,0,0,0,0,80,1,0,Playoffs:  Upper Quarterfinals
+542267,233466,mada,1034,2,3,0,0,0,0,0,0,0,71,1,0,Playoffs:  Upper Quarterfinals
+542267,233466,skuba,1034,0,1,0,0,0,0,0,0,0,26,1,0,Playoffs:  Upper Quarterfinals
+542267,233466,Ethan,1034,1,0,0,0,0,0,0,0,0,39,7,0,Playoffs:  Upper Quarterfinals
+542267,233466,Cloud,14419,1,0,0,0,0,0,0,0,0,42,1,1,Playoffs:  Upper Quarterfinals
+542267,233466,grubinho,14419,0,1,0,0,0,0,0,0,0,47,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,Flickless,14419,0,0,0,0,0,0,0,0,0,43,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,ara,14419,0,0,0,0,0,0,0,0,0,17,0,0,Playoffs:  Upper Quarterfinals
+542267,233466,westside,14419,0,0,0,0,0,0,0,0,0,35,0,0,Playoffs:  Upper Quarterfinals
+542267,233467,brawk,1034,2,2,0,0,0,0,0,0,0,78,0,1,Playoffs:  Upper Quarterfinals
+542267,233467,s0m,1034,2,0,0,0,0,0,0,0,0,45,3,0,Playoffs:  Upper Quarterfinals
+542267,233467,mada,1034,5,1,0,0,0,0,0,0,0,64,1,0,Playoffs:  Upper Quarterfinals
+542267,233467,skuba,1034,5,1,0,0,0,1,0,0,0,58,3,0,Playoffs:  Upper Quarterfinals
+542267,233467,Ethan,1034,2,1,0,0,0,0,0,0,0,48,3,0,Playoffs:  Upper Quarterfinals
+542267,233467,Cloud,14419,2,1,0,0,1,0,0,0,0,62,2,0,Playoffs:  Upper Quarterfinals
+542267,233467,grubinho,14419,0,1,1,0,0,0,0,0,0,51,1,0,Playoffs:  Upper Quarterfinals
+542267,233467,Flickless,14419,1,0,0,0,0,0,0,0,0,40,1,0,Playoffs:  Upper Quarterfinals
+542267,233467,ara,14419,0,0,0,0,0,0,0,0,0,14,0,1,Playoffs:  Upper Quarterfinals
+542267,233467,westside,14419,3,1,0,0,1,0,0,0,0,53,0,0,Playoffs:  Upper Quarterfinals
+542273,233483,free1ng,8185,1,1,1,0,0,0,0,0,0,58,0,0,Playoffs:  Lower Round 1
+542273,233483,MaKo,8185,4,0,1,0,1,0,1,0,0,52,1,1,Playoffs:  Lower Round 1
+542273,233483,BeYN,8185,0,0,0,0,0,0,0,0,0,23,6,0,Playoffs:  Lower Round 1
+542273,233483,HYUNMIN,8185,2,0,0,0,0,0,0,0,0,36,0,0,Playoffs:  Lower Round 1
+542273,233483,Flashback,8185,2,1,0,0,0,0,0,0,0,39,0,0,Playoffs:  Lower Round 1
+542273,233483,valyn,11058,3,0,0,0,1,0,0,0,0,45,3,0,Playoffs:  Lower Round 1
+542273,233483,jawgemo,11058,1,7,0,0,0,0,0,0,0,80,1,0,Playoffs:  Lower Round 1
+542273,233483,JonahP,11058,1,2,0,0,0,0,0,0,0,67,4,1,Playoffs:  Lower Round 1
+542273,233483,leaf,11058,3,0,0,0,0,0,0,0,0,46,0,3,Playoffs:  Lower Round 1
+542273,233483,trent,11058,3,1,1,0,0,0,0,0,0,61,1,0,Playoffs:  Lower Round 1
+542273,233484,free1ng,8185,1,0,0,0,0,0,0,0,0,13,0,1,Playoffs:  Lower Round 1
+542273,233484,MaKo,8185,6,1,0,0,0,0,0,0,0,48,2,0,Playoffs:  Lower Round 1
+542273,233484,BeYN,8185,1,0,0,0,0,0,0,0,0,41,7,1,Playoffs:  Lower Round 1
+542273,233484,HYUNMIN,8185,4,5,0,0,1,0,0,0,0,81,0,0,Playoffs:  Lower Round 1
+542273,233484,Flashback,8185,6,1,0,0,0,0,0,0,0,53,0,0,Playoffs:  Lower Round 1
+542273,233484,valyn,11058,0,2,0,0,0,0,1,0,0,45,3,0,Playoffs:  Lower Round 1
+542273,233484,jawgemo,11058,3,1,0,0,0,0,0,0,0,37,1,0,Playoffs:  Lower Round 1
+542273,233484,JonahP,11058,2,2,0,0,0,0,0,0,0,41,3,0,Playoffs:  Lower Round 1
+542273,233484,leaf,11058,2,0,0,0,0,0,0,0,0,54,0,0,Playoffs:  Lower Round 1
+542273,233484,trent,11058,4,0,0,0,0,1,0,0,0,57,1,2,Playoffs:  Lower Round 1
+542273,233485,free1ng,8185,2,1,0,0,0,0,0,0,0,58,1,0,Playoffs:  Lower Round 1
+542273,233485,MaKo,8185,5,0,1,0,0,1,0,0,0,82,3,1,Playoffs:  Lower Round 1
+542273,233485,BeYN,8185,2,0,0,0,0,0,0,0,0,41,0,0,Playoffs:  Lower Round 1
+542273,233485,HYUNMIN,8185,2,1,0,0,0,0,0,0,0,56,0,0,Playoffs:  Lower Round 1
+542273,233485,Flashback,8185,5,1,0,0,0,0,0,0,0,56,0,2,Playoffs:  Lower Round 1
+542273,233485,valyn,11058,1,3,0,0,0,0,0,0,0,60,0,1,Playoffs:  Lower Round 1
+542273,233485,jawgemo,11058,5,0,0,0,0,0,0,0,0,46,1,0,Playoffs:  Lower Round 1
+542273,233485,JonahP,11058,0,0,0,0,1,1,0,0,0,19,3,0,Playoffs:  Lower Round 1
+542273,233485,leaf,11058,2,0,0,0,0,0,0,0,0,33,0,0,Playoffs:  Lower Round 1
+542273,233485,trent,11058,2,0,0,0,0,0,0,0,0,44,1,0,Playoffs:  Lower Round 1
+542274,233486,Boo,1001,2,0,0,0,0,0,0,0,0,51,0,0,Playoffs:  Lower Round 1
+542274,233486,RieNs,1001,1,4,1,0,0,1,0,0,0,108,0,0,Playoffs:  Lower Round 1
+542274,233486,MiniBoo,1001,5,1,0,0,0,0,0,0,0,69,2,0,Playoffs:  Lower Round 1
+542274,233486,Wo0t,1001,3,1,0,0,0,0,0,0,0,44,1,0,Playoffs:  Lower Round 1
+542274,233486,benjyfishy,1001,4,0,0,0,1,0,0,0,0,54,0,0,Playoffs:  Lower Round 1
+542274,233486,Cloud,14419,1,0,0,0,0,0,0,0,0,38,1,0,Playoffs:  Lower Round 1
+542274,233486,grubinho,14419,1,0,0,0,0,0,0,0,0,19,0,0,Playoffs:  Lower Round 1
+542274,233486,Flickless,14419,2,0,0,0,0,0,0,0,0,52,2,0,Playoffs:  Lower Round 1
+542274,233486,ara,14419,0,1,0,0,1,0,0,0,0,58,0,0,Playoffs:  Lower Round 1
+542274,233486,westside,14419,2,0,0,0,0,0,0,0,0,51,1,0,Playoffs:  Lower Round 1
+542274,233487,Boo,1001,0,0,0,0,0,0,0,0,0,19,1,2,Playoffs:  Lower Round 1
+542274,233487,RieNs,1001,2,0,0,0,0,0,0,0,0,35,0,0,Playoffs:  Lower Round 1
+542274,233487,MiniBoo,1001,1,1,0,0,0,0,0,0,0,51,0,0,Playoffs:  Lower Round 1
+542274,233487,Wo0t,1001,0,3,0,0,0,0,0,0,0,45,0,0,Playoffs:  Lower Round 1
+542274,233487,benjyfishy,1001,1,0,0,0,0,0,0,0,0,37,0,1,Playoffs:  Lower Round 1
+542274,233487,Cloud,14419,5,0,0,0,0,0,0,0,0,76,6,0,Playoffs:  Lower Round 1
+542274,233487,grubinho,14419,2,0,0,0,0,0,0,0,0,63,2,0,Playoffs:  Lower Round 1
+542274,233487,Flickless,14419,1,1,0,0,1,0,0,0,0,69,1,1,Playoffs:  Lower Round 1
+542274,233487,ara,14419,3,1,0,0,0,0,0,0,0,69,2,0,Playoffs:  Lower Round 1
+542274,233487,westside,14419,4,1,0,0,1,0,0,0,0,59,0,0,Playoffs:  Lower Round 1
+542274,233488,Boo,1001,4,1,0,0,1,1,0,0,0,56,6,3,Playoffs:  Lower Round 1
+542274,233488,RieNs,1001,3,0,0,0,1,0,1,0,0,51,0,1,Playoffs:  Lower Round 1
+542274,233488,MiniBoo,1001,2,3,0,0,0,0,0,0,0,54,0,2,Playoffs:  Lower Round 1
+542274,233488,Wo0t,1001,0,0,1,0,0,0,0,0,0,40,0,0,Playoffs:  Lower Round 1
+542274,233488,benjyfishy,1001,2,1,0,0,1,0,0,0,0,47,2,1,Playoffs:  Lower Round 1
+542274,233488,Cloud,14419,7,0,0,0,0,0,0,0,0,62,6,0,Playoffs:  Lower Round 1
+542274,233488,grubinho,14419,5,0,0,0,0,0,0,0,0,47,1,0,Playoffs:  Lower Round 1
+542274,233488,Flickless,14419,1,1,0,0,0,0,0,0,0,62,2,1,Playoffs:  Lower Round 1
+542274,233488,ara,14419,3,0,0,0,0,0,0,0,0,35,0,2,Playoffs:  Lower Round 1
+542274,233488,westside,14419,4,1,1,0,0,0,0,0,0,54,0,1,Playoffs:  Lower Round 1
+542268,233469,crashies,2593,2,1,0,0,0,0,0,0,0,45,0,0,Playoffs:  Upper Semifinals
+542268,233469,Boaster,2593,1,0,0,0,0,0,0,0,0,45,3,1,Playoffs:  Upper Semifinals
+542268,233469,Chronicle,2593,2,0,0,0,0,0,0,0,0,38,1,0,Playoffs:  Upper Semifinals
+542268,233469,doma,2593,3,1,0,0,0,0,0,0,0,49,1,0,Playoffs:  Upper Semifinals
+542268,233469,kaajak,2593,3,4,1,0,1,0,0,0,0,83,0,1,Playoffs:  Upper Semifinals
+542268,233469,Jinggg,624,2,0,0,0,0,0,0,0,0,48,0,0,Playoffs:  Upper Semifinals
+542268,233469,f0rsakeN,624,6,0,0,0,0,0,0,0,0,50,1,0,Playoffs:  Upper Semifinals
+542268,233469,d4v41,624,3,1,0,0,0,1,0,0,0,55,0,2,Playoffs:  Upper Semifinals
+542268,233469,PatMen,624,2,2,0,0,0,0,0,0,0,57,6,1,Playoffs:  Upper Semifinals
+542268,233469,something,624,2,0,1,0,0,0,0,0,0,47,0,0,Playoffs:  Upper Semifinals
+542268,233470,crashies,2593,4,0,0,0,2,0,0,0,0,55,2,0,Playoffs:  Upper Semifinals
+542268,233470,Boaster,2593,2,1,0,0,0,0,0,0,0,31,3,1,Playoffs:  Upper Semifinals
+542268,233470,Chronicle,2593,3,1,1,0,0,0,1,0,0,83,4,0,Playoffs:  Upper Semifinals
+542268,233470,doma,2593,5,0,0,0,0,0,0,0,0,48,0,0,Playoffs:  Upper Semifinals
+542268,233470,kaajak,2593,2,1,1,0,0,0,0,0,0,76,1,0,Playoffs:  Upper Semifinals
+542268,233470,Jinggg,624,2,0,0,0,0,0,0,0,0,40,0,0,Playoffs:  Upper Semifinals
+542268,233470,f0rsakeN,624,4,1,0,0,0,0,0,0,0,49,0,0,Playoffs:  Upper Semifinals
+542268,233470,d4v41,624,1,0,1,0,0,1,0,0,0,46,0,1,Playoffs:  Upper Semifinals
+542268,233470,PatMen,624,1,0,0,0,0,0,0,0,0,32,1,0,Playoffs:  Upper Semifinals
+542268,233470,something,624,2,0,0,0,0,0,0,0,0,33,0,1,Playoffs:  Upper Semifinals
+542268,233471,crashies,2593,0,1,0,0,1,0,0,0,0,35,2,4,Playoffs:  Upper Semifinals
+542268,233471,Boaster,2593,4,1,0,0,0,0,0,0,0,56,2,1,Playoffs:  Upper Semifinals
+542268,233471,Chronicle,2593,8,1,1,0,1,0,0,0,0,88,1,2,Playoffs:  Upper Semifinals
+542268,233471,doma,2593,2,1,0,0,0,1,0,0,0,45,1,0,Playoffs:  Upper Semifinals
+542268,233471,kaajak,2593,5,1,0,0,0,0,0,0,0,51,0,1,Playoffs:  Upper Semifinals
+542268,233471,Jinggg,624,1,2,0,0,1,0,0,0,0,57,0,1,Playoffs:  Upper Semifinals
+542268,233471,f0rsakeN,624,1,2,0,0,0,0,0,0,0,53,0,0,Playoffs:  Upper Semifinals
+542268,233471,d4v41,624,4,0,0,0,0,0,0,0,0,50,0,0,Playoffs:  Upper Semifinals
+542268,233471,PatMen,624,1,0,0,0,0,0,0,0,0,39,8,2,Playoffs:  Upper Semifinals
+542268,233471,something,624,1,2,0,0,1,0,0,0,0,50,0,0,Playoffs:  Upper Semifinals
+542269,233472,cortezia,7386,7,1,0,0,0,0,0,0,0,57,0,0,Playoffs:  Upper Semifinals
+542269,233472,artzin,7386,4,1,0,0,0,0,0,0,0,36,4,0,Playoffs:  Upper Semifinals
+542269,233472,aspas,7386,12,2,0,0,0,0,0,0,0,57,1,0,Playoffs:  Upper Semifinals
+542269,233472,xenom,7386,3,0,0,0,0,0,0,0,0,31,1,1,Playoffs:  Upper Semifinals
+542269,233472,Verno,7386,3,0,0,0,0,0,0,0,0,33,6,1,Playoffs:  Upper Semifinals
+542269,233472,brawk,1034,4,1,0,0,0,2,0,0,0,32,0,3,Playoffs:  Upper Semifinals
+542269,233472,s0m,1034,1,3,0,0,0,0,0,0,0,33,6,0,Playoffs:  Upper Semifinals
+542269,233472,mada,1034,4,2,0,0,1,0,0,0,0,37,0,3,Playoffs:  Upper Semifinals
+542269,233472,skuba,1034,2,0,0,0,0,0,0,0,0,31,2,0,Playoffs:  Upper Semifinals
+542269,233472,Ethan,1034,5,0,0,0,0,0,0,0,0,37,2,0,Playoffs:  Upper Semifinals
+542269,233473,cortezia,7386,2,1,0,0,0,0,0,0,0,61,0,1,Playoffs:  Upper Semifinals
+542269,233473,artzin,7386,2,2,0,0,0,0,0,0,0,87,0,0,Playoffs:  Upper Semifinals
+542269,233473,aspas,7386,4,3,0,0,0,0,0,0,0,54,0,1,Playoffs:  Upper Semifinals
+542269,233473,xenom,7386,1,0,0,0,0,0,0,0,0,25,1,1,Playoffs:  Upper Semifinals
+542269,233473,Verno,7386,4,0,0,0,0,0,0,0,0,63,3,1,Playoffs:  Upper Semifinals
+542269,233473,brawk,1034,1,1,0,0,0,0,0,0,0,61,2,1,Playoffs:  Upper Semifinals
+542269,233473,s0m,1034,3,0,0,0,0,0,0,0,0,60,2,0,Playoffs:  Upper Semifinals
+542269,233473,mada,1034,0,1,0,0,0,0,0,0,0,27,0,0,Playoffs:  Upper Semifinals
+542269,233473,skuba,1034,0,1,0,0,1,0,0,0,0,47,1,0,Playoffs:  Upper Semifinals
+542269,233473,Ethan,1034,0,0,0,0,0,0,0,0,0,28,1,0,Playoffs:  Upper Semifinals
+542269,233474,cortezia,7386,4,0,0,0,0,0,0,0,0,36,0,1,Playoffs:  Upper Semifinals
+542269,233474,artzin,7386,5,0,0,0,0,0,0,0,0,31,3,0,Playoffs:  Upper Semifinals
+542269,233474,aspas,7386,5,1,0,1,0,0,0,0,0,37,1,1,Playoffs:  Upper Semifinals
+542269,233474,xenom,7386,4,0,0,0,0,0,0,0,0,30,0,0,Playoffs:  Upper Semifinals
+542269,233474,Verno,7386,3,2,0,0,1,0,0,0,0,47,6,1,Playoffs:  Upper Semifinals
+542269,233474,brawk,1034,4,1,0,0,1,0,0,0,0,52,1,1,Playoffs:  Upper Semifinals
+542269,233474,s0m,1034,3,1,0,0,0,1,0,0,0,48,1,1,Playoffs:  Upper Semifinals
+542269,233474,mada,1034,1,3,0,0,0,0,0,0,0,35,1,0,Playoffs:  Upper Semifinals
+542269,233474,skuba,1034,1,2,0,0,0,1,0,0,0,55,0,1,Playoffs:  Upper Semifinals
+542269,233474,Ethan,1034,3,0,0,0,0,0,0,0,0,46,8,1,Playoffs:  Upper Semifinals
+542277,233492,Jinggg,624,2,1,0,0,0,0,0,0,0,35,1,0,Playoffs:  Lower Round 2
+542277,233492,f0rsakeN,624,3,1,0,1,0,0,0,0,0,43,3,0,Playoffs:  Lower Round 2
+542277,233492,d4v41,624,4,2,0,0,0,1,0,0,0,77,0,0,Playoffs:  Lower Round 2
+542277,233492,PatMen,624,2,1,0,0,1,0,0,0,0,46,5,1,Playoffs:  Lower Round 2
+542277,233492,something,624,3,1,1,0,0,0,0,0,0,59,1,0,Playoffs:  Lower Round 2
+542277,233492,Boo,1001,3,0,0,0,0,0,0,0,0,53,4,1,Playoffs:  Lower Round 2
+542277,233492,RieNs,1001,3,1,0,0,0,0,0,0,0,64,3,0,Playoffs:  Lower Round 2
+542277,233492,MiniBoo,1001,4,0,0,0,0,0,0,0,0,39,0,0,Playoffs:  Lower Round 2
+542277,233492,Wo0t,1001,3,2,1,0,0,1,0,0,0,69,0,1,Playoffs:  Lower Round 2
+542277,233492,benjyfishy,1001,1,0,0,0,0,0,0,0,0,29,2,0,Playoffs:  Lower Round 2
+542277,233493,Jinggg,624,5,0,0,0,0,0,0,0,0,49,0,0,Playoffs:  Lower Round 2
+542277,233493,f0rsakeN,624,1,1,2,0,0,0,0,0,0,65,2,0,Playoffs:  Lower Round 2
+542277,233493,d4v41,624,4,0,1,0,0,0,0,0,0,54,1,0,Playoffs:  Lower Round 2
+542277,233493,PatMen,624,2,0,1,0,0,0,0,0,0,47,3,0,Playoffs:  Lower Round 2
+542277,233493,something,624,4,0,0,0,0,0,0,0,0,37,0,1,Playoffs:  Lower Round 2
+542277,233493,Boo,1001,4,0,0,0,1,0,0,0,0,53,6,0,Playoffs:  Lower Round 2
+542277,233493,RieNs,1001,4,0,0,0,1,0,0,0,0,48,0,2,Playoffs:  Lower Round 2
+542277,233493,MiniBoo,1001,4,1,0,0,0,0,0,0,0,40,0,0,Playoffs:  Lower Round 2
+542277,233493,Wo0t,1001,3,1,1,0,2,0,0,0,0,62,0,2,Playoffs:  Lower Round 2
+542277,233493,benjyfishy,1001,2,0,0,0,1,0,0,0,0,41,0,0,Playoffs:  Lower Round 2
+542277,233494,Jinggg,624,1,2,0,0,0,1,0,0,0,40,0,1,Playoffs:  Lower Round 2
+542277,233494,f0rsakeN,624,1,1,1,0,1,0,0,0,0,58,1,1,Playoffs:  Lower Round 2
+542277,233494,d4v41,624,5,1,0,0,0,0,0,0,0,87,0,0,Playoffs:  Lower Round 2
+542277,233494,PatMen,624,3,1,0,0,0,0,0,0,0,85,8,0,Playoffs:  Lower Round 2
+542277,233494,something,624,3,1,0,0,0,0,0,0,0,51,0,1,Playoffs:  Lower Round 2
+542277,233494,Boo,1001,2,0,0,0,0,0,0,0,0,47,1,0,Playoffs:  Lower Round 2
+542277,233494,RieNs,1001,3,1,0,0,0,0,0,0,0,56,1,1,Playoffs:  Lower Round 2
+542277,233494,MiniBoo,1001,1,1,0,0,0,0,0,0,0,57,0,0,Playoffs:  Lower Round 2
+542277,233494,Wo0t,1001,3,0,0,0,1,0,0,0,0,38,0,0,Playoffs:  Lower Round 2
+542277,233494,benjyfishy,1001,2,1,0,0,0,0,0,0,0,57,1,1,Playoffs:  Lower Round 2
+542276,233489,cortezia,7386,5,1,0,0,0,0,0,0,0,79,0,0,Playoffs:  Lower Round 2
+542276,233489,artzin,7386,3,1,0,0,0,0,0,0,0,60,0,0,Playoffs:  Lower Round 2
+542276,233489,aspas,7386,3,3,0,0,0,0,0,0,0,72,0,1,Playoffs:  Lower Round 2
+542276,233489,xenom,7386,3,0,0,0,0,0,0,0,0,33,4,0,Playoffs:  Lower Round 2
+542276,233489,Verno,7386,2,3,0,0,0,0,0,0,0,62,2,0,Playoffs:  Lower Round 2
+542276,233489,free1ng,8185,2,2,0,0,1,0,0,0,0,50,0,1,Playoffs:  Lower Round 2
+542276,233489,MaKo,8185,1,0,0,0,0,0,0,0,0,46,0,0,Playoffs:  Lower Round 2
+542276,233489,BeYN,8185,2,1,0,0,0,0,0,0,0,49,2,0,Playoffs:  Lower Round 2
+542276,233489,HYUNMIN,8185,1,0,1,0,0,0,0,0,0,34,0,1,Playoffs:  Lower Round 2
+542276,233489,Flashback,8185,1,2,0,0,0,0,0,0,0,35,0,1,Playoffs:  Lower Round 2
+542276,233490,cortezia,7386,3,0,1,0,0,0,0,0,0,48,1,1,Playoffs:  Lower Round 2
+542276,233490,artzin,7386,2,0,0,0,0,0,0,0,0,28,2,0,Playoffs:  Lower Round 2
+542276,233490,aspas,7386,3,2,1,0,0,0,0,0,0,58,1,0,Playoffs:  Lower Round 2
+542276,233490,xenom,7386,2,1,0,0,1,0,0,0,0,36,1,0,Playoffs:  Lower Round 2
+542276,233490,Verno,7386,2,3,0,0,0,0,0,0,0,44,3,0,Playoffs:  Lower Round 2
+542276,233490,free1ng,8185,2,2,0,0,0,0,0,0,0,54,4,0,Playoffs:  Lower Round 2
+542276,233490,MaKo,8185,1,1,0,0,0,0,0,0,0,35,4,0,Playoffs:  Lower Round 2
+542276,233490,BeYN,8185,3,4,0,0,2,0,1,0,0,60,3,0,Playoffs:  Lower Round 2
+542276,233490,HYUNMIN,8185,1,2,0,0,0,0,0,0,0,43,0,0,Playoffs:  Lower Round 2
+542276,233490,Flashback,8185,3,1,0,0,0,0,0,0,0,48,0,0,Playoffs:  Lower Round 2
+542276,233491,cortezia,7386,3,0,1,0,0,0,0,0,0,62,0,1,Playoffs:  Lower Round 2
+542276,233491,artzin,7386,1,0,0,0,0,0,0,0,0,38,1,0,Playoffs:  Lower Round 2
+542276,233491,aspas,7386,4,1,1,0,0,0,0,0,0,69,0,0,Playoffs:  Lower Round 2
+542276,233491,xenom,7386,2,0,0,0,0,0,0,0,0,36,0,0,Playoffs:  Lower Round 2
+542276,233491,Verno,7386,1,1,0,0,0,0,0,0,0,39,8,1,Playoffs:  Lower Round 2
+542276,233491,free1ng,8185,2,1,0,0,0,0,0,0,0,44,0,0,Playoffs:  Lower Round 2
+542276,233491,MaKo,8185,3,1,0,0,0,1,0,0,0,51,3,1,Playoffs:  Lower Round 2
+542276,233491,BeYN,8185,2,0,0,0,0,0,0,0,0,43,6,0,Playoffs:  Lower Round 2
+542276,233491,HYUNMIN,8185,1,2,0,0,0,0,0,0,0,36,0,1,Playoffs:  Lower Round 2
+542276,233491,Flashback,8185,3,2,0,1,1,0,0,0,0,59,0,1,Playoffs:  Lower Round 2
+542270,233475,crashies,2593,1,0,1,0,0,0,0,0,0,45,1,1,Playoffs:  Upper Final
+542270,233475,Boaster,2593,3,1,0,0,0,0,0,0,0,52,0,0,Playoffs:  Upper Final
+542270,233475,Chronicle,2593,4,1,0,0,0,0,0,0,0,48,1,1,Playoffs:  Upper Final
+542270,233475,kaajak,2593,4,1,1,0,0,0,0,0,0,57,0,0,Playoffs:  Upper Final
+542270,233475,Alfajer,2593,5,0,0,0,0,0,0,0,0,35,2,2,Playoffs:  Upper Final
+542270,233475,brawk,1034,3,1,1,0,0,0,0,0,0,58,3,0,Playoffs:  Upper Final
+542270,233475,s0m,1034,3,1,1,0,0,0,0,1,0,48,2,0,Playoffs:  Upper Final
+542270,233475,mada,1034,3,1,0,0,1,0,0,0,0,42,0,0,Playoffs:  Upper Final
+542270,233475,skuba,1034,3,1,1,0,2,0,0,0,0,65,0,0,Playoffs:  Upper Final
+542270,233475,Ethan,1034,0,2,0,0,1,0,0,0,0,46,3,0,Playoffs:  Upper Final
+542270,233476,crashies,2593,3,0,0,0,0,0,0,0,0,54,2,0,Playoffs:  Upper Final
+542270,233476,Boaster,2593,0,0,0,0,0,0,0,0,0,26,1,1,Playoffs:  Upper Final
+542270,233476,Chronicle,2593,1,1,0,0,0,0,0,0,0,43,1,0,Playoffs:  Upper Final
+542270,233476,kaajak,2593,1,1,0,0,0,0,0,0,0,44,0,0,Playoffs:  Upper Final
+542270,233476,Alfajer,2593,1,0,0,0,0,0,0,0,0,33,0,0,Playoffs:  Upper Final
+542270,233476,brawk,1034,2,0,0,0,0,0,0,0,0,53,2,0,Playoffs:  Upper Final
+542270,233476,s0m,1034,3,1,0,0,0,0,0,0,0,58,6,0,Playoffs:  Upper Final
+542270,233476,mada,1034,3,1,0,0,0,0,0,0,0,55,0,0,Playoffs:  Upper Final
+542270,233476,skuba,1034,0,2,1,0,0,1,0,0,0,76,2,0,Playoffs:  Upper Final
+542270,233476,Ethan,1034,2,1,0,0,0,0,0,0,0,62,1,0,Playoffs:  Upper Final
+542278,233495,free1ng,8185,4,1,0,0,0,0,0,0,0,44,0,1,Playoffs:  Lower Round 3
+542278,233495,MaKo,8185,3,0,0,0,0,0,0,0,0,40,2,0,Playoffs:  Lower Round 3
+542278,233495,BeYN,8185,4,0,0,0,0,0,0,0,0,40,2,0,Playoffs:  Lower Round 3
+542278,233495,HYUNMIN,8185,6,3,2,0,0,0,0,0,0,69,0,0,Playoffs:  Lower Round 3
+542278,233495,Flashback,8185,2,1,0,0,0,0,0,0,0,40,0,0,Playoffs:  Lower Round 3
+542278,233495,Jinggg,624,3,6,0,0,0,0,0,0,0,64,1,0,Playoffs:  Lower Round 3
+542278,233495,f0rsakeN,624,2,2,0,0,1,0,0,0,0,31,1,0,Playoffs:  Lower Round 3
+542278,233495,d4v41,624,2,1,0,0,0,0,0,0,0,48,1,0,Playoffs:  Lower Round 3
+542278,233495,PatMen,624,3,0,0,0,0,0,0,0,0,41,0,0,Playoffs:  Lower Round 3
+542278,233495,something,624,3,1,0,0,0,0,0,0,0,39,1,0,Playoffs:  Lower Round 3
+542278,233496,free1ng,8185,2,1,0,0,0,0,0,0,0,61,0,1,Playoffs:  Lower Round 3
+542278,233496,MaKo,8185,2,0,1,0,0,0,0,0,0,63,3,0,Playoffs:  Lower Round 3
+542278,233496,BeYN,8185,2,1,0,0,0,0,0,0,0,63,5,0,Playoffs:  Lower Round 3
+542278,233496,HYUNMIN,8185,5,2,0,0,0,0,0,0,0,54,1,1,Playoffs:  Lower Round 3
+542278,233496,Flashback,8185,3,0,0,0,0,0,0,0,0,50,0,0,Playoffs:  Lower Round 3
+542278,233496,Jinggg,624,3,2,0,0,0,0,1,0,0,73,1,2,Playoffs:  Lower Round 3
+542278,233496,f0rsakeN,624,1,0,0,0,0,0,0,0,0,43,1,0,Playoffs:  Lower Round 3
+542278,233496,d4v41,624,3,0,0,0,0,0,0,0,0,45,0,0,Playoffs:  Lower Round 3
+542278,233496,PatMen,624,0,0,0,0,0,0,0,0,0,15,3,0,Playoffs:  Lower Round 3
+542278,233496,something,624,1,0,0,0,0,0,0,0,0,34,0,0,Playoffs:  Lower Round 3
+542279,233498,crashies,2593,5,0,0,0,0,0,0,0,0,55,4,1,Playoffs:  Lower Final
+542279,233498,Boaster,2593,3,0,0,0,0,0,0,0,0,30,0,0,Playoffs:  Lower Final
+542279,233498,Chronicle,2593,0,1,0,0,0,0,0,0,0,26,1,0,Playoffs:  Lower Final
+542279,233498,kaajak,2593,3,1,0,0,0,0,0,0,0,54,0,0,Playoffs:  Lower Final
+542279,233498,Alfajer,2593,3,1,1,0,0,0,0,0,0,64,1,1,Playoffs:  Lower Final
+542279,233498,free1ng,8185,2,3,0,0,2,0,0,0,0,72,0,2,Playoffs:  Lower Final
+542279,233498,MaKo,8185,0,0,1,0,0,0,0,0,0,33,2,0,Playoffs:  Lower Final
+542279,233498,BeYN,8185,2,0,0,0,0,0,0,0,0,40,3,0,Playoffs:  Lower Final
+542279,233498,HYUNMIN,8185,5,1,1,0,0,0,0,0,0,67,0,0,Playoffs:  Lower Final
+542279,233498,Flashback,8185,5,1,0,0,0,0,0,0,0,61,2,0,Playoffs:  Lower Final
+542279,233499,crashies,2593,3,3,0,0,0,0,1,0,0,96,7,1,Playoffs:  Lower Final
+542279,233499,Boaster,2593,2,0,0,0,0,0,0,0,0,65,2,0,Playoffs:  Lower Final
+542279,233499,Chronicle,2593,4,1,1,0,0,0,0,0,0,73,1,0,Playoffs:  Lower Final
+542279,233499,kaajak,2593,2,0,0,0,0,0,0,0,0,41,0,0,Playoffs:  Lower Final
+542279,233499,Alfajer,2593,2,0,0,0,0,0,0,0,0,58,0,0,Playoffs:  Lower Final
+542279,233499,free1ng,8185,1,0,0,0,1,0,0,0,0,37,0,0,Playoffs:  Lower Final
+542279,233499,MaKo,8185,0,0,0,0,0,0,0,0,0,23,0,0,Playoffs:  Lower Final
+542279,233499,BeYN,8185,2,1,0,0,0,0,0,0,0,40,2,0,Playoffs:  Lower Final
+542279,233499,HYUNMIN,8185,1,0,0,0,0,0,0,0,0,51,0,0,Playoffs:  Lower Final
+542279,233499,Flashback,8185,2,0,0,0,0,0,0,0,0,34,0,0,Playoffs:  Lower Final
+542279,233500,crashies,2593,4,0,1,0,0,0,0,0,0,65,2,0,Playoffs:  Lower Final
+542279,233500,Boaster,2593,0,1,0,0,0,0,0,0,0,29,5,0,Playoffs:  Lower Final
+542279,233500,Chronicle,2593,3,1,0,0,0,0,0,0,0,54,1,1,Playoffs:  Lower Final
+542279,233500,kaajak,2593,6,1,0,0,1,0,0,0,0,57,0,1,Playoffs:  Lower Final
+542279,233500,Alfajer,2593,2,1,0,0,0,0,0,0,0,48,0,1,Playoffs:  Lower Final
+542279,233500,free1ng,8185,0,0,0,0,0,0,0,0,0,34,0,0,Playoffs:  Lower Final
+542279,233500,MaKo,8185,2,1,1,0,0,0,0,0,0,46,2,0,Playoffs:  Lower Final
+542279,233500,BeYN,8185,4,1,0,0,0,0,0,0,0,77,6,0,Playoffs:  Lower Final
+542279,233500,HYUNMIN,8185,2,1,0,0,0,0,0,0,0,43,1,0,Playoffs:  Lower Final
+542279,233500,Flashback,8185,4,1,0,0,0,0,0,0,0,43,0,0,Playoffs:  Lower Final
+542279,233501,crashies,2593,3,0,0,0,0,0,0,0,0,58,3,1,Playoffs:  Lower Final
+542279,233501,Boaster,2593,1,1,0,0,1,0,0,0,0,51,3,0,Playoffs:  Lower Final
+542279,233501,Chronicle,2593,2,1,1,0,0,0,0,0,0,101,2,0,Playoffs:  Lower Final
+542279,233501,kaajak,2593,3,2,0,0,0,0,0,0,0,71,1,0,Playoffs:  Lower Final
+542279,233501,Alfajer,2593,1,0,0,0,0,0,0,0,0,31,1,0,Playoffs:  Lower Final
+542279,233501,free1ng,8185,1,1,0,0,0,0,0,0,0,36,0,0,Playoffs:  Lower Final
+542279,233501,MaKo,8185,3,1,0,0,0,0,0,0,0,43,1,0,Playoffs:  Lower Final
+542279,233501,BeYN,8185,1,0,0,0,0,0,0,0,0,45,2,0,Playoffs:  Lower Final
+542279,233501,HYUNMIN,8185,1,0,0,1,0,0,0,0,0,39,0,0,Playoffs:  Lower Final
+542279,233501,Flashback,8185,0,0,0,0,0,0,0,0,0,34,0,0,Playoffs:  Lower Final
+542272,233478,brawk,1034,5,3,0,0,0,0,0,0,0,99,0,2,Playoffs:  Grand Final
+542272,233478,s0m,1034,4,0,0,0,0,0,0,0,0,51,0,0,Playoffs:  Grand Final
+542272,233478,mada,1034,2,3,0,0,0,0,0,0,0,61,0,1,Playoffs:  Grand Final
+542272,233478,skuba,1034,0,1,0,0,0,1,0,0,0,42,0,1,Playoffs:  Grand Final
+542272,233478,Ethan,1034,0,0,1,0,0,0,0,0,0,52,3,1,Playoffs:  Grand Final
+542272,233478,crashies,2593,2,0,0,0,1,0,0,0,0,45,4,0,Playoffs:  Grand Final
+542272,233478,Boaster,2593,1,0,0,0,0,0,0,0,0,27,2,0,Playoffs:  Grand Final
+542272,233478,Chronicle,2593,1,0,0,0,0,0,0,0,0,29,0,0,Playoffs:  Grand Final
+542272,233478,kaajak,2593,1,1,0,0,0,0,0,0,0,50,1,0,Playoffs:  Grand Final
+542272,233478,Alfajer,2593,2,0,0,0,0,0,0,0,0,37,1,0,Playoffs:  Grand Final
+542272,233479,brawk,1034,1,2,0,0,1,0,0,0,0,51,0,0,Playoffs:  Grand Final
+542272,233479,s0m,1034,1,1,0,0,1,0,0,0,0,36,2,0,Playoffs:  Grand Final
+542272,233479,mada,1034,4,1,0,0,0,0,0,0,0,59,0,0,Playoffs:  Grand Final
+542272,233479,skuba,1034,5,0,0,0,0,0,0,0,0,59,2,1,Playoffs:  Grand Final
+542272,233479,Ethan,1034,2,1,0,0,0,0,0,0,0,35,6,0,Playoffs:  Grand Final
+542272,233479,crashies,2593,1,0,0,0,0,0,0,0,0,32,2,0,Playoffs:  Grand Final
+542272,233479,Boaster,2593,0,1,0,0,0,1,0,0,0,53,1,0,Playoffs:  Grand Final
+542272,233479,Chronicle,2593,2,1,0,0,0,0,0,0,0,60,0,1,Playoffs:  Grand Final
+542272,233479,kaajak,2593,3,1,1,0,0,0,0,0,0,75,0,0,Playoffs:  Grand Final
+542272,233479,Alfajer,2593,3,0,0,0,0,0,0,0,0,44,1,0,Playoffs:  Grand Final
+542272,233480,brawk,1034,2,2,0,0,0,0,0,0,0,56,0,1,Playoffs:  Grand Final
+542272,233480,s0m,1034,0,0,0,0,0,0,0,0,0,27,7,0,Playoffs:  Grand Final
+542272,233480,mada,1034,3,0,0,0,0,0,0,0,0,40,0,1,Playoffs:  Grand Final
+542272,233480,skuba,1034,3,1,2,0,0,0,0,0,0,61,0,2,Playoffs:  Grand Final
+542272,233480,Ethan,1034,4,0,0,0,0,0,0,0,0,51,2,0,Playoffs:  Grand Final
+542272,233480,crashies,2593,4,0,2,0,0,0,0,0,0,55,4,2,Playoffs:  Grand Final
+542272,233480,Boaster,2593,2,1,0,0,0,0,0,0,0,35,2,2,Playoffs:  Grand Final
+542272,233480,Chronicle,2593,1,1,1,0,0,0,0,0,0,41,1,3,Playoffs:  Grand Final
+542272,233480,kaajak,2593,2,4,0,0,0,0,0,0,0,55,0,0,Playoffs:  Grand Final
+542272,233480,Alfajer,2593,2,0,0,0,0,0,0,0,0,30,0,0,Playoffs:  Grand Final
+542272,233481,brawk,1034,2,1,0,0,0,0,0,0,0,55,0,2,Playoffs:  Grand Final
+542272,233481,s0m,1034,2,0,0,0,0,0,0,0,0,57,0,0,Playoffs:  Grand Final
+542272,233481,mada,1034,1,1,0,0,0,0,0,0,0,39,0,0,Playoffs:  Grand Final
+542272,233481,skuba,1034,4,0,0,0,0,0,0,0,0,44,2,0,Playoffs:  Grand Final
+542272,233481,Ethan,1034,2,1,0,0,1,0,0,0,0,38,5,0,Playoffs:  Grand Final
+542272,233481,crashies,2593,4,0,0,0,0,0,0,0,0,58,1,0,Playoffs:  Grand Final
+542272,233481,Boaster,2593,1,0,0,0,0,0,0,0,0,34,3,1,Playoffs:  Grand Final
+542272,233481,Chronicle,2593,1,1,1,0,1,0,0,0,0,45,1,1,Playoffs:  Grand Final
+542272,233481,kaajak,2593,5,0,0,0,1,0,0,0,0,55,2,1,Playoffs:  Grand Final
+542272,233481,Alfajer,2593,5,2,0,0,0,0,0,0,0,77,3,0,Playoffs:  Grand Final
+542272,233482,brawk,1034,2,0,0,0,0,0,0,0,0,68,4,0,Playoffs:  Grand Final
+542272,233482,s0m,1034,4,0,0,0,1,0,0,0,0,41,0,0,Playoffs:  Grand Final
+542272,233482,mada,1034,2,1,0,0,0,0,0,0,0,41,1,2,Playoffs:  Grand Final
+542272,233482,skuba,1034,3,0,0,0,2,0,0,0,0,63,1,1,Playoffs:  Grand Final
+542272,233482,Ethan,1034,2,3,1,0,1,0,0,0,0,93,4,0,Playoffs:  Grand Final
+542272,233482,crashies,2593,1,0,0,0,0,0,0,0,0,36,0,0,Playoffs:  Grand Final
+542272,233482,Boaster,2593,1,0,0,0,0,0,0,0,0,26,4,0,Playoffs:  Grand Final
+542272,233482,Chronicle,2593,1,0,0,0,0,0,0,0,0,51,0,2,Playoffs:  Grand Final
+542272,233482,kaajak,2593,2,2,0,0,0,0,0,0,0,57,1,0,Playoffs:  Grand Final
+542272,233482,Alfajer,2593,2,2,0,0,1,0,0,0,0,65,0,0,Playoffs:  Grand Final

@@ -1,0 +1,205 @@
+match_id,event_name,team,pb_phase,map
+542195,Group Stage:  Opening (A),XLG,ban,Lotus
+542195,Group Stage:  Opening (A),PRX,ban,Abyss
+542195,Group Stage:  Opening (A),XLG,pick,Bind
+542195,Group Stage:  Opening (A),PRX,pick,Sunset
+542195,Group Stage:  Opening (A),XLG,ban,Corrode
+542195,Group Stage:  Opening (A),PRX,ban,Haven
+542196,Group Stage:  Opening (A),SEN,ban,Ascent
+542196,Group Stage:  Opening (A),GX,ban,Lotus
+542196,Group Stage:  Opening (A),SEN,pick,Corrode
+542196,Group Stage:  Opening (A),GX,pick,Sunset
+542196,Group Stage:  Opening (A),SEN,ban,Bind
+542196,Group Stage:  Opening (A),GX,ban,Abyss
+542207,Group Stage:  Opening (C),EDG,ban,Lotus
+542207,Group Stage:  Opening (C),NRG,ban,Sunset
+542207,Group Stage:  Opening (C),EDG,pick,Abyss
+542207,Group Stage:  Opening (C),NRG,pick,Corrode
+542207,Group Stage:  Opening (C),EDG,ban,Ascent
+542207,Group Stage:  Opening (C),NRG,ban,Bind
+542205,Group Stage:  Opening (C),DRX,ban,Sunset
+542205,Group Stage:  Opening (C),TL,ban,Haven
+542205,Group Stage:  Opening (C),DRX,pick,Abyss
+542205,Group Stage:  Opening (C),TL,pick,Bind
+542205,Group Stage:  Opening (C),DRX,ban,Corrode
+542205,Group Stage:  Opening (C),TL,ban,Ascent
+542212,Group Stage:  Opening (D),DRG,ban,Bind
+542212,Group Stage:  Opening (D),T1,ban,Haven
+542212,Group Stage:  Opening (D),DRG,pick,Lotus
+542212,Group Stage:  Opening (D),T1,pick,Sunset
+542212,Group Stage:  Opening (D),DRG,ban,Abyss
+542212,Group Stage:  Opening (D),T1,ban,Corrode
+542211,Group Stage:  Opening (D),TH,ban,Abyss
+542211,Group Stage:  Opening (D),G2,ban,Sunset
+542211,Group Stage:  Opening (D),TH,pick,Corrode
+542211,Group Stage:  Opening (D),G2,pick,Lotus
+542211,Group Stage:  Opening (D),TH,ban,Bind
+542211,Group Stage:  Opening (D),G2,ban,Ascent
+542200,Group Stage:  Opening (B),BLG,ban,Abyss
+542200,Group Stage:  Opening (B),MIBR,ban,Lotus
+542200,Group Stage:  Opening (B),BLG,pick,Haven
+542200,Group Stage:  Opening (B),MIBR,pick,Corrode
+542200,Group Stage:  Opening (B),BLG,ban,Ascent
+542200,Group Stage:  Opening (B),MIBR,ban,Bind
+542201,Group Stage:  Opening (B),FNC,ban,Sunset
+542201,Group Stage:  Opening (B),RRQ,ban,Bind
+542201,Group Stage:  Opening (B),FNC,pick,Ascent
+542201,Group Stage:  Opening (B),RRQ,pick,Abyss
+542201,Group Stage:  Opening (B),FNC,ban,Haven
+542201,Group Stage:  Opening (B),RRQ,ban,Lotus
+542197,Group Stage:  Winner's (A),GX,ban,Bind
+542197,Group Stage:  Winner's (A),PRX,ban,Corrode
+542197,Group Stage:  Winner's (A),GX,pick,Ascent
+542197,Group Stage:  Winner's (A),PRX,pick,Lotus
+542197,Group Stage:  Winner's (A),GX,ban,Abyss
+542197,Group Stage:  Winner's (A),PRX,ban,Haven
+542208,Group Stage:  Winner's (C),DRX,ban,Sunset
+542208,Group Stage:  Winner's (C),NRG,ban,Abyss
+542208,Group Stage:  Winner's (C),DRX,pick,Haven
+542208,Group Stage:  Winner's (C),NRG,pick,Corrode
+542208,Group Stage:  Winner's (C),DRX,ban,Ascent
+542208,Group Stage:  Winner's (C),NRG,ban,Bind
+542213,Group Stage:  Winner's (D),TH,ban,Abyss
+542213,Group Stage:  Winner's (D),T1,ban,Haven
+542213,Group Stage:  Winner's (D),TH,pick,Lotus
+542213,Group Stage:  Winner's (D),T1,pick,Sunset
+542213,Group Stage:  Winner's (D),TH,ban,Bind
+542213,Group Stage:  Winner's (D),T1,ban,Corrode
+542202,Group Stage:  Winner's (B),FNC,ban,Sunset
+542202,Group Stage:  Winner's (B),MIBR,ban,Lotus
+542202,Group Stage:  Winner's (B),FNC,pick,Bind
+542202,Group Stage:  Winner's (B),MIBR,pick,Abyss
+542202,Group Stage:  Winner's (B),FNC,ban,Corrode
+542202,Group Stage:  Winner's (B),MIBR,ban,Ascent
+542209,Group Stage:  Elimination (C),TL,ban,Haven
+542209,Group Stage:  Elimination (C),EDG,ban,Lotus
+542209,Group Stage:  Elimination (C),TL,pick,Sunset
+542209,Group Stage:  Elimination (C),EDG,pick,Abyss
+542209,Group Stage:  Elimination (C),TL,ban,Corrode
+542209,Group Stage:  Elimination (C),EDG,ban,Ascent
+542198,Group Stage:  Elimination (A),XLG,ban,Corrode
+542198,Group Stage:  Elimination (A),SEN,ban,Ascent
+542198,Group Stage:  Elimination (A),XLG,pick,Abyss
+542198,Group Stage:  Elimination (A),SEN,pick,Lotus
+542198,Group Stage:  Elimination (A),XLG,ban,Sunset
+542198,Group Stage:  Elimination (A),SEN,ban,Bind
+542203,Group Stage:  Elimination (B),RRQ,ban,Bind
+542203,Group Stage:  Elimination (B),BLG,ban,Corrode
+542203,Group Stage:  Elimination (B),RRQ,pick,Sunset
+542203,Group Stage:  Elimination (B),BLG,pick,Lotus
+542203,Group Stage:  Elimination (B),RRQ,ban,Ascent
+542203,Group Stage:  Elimination (B),BLG,ban,Haven
+542214,Group Stage:  Elimination (D),DRG,ban,Bind
+542214,Group Stage:  Elimination (D),G2,ban,Corrode
+542214,Group Stage:  Elimination (D),DRG,pick,Lotus
+542214,Group Stage:  Elimination (D),G2,pick,Abyss
+542214,Group Stage:  Elimination (D),DRG,ban,Haven
+542214,Group Stage:  Elimination (D),G2,ban,Sunset
+542210,Group Stage:  Decider (C),TL,ban,Haven
+542210,Group Stage:  Decider (C),DRX,ban,Sunset
+542210,Group Stage:  Decider (C),TL,pick,Corrode
+542210,Group Stage:  Decider (C),DRX,pick,Abyss
+542210,Group Stage:  Decider (C),TL,ban,Lotus
+542210,Group Stage:  Decider (C),DRX,ban,Ascent
+542199,Group Stage:  Decider (A),XLG,ban,Sunset
+542199,Group Stage:  Decider (A),GX,ban,Abyss
+542199,Group Stage:  Decider (A),XLG,pick,Bind
+542199,Group Stage:  Decider (A),GX,pick,Ascent
+542199,Group Stage:  Decider (A),XLG,ban,Corrode
+542199,Group Stage:  Decider (A),GX,ban,Haven
+542215,Group Stage:  Decider (D),G2,ban,Bind
+542215,Group Stage:  Decider (D),T1,ban,Abyss
+542215,Group Stage:  Decider (D),G2,pick,Lotus
+542215,Group Stage:  Decider (D),T1,pick,Corrode
+542215,Group Stage:  Decider (D),G2,ban,Ascent
+542215,Group Stage:  Decider (D),T1,ban,Haven
+542204,Group Stage:  Decider (B),RRQ,ban,Bind
+542204,Group Stage:  Decider (B),MIBR,ban,Lotus
+542204,Group Stage:  Decider (B),RRQ,pick,Corrode
+542204,Group Stage:  Decider (B),MIBR,pick,Abyss
+542204,Group Stage:  Decider (B),RRQ,ban,Sunset
+542204,Group Stage:  Decider (B),MIBR,ban,Ascent
+542265,Playoffs:  Upper Quarterfinals,PRX,ban,Abyss
+542265,Playoffs:  Upper Quarterfinals,G2,ban,Bind
+542265,Playoffs:  Upper Quarterfinals,PRX,pick,Lotus
+542265,Playoffs:  Upper Quarterfinals,G2,pick,Corrode
+542265,Playoffs:  Upper Quarterfinals,PRX,ban,Haven
+542265,Playoffs:  Upper Quarterfinals,G2,ban,Sunset
+542264,Playoffs:  Upper Quarterfinals,DRX,ban,Sunset
+542264,Playoffs:  Upper Quarterfinals,FNC,ban,Abyss
+542264,Playoffs:  Upper Quarterfinals,DRX,pick,Haven
+542264,Playoffs:  Upper Quarterfinals,FNC,pick,Ascent
+542264,Playoffs:  Upper Quarterfinals,DRX,ban,Bind
+542264,Playoffs:  Upper Quarterfinals,FNC,ban,Corrode
+542266,Playoffs:  Upper Quarterfinals,MIBR,ban,Lotus
+542266,Playoffs:  Upper Quarterfinals,TH,ban,Abyss
+542266,Playoffs:  Upper Quarterfinals,MIBR,pick,Corrode
+542266,Playoffs:  Upper Quarterfinals,TH,pick,Sunset
+542266,Playoffs:  Upper Quarterfinals,MIBR,ban,Ascent
+542266,Playoffs:  Upper Quarterfinals,TH,ban,Bind
+542267,Playoffs:  Upper Quarterfinals,GX,ban,Corrode
+542267,Playoffs:  Upper Quarterfinals,NRG,ban,Sunset
+542267,Playoffs:  Upper Quarterfinals,GX,pick,Haven
+542267,Playoffs:  Upper Quarterfinals,NRG,pick,Lotus
+542267,Playoffs:  Upper Quarterfinals,GX,ban,Bind
+542267,Playoffs:  Upper Quarterfinals,NRG,ban,Ascent
+542273,Playoffs:  Lower Round 1,G2,ban,Haven
+542273,Playoffs:  Lower Round 1,DRX,ban,Sunset
+542273,Playoffs:  Lower Round 1,G2,pick,Lotus
+542273,Playoffs:  Lower Round 1,DRX,pick,Abyss
+542273,Playoffs:  Lower Round 1,G2,ban,Ascent
+542273,Playoffs:  Lower Round 1,DRX,ban,Corrode
+542274,Playoffs:  Lower Round 1,GX,ban,Corrode
+542274,Playoffs:  Lower Round 1,TH,ban,Abyss
+542274,Playoffs:  Lower Round 1,GX,pick,Ascent
+542274,Playoffs:  Lower Round 1,TH,pick,Lotus
+542274,Playoffs:  Lower Round 1,GX,ban,Haven
+542274,Playoffs:  Lower Round 1,TH,ban,Sunset
+542268,Playoffs:  Upper Semifinals,PRX,ban,Abyss
+542268,Playoffs:  Upper Semifinals,FNC,ban,Sunset
+542268,Playoffs:  Upper Semifinals,PRX,pick,Bind
+542268,Playoffs:  Upper Semifinals,FNC,pick,Haven
+542268,Playoffs:  Upper Semifinals,PRX,ban,Ascent
+542268,Playoffs:  Upper Semifinals,FNC,ban,Corrode
+542269,Playoffs:  Upper Semifinals,MIBR,ban,Lotus
+542269,Playoffs:  Upper Semifinals,NRG,ban,Sunset
+542269,Playoffs:  Upper Semifinals,MIBR,pick,Abyss
+542269,Playoffs:  Upper Semifinals,NRG,pick,Haven
+542269,Playoffs:  Upper Semifinals,MIBR,ban,Ascent
+542269,Playoffs:  Upper Semifinals,NRG,ban,Bind
+542277,Playoffs:  Lower Round 2,TH,ban,Sunset
+542277,Playoffs:  Lower Round 2,PRX,ban,Haven
+542277,Playoffs:  Lower Round 2,TH,pick,Ascent
+542277,Playoffs:  Lower Round 2,PRX,pick,Bind
+542277,Playoffs:  Lower Round 2,TH,ban,Abyss
+542277,Playoffs:  Lower Round 2,PRX,ban,Corrode
+542276,Playoffs:  Lower Round 2,MIBR,ban,Abyss
+542276,Playoffs:  Lower Round 2,DRX,ban,Corrode
+542276,Playoffs:  Lower Round 2,MIBR,pick,Sunset
+542276,Playoffs:  Lower Round 2,DRX,pick,Ascent
+542276,Playoffs:  Lower Round 2,MIBR,ban,Haven
+542276,Playoffs:  Lower Round 2,DRX,ban,Lotus
+542270,Playoffs:  Upper Final,FNC,ban,Corrode
+542270,Playoffs:  Upper Final,NRG,ban,Haven
+542270,Playoffs:  Upper Final,FNC,pick,Ascent
+542270,Playoffs:  Upper Final,NRG,pick,Abyss
+542270,Playoffs:  Upper Final,FNC,ban,Sunset
+542270,Playoffs:  Upper Final,NRG,ban,Bind
+542278,Playoffs:  Lower Round 3,DRX,ban,Sunset
+542278,Playoffs:  Lower Round 3,PRX,ban,Abyss
+542278,Playoffs:  Lower Round 3,DRX,pick,Ascent
+542278,Playoffs:  Lower Round 3,PRX,pick,Lotus
+542278,Playoffs:  Lower Round 3,DRX,ban,Bind
+542278,Playoffs:  Lower Round 3,PRX,ban,Haven
+542279,Playoffs:  Lower Final,FNC,ban,Abyss
+542279,Playoffs:  Lower Final,DRX,ban,Lotus
+542279,Playoffs:  Lower Final,FNC,pick,Sunset
+542279,Playoffs:  Lower Final,DRX,pick,Corrode
+542279,Playoffs:  Lower Final,FNC,pick,Haven
+542279,Playoffs:  Lower Final,DRX,pick,Bind
+542272,Playoffs:  Grand Final,NRG,ban,Haven
+542272,Playoffs:  Grand Final,NRG,ban,Bind
+542272,Playoffs:  Grand Final,NRG,pick,Corrode
+542272,Playoffs:  Grand Final,FNC,pick,Lotus
+542272,Playoffs:  Grand Final,NRG,pick,Abyss
+542272,Playoffs:  Grand Final,FNC,pick,Ascent

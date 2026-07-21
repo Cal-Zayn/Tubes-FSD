@@ -1,0 +1,177 @@
+match_id,game_id,team_id,team_pistol_win,team_eco_round,team_eco_win,team_semieco_round,team_semieco_win,team_semibuy_round,team_semibuy_win,team_fullbuy_round,team_fullbuy_win,event_name
+542195,233397,624,1,4,2,0,0,3,2,15,9,Group Stage:  Opening (A)
+542195,233397,13581,1,3,1,1,0,8,3,10,5,Group Stage:  Opening (A)
+542195,233398,624,2,2,2,1,0,5,4,10,7,Group Stage:  Opening (A)
+542195,233398,13581,0,4,0,2,0,3,0,9,5,Group Stage:  Opening (A)
+542196,233400,14419,1,3,1,2,0,4,1,10,4,Group Stage:  Opening (A)
+542196,233400,2,1,3,1,0,0,2,2,14,10,Group Stage:  Opening (A)
+542196,233401,14419,1,4,2,0,0,1,0,12,11,Group Stage:  Opening (A)
+542196,233401,2,1,3,2,0,0,11,1,3,1,Group Stage:  Opening (A)
+542196,233402,14419,1,3,1,1,0,4,3,14,9,Group Stage:  Opening (A)
+542196,233402,2,1,3,1,1,0,6,3,12,5,Group Stage:  Opening (A)
+542207,233430,1034,0,4,0,1,0,7,3,20,14,Group Stage:  Opening (C)
+542207,233430,1120,2,3,2,1,0,5,2,23,11,Group Stage:  Opening (C)
+542207,233431,1034,1,3,1,1,0,5,2,15,10,Group Stage:  Opening (C)
+542207,233431,1120,1,3,1,1,0,5,2,15,8,Group Stage:  Opening (C)
+542205,233427,474,0,4,0,1,1,6,0,10,7,Group Stage:  Opening (C)
+542205,233427,8185,2,2,2,0,0,4,3,15,8,Group Stage:  Opening (C)
+542205,233428,474,1,3,2,1,0,5,2,14,6,Group Stage:  Opening (C)
+542205,233428,8185,1,3,1,2,1,2,1,16,10,Group Stage:  Opening (C)
+542212,233445,11981,2,2,2,2,0,4,2,21,9,Group Stage:  Opening (D)
+542212,233445,14,0,4,0,1,0,4,1,20,15,Group Stage:  Opening (D)
+542212,233446,11981,0,4,0,1,1,4,3,21,10,Group Stage:  Opening (D)
+542212,233446,14,2,3,3,4,1,4,3,19,9,Group Stage:  Opening (D)
+542211,233442,11058,0,4,1,3,0,1,0,15,9,Group Stage:  Opening (D)
+542211,233442,1001,2,2,2,2,0,5,2,14,9,Group Stage:  Opening (D)
+542211,233443,11058,1,2,1,2,1,9,3,10,5,Group Stage:  Opening (D)
+542211,233443,1001,1,3,1,1,0,4,3,15,9,Group Stage:  Opening (D)
+542200,233412,12010,0,3,0,1,0,5,0,6,2,Group Stage:  Opening (B)
+542200,233412,7386,2,2,2,0,0,5,4,8,7,Group Stage:  Opening (B)
+542200,233413,12010,0,4,1,0,0,5,3,13,5,Group Stage:  Opening (B)
+542200,233413,7386,2,2,2,1,1,4,3,15,7,Group Stage:  Opening (B)
+542201,233415,878,0,4,0,1,0,0,0,18,10,Group Stage:  Opening (B)
+542201,233415,2593,2,2,2,1,0,9,5,11,6,Group Stage:  Opening (B)
+542201,233416,878,1,3,1,3,0,4,2,10,4,Group Stage:  Opening (B)
+542201,233416,2593,1,3,1,1,0,6,5,10,7,Group Stage:  Opening (B)
+542197,233403,624,2,3,2,2,0,6,3,13,6,Group Stage:  Winner's (A)
+542197,233403,14419,0,4,1,0,0,2,2,18,10,Group Stage:  Winner's (A)
+542197,233404,624,1,3,1,0,0,5,2,15,10,Group Stage:  Winner's (A)
+542197,233404,14419,1,3,1,3,1,4,2,13,6,Group Stage:  Winner's (A)
+542197,233405,624,2,2,2,0,0,3,3,14,8,Group Stage:  Winner's (A)
+542197,233405,14419,0,3,0,2,1,7,2,7,3,Group Stage:  Winner's (A)
+542208,233433,8185,2,2,2,0,0,5,5,10,6,Group Stage:  Winner's (C)
+542208,233433,1034,0,4,0,1,0,4,0,8,4,Group Stage:  Winner's (C)
+542208,233434,8185,1,3,2,0,0,5,3,16,6,Group Stage:  Winner's (C)
+542208,233434,1034,1,3,1,1,0,6,3,14,9,Group Stage:  Winner's (C)
+542208,233435,8185,1,3,1,2,0,4,2,15,8,Group Stage:  Winner's (C)
+542208,233435,1034,1,4,1,0,0,6,3,14,9,Group Stage:  Winner's (C)
+542213,233448,1001,1,3,2,1,0,2,1,17,10,Group Stage:  Winner's (D)
+542213,233448,14,1,3,1,3,0,3,1,14,8,Group Stage:  Winner's (D)
+542213,233449,1001,0,4,0,0,0,3,1,17,12,Group Stage:  Winner's (D)
+542213,233449,14,2,2,2,1,0,7,3,14,6,Group Stage:  Winner's (D)
+542202,233418,7386,1,3,1,0,0,2,2,13,10,Group Stage:  Winner's (B)
+542202,233418,2593,1,3,1,1,0,7,2,7,2,Group Stage:  Winner's (B)
+542202,233419,7386,1,4,1,0,0,5,1,11,5,Group Stage:  Winner's (B)
+542202,233419,2593,1,3,1,2,1,3,2,12,9,Group Stage:  Winner's (B)
+542202,233420,7386,0,4,0,1,0,6,3,12,7,Group Stage:  Winner's (B)
+542202,233420,2593,2,2,2,2,1,5,3,14,7,Group Stage:  Winner's (B)
+542209,233436,474,0,3,0,1,0,6,3,6,0,Group Stage:  Elimination (C)
+542209,233436,1120,2,2,2,1,0,2,2,11,9,Group Stage:  Elimination (C)
+542209,233437,474,1,3,1,0,0,1,1,15,11,Group Stage:  Elimination (C)
+542209,233437,1120,1,3,1,2,0,6,2,8,3,Group Stage:  Elimination (C)
+542209,233438,474,0,4,1,2,0,2,2,20,12,Group Stage:  Elimination (C)
+542209,233438,1120,2,2,2,1,1,6,1,19,9,Group Stage:  Elimination (C)
+542198,233406,13581,0,4,1,0,0,4,2,15,7,Group Stage:  Elimination (A)
+542198,233406,2,2,3,2,0,0,5,3,15,8,Group Stage:  Elimination (A)
+542198,233407,13581,0,4,0,1,0,3,1,16,12,Group Stage:  Elimination (A)
+542198,233407,2,2,2,2,1,0,10,4,11,5,Group Stage:  Elimination (A)
+542198,233408,13581,1,3,1,1,1,5,3,12,8,Group Stage:  Elimination (A)
+542198,233408,2,1,3,1,2,1,4,1,12,5,Group Stage:  Elimination (A)
+542203,233421,12010,2,2,2,0,0,9,5,9,6,Group Stage:  Elimination (B)
+542203,233421,878,0,4,0,1,0,1,0,14,7,Group Stage:  Elimination (B)
+542203,233422,12010,1,3,1,1,0,10,3,7,4,Group Stage:  Elimination (B)
+542203,233422,878,1,3,1,2,1,2,1,14,10,Group Stage:  Elimination (B)
+542203,233423,12010,1,3,1,0,0,10,3,4,0,Group Stage:  Elimination (B)
+542203,233423,878,1,3,1,0,0,2,2,12,10,Group Stage:  Elimination (B)
+542214,233451,11058,1,3,2,0,0,4,2,13,9,Group Stage:  Elimination (D)
+542214,233451,11981,1,4,1,1,0,3,0,12,6,Group Stage:  Elimination (D)
+542214,233452,11058,2,2,2,1,0,5,2,12,9,Group Stage:  Elimination (D)
+542214,233452,11981,0,4,0,3,0,3,1,10,6,Group Stage:  Elimination (D)
+542210,233439,8185,1,3,1,0,0,6,4,12,8,Group Stage:  Decider (C)
+542210,233439,474,1,3,1,1,0,7,5,10,2,Group Stage:  Decider (C)
+542210,233440,8185,2,2,2,2,0,4,2,12,9,Group Stage:  Decider (C)
+542210,233440,474,0,4,0,0,0,5,1,11,6,Group Stage:  Decider (C)
+542199,233409,14419,1,3,1,3,1,6,3,14,9,Group Stage:  Decider (A)
+542199,233409,13581,1,3,1,0,0,6,5,17,6,Group Stage:  Decider (A)
+542199,233410,14419,2,2,2,1,1,7,3,13,7,Group Stage:  Decider (A)
+542199,233410,13581,0,4,0,0,0,6,1,13,9,Group Stage:  Decider (A)
+542215,233454,14,1,3,1,0,0,6,2,13,6,Group Stage:  Decider (D)
+542215,233454,11058,1,3,1,0,0,6,4,13,8,Group Stage:  Decider (D)
+542215,233455,14,0,4,0,4,2,1,0,12,6,Group Stage:  Decider (D)
+542215,233455,11058,2,2,2,0,0,6,3,13,8,Group Stage:  Decider (D)
+542204,233424,7386,2,2,2,0,0,5,4,11,7,Group Stage:  Decider (B)
+542204,233424,878,0,4,0,1,0,2,1,11,4,Group Stage:  Decider (B)
+542204,233425,7386,2,2,2,0,0,4,4,12,7,Group Stage:  Decider (B)
+542204,233425,878,0,4,0,1,0,5,2,8,3,Group Stage:  Decider (B)
+542265,233460,624,0,4,1,0,0,4,2,16,10,Playoffs:  Upper Quarterfinals
+542265,233460,11058,2,2,2,3,1,4,2,15,6,Playoffs:  Upper Quarterfinals
+542265,233461,624,2,2,2,1,1,9,6,16,4,Playoffs:  Upper Quarterfinals
+542265,233461,11058,0,4,1,1,0,2,2,21,12,Playoffs:  Upper Quarterfinals
+542265,233462,624,2,2,2,0,0,9,5,13,6,Playoffs:  Upper Quarterfinals
+542265,233462,11058,0,4,0,3,0,0,0,17,11,Playoffs:  Upper Quarterfinals
+542264,233457,2593,2,2,2,2,0,6,2,14,9,Playoffs:  Upper Quarterfinals
+542264,233457,8185,0,4,1,3,0,2,0,15,10,Playoffs:  Upper Quarterfinals
+542264,233458,2593,2,2,2,1,0,8,2,10,4,Playoffs:  Upper Quarterfinals
+542264,233458,8185,0,4,0,1,0,1,1,15,12,Playoffs:  Upper Quarterfinals
+542264,233459,2593,1,3,1,0,0,2,2,13,10,Playoffs:  Upper Quarterfinals
+542264,233459,8185,1,2,1,2,0,5,1,9,3,Playoffs:  Upper Quarterfinals
+542266,233463,1001,1,3,1,2,0,5,5,16,6,Playoffs:  Upper Quarterfinals
+542266,233463,7386,1,3,1,1,0,1,1,21,12,Playoffs:  Upper Quarterfinals
+542266,233464,1001,1,3,1,1,0,8,4,7,1,Playoffs:  Upper Quarterfinals
+542266,233464,7386,1,2,1,1,0,2,2,14,10,Playoffs:  Upper Quarterfinals
+542267,233466,1034,2,2,2,0,0,2,2,10,9,Playoffs:  Upper Quarterfinals
+542267,233466,14419,0,3,0,3,0,2,0,6,1,Playoffs:  Upper Quarterfinals
+542267,233467,1034,0,4,1,0,0,0,0,15,12,Playoffs:  Upper Quarterfinals
+542267,233467,14419,2,2,2,3,0,7,2,7,2,Playoffs:  Upper Quarterfinals
+542273,233483,8185,2,3,2,2,0,5,2,10,3,Playoffs:  Lower Round 1
+542273,233483,11058,0,3,0,0,0,3,2,14,11,Playoffs:  Lower Round 1
+542273,233484,8185,1,3,1,1,0,3,1,16,11,Playoffs:  Lower Round 1
+542273,233484,11058,1,4,1,0,0,7,2,12,7,Playoffs:  Lower Round 1
+542273,233485,8185,1,3,1,0,0,3,1,14,11,Playoffs:  Lower Round 1
+542273,233485,11058,1,4,1,1,1,5,1,10,4,Playoffs:  Lower Round 1
+542274,233486,1001,1,3,2,0,0,2,2,12,9,Playoffs:  Lower Round 1
+542274,233486,14419,1,3,1,3,1,6,1,5,1,Playoffs:  Lower Round 1
+542274,233487,1001,0,4,1,0,0,4,0,8,2,Playoffs:  Lower Round 1
+542274,233487,14419,2,2,2,1,0,4,3,9,8,Playoffs:  Lower Round 1
+542274,233488,1001,1,3,1,4,3,4,3,11,6,Playoffs:  Lower Round 1
+542274,233488,14419,1,3,1,0,0,7,5,12,3,Playoffs:  Lower Round 1
+542268,233469,2593,0,4,0,1,0,3,2,15,8,Playoffs:  Upper Semifinals
+542268,233469,624,2,2,2,1,0,8,5,12,6,Playoffs:  Upper Semifinals
+542268,233470,2593,1,3,2,0,0,2,2,12,9,Playoffs:  Upper Semifinals
+542268,233470,624,1,4,1,1,0,6,1,6,2,Playoffs:  Upper Semifinals
+542268,233471,2593,2,2,2,1,0,9,3,10,8,Playoffs:  Upper Semifinals
+542268,233471,624,0,4,1,0,0,4,0,14,8,Playoffs:  Upper Semifinals
+542269,233472,7386,1,3,1,0,0,3,2,24,11,Playoffs:  Upper Semifinals
+542269,233472,1034,1,4,1,0,0,4,3,22,12,Playoffs:  Upper Semifinals
+542269,233473,7386,2,2,2,0,0,4,2,11,9,Playoffs:  Upper Semifinals
+542269,233473,1034,0,4,0,2,0,4,1,7,3,Playoffs:  Upper Semifinals
+542269,233474,7386,2,3,2,1,0,5,2,21,10,Playoffs:  Upper Semifinals
+542269,233474,1034,0,5,1,0,0,2,0,23,15,Playoffs:  Upper Semifinals
+542277,233492,624,1,3,1,1,0,5,4,15,8,Playoffs:  Lower Round 2
+542277,233492,1001,1,3,1,3,1,7,5,11,4,Playoffs:  Lower Round 2
+542277,233493,624,1,3,1,2,0,4,2,13,6,Playoffs:  Lower Round 2
+542277,233493,1001,1,3,1,2,2,6,4,11,6,Playoffs:  Lower Round 2
+542277,233494,624,1,3,1,0,0,4,3,10,9,Playoffs:  Lower Round 2
+542277,233494,1001,1,3,1,1,0,6,1,7,2,Playoffs:  Lower Round 2
+542276,233489,7386,1,3,1,2,0,6,4,12,8,Playoffs:  Lower Round 2
+542276,233489,8185,1,3,1,1,0,5,2,14,7,Playoffs:  Lower Round 2
+542276,233490,7386,2,2,2,3,2,6,3,17,6,Playoffs:  Lower Round 2
+542276,233490,8185,0,5,1,1,1,1,0,21,13,Playoffs:  Lower Round 2
+542276,233491,7386,0,3,0,3,0,3,3,14,7,Playoffs:  Lower Round 2
+542276,233491,8185,2,2,2,1,1,7,4,13,6,Playoffs:  Lower Round 2
+542270,233475,2593,1,3,1,1,1,8,5,14,5,Playoffs:  Upper Final
+542270,233475,1034,1,4,1,0,0,5,4,17,9,Playoffs:  Upper Final
+542270,233476,2593,1,3,1,2,0,5,1,8,3,Playoffs:  Upper Final
+542270,233476,1034,1,4,2,0,0,3,1,11,10,Playoffs:  Upper Final
+542278,233495,8185,1,3,1,1,0,4,1,20,13,Playoffs:  Lower Round 3
+542278,233495,624,1,3,1,2,0,5,2,18,10,Playoffs:  Lower Round 3
+542278,233496,8185,2,2,2,1,0,6,4,12,7,Playoffs:  Lower Round 3
+542278,233496,624,0,4,0,1,0,2,0,14,8,Playoffs:  Lower Round 3
+542279,233498,2593,1,3,1,1,0,10,5,7,2,Playoffs:  Lower Final
+542279,233498,8185,1,3,1,0,0,3,2,15,10,Playoffs:  Lower Final
+542279,233499,2593,1,3,1,0,0,2,2,11,10,Playoffs:  Lower Final
+542279,233499,8185,1,3,1,3,0,3,1,7,1,Playoffs:  Lower Final
+542279,233500,2593,0,4,1,0,0,4,2,16,10,Playoffs:  Lower Final
+542279,233500,8185,2,2,2,1,0,8,4,13,5,Playoffs:  Lower Final
+542279,233501,2593,1,3,1,0,0,3,3,11,9,Playoffs:  Lower Final
+542279,233501,8185,1,3,1,2,0,5,2,7,1,Playoffs:  Lower Final
+542272,233478,1034,1,3,1,0,0,1,1,12,11,Playoffs:  Grand Final
+542272,233478,2593,1,3,1,1,0,8,2,4,0,Playoffs:  Grand Final
+542272,233479,1034,1,3,1,0,0,3,3,13,9,Playoffs:  Grand Final
+542272,233479,2593,1,3,1,2,1,5,3,9,1,Playoffs:  Grand Final
+542272,233480,1034,1,4,1,1,0,4,3,19,9,Playoffs:  Grand Final
+542272,233480,2593,1,3,1,0,0,8,3,17,11,Playoffs:  Grand Final
+542272,233481,1034,1,4,1,0,0,4,3,13,4,Playoffs:  Grand Final
+542272,233481,2593,1,3,1,2,1,3,1,13,10,Playoffs:  Grand Final
+542272,233482,1034,0,4,0,0,0,1,1,13,12,Playoffs:  Grand Final
+542272,233482,2593,2,2,2,3,0,9,3,4,0,Playoffs:  Grand Final
