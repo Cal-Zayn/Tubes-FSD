@@ -15,6 +15,9 @@ import numpy as np
 import gradio as gr
 import joblib
 
+if hasattr(sys.stdout, 'reconfigure'):
+    sys.stdout.reconfigure(encoding='utf-8')
+
 warnings.filterwarnings("ignore")
 
 # ─── Pastikan working directory benar ─────────────────────────────────────────
