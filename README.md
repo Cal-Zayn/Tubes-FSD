@@ -10,19 +10,21 @@ Proyek ini mengimplementasikan dua pendekatan Machine Learning pada dataset pert
 | Studi Kasus | Pendekatan | Tujuan |
 |------------|-----------|--------|
 | **1** | Supervised Learning | Prediksi Kemenangan (Win/Loss) berdasarkan statistik tim |
-| **2** | Unsupervised Learning | Segmentasi gaya bermain pemain profesional (Clustering) |
+| **2** | Unsupervised Learning | Segmentasi & Pengelompokan Senjata Valorant berdasarkan Performa (Clustering) |
 
 ---
 
 ## 📊 Sumber Dataset (Real / Publik)
 
 ### Dataset 1 — VCT Champions 2025 Match Data
-- **Platform**: [Kaggle]([https://www.kaggle.com/datasets/thedevastator/valorant-champion-tour-2021-2026-data](https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset))
+- **Platform**: [Kaggle](https://www.kaggle.com/datasets/thedevastator/valorant-champion-tour-2021-2026-data)
+- **Penyedia Data Asli**: [VLR.gg](https://www.vlr.gg) — platform statistik esports Valorant terpercaya
 - **Konten**: Data statistik pertandingan tim (skor, win/loss, economy) dan performa pemain individual (ACS, ADR, rating, KAST, headshot %) dari VCT Champions 2025
 
 ### Dataset 2 — Valorant Weapons Statistics
+- **Platform**: [Kaggle – Valorant Weapons Dataset](https://www.kaggle.com/datasets/aarishmughal/valorant-weapons-stats-latest)
 - **File**: `valorant_weapons.csv`
-- **Konten**: Statistik damage senjata Valorant berdasarkan jarak, kelas senjata, fire rate, ammo
+- **Konten**: Spesifikasi teknis dan statistik performa 20 senjata Valorant (harga, fire rate, amunisi, dan damage head/body/legs di berbagai jarak)
 
 ---
 
@@ -32,7 +34,7 @@ Proyek ini mengimplementasikan dua pendekatan Machine Learning pada dataset pert
 Tubes-FSD/
 │
 ├── data/
-│   ├── vct_champs_2025/              ← Dataset utama (VCT 2025)
+│   ├── vct_champs_2025/              ← Dataset utama (VCT 2025 - Studi Kasus 1)
 │   │   ├── stats.csv                 ← Performa individual pemain
 │   │   ├── score.csv                 ← Skor & hasil pertandingan
 │   │   ├── economy.csv               ← Data ekonomi tim
@@ -44,19 +46,19 @@ Tubes-FSD/
 │   │   ├── 1v1.csv                   ← Data duel 1v1
 │   │   └── counter_kill.csv          ← Data counter kill
 │   │
-│   └── weapons/                      ← Dataset senjata
+│   └── weapons/                      ← Dataset senjata (Studi Kasus 2)
 │       └── valorant_weapons.csv
 │
 ├── models/                           ← Model hasil training (dibuat otomatis)
 │   ├── best_classifier.pkl           ← Model klasifikasi terbaik
-│   ├── scaler.pkl                    ← StandardScaler
-│   ├── feature_cols.json             ← Daftar fitur
-│   ├── kmeans_model.pkl              ← Model K-Means
-│   ├── scaler_unsupervised.pkl       ← Scaler untuk clustering
-│   └── pca_model.pkl                 ← PCA model
+│   ├── scaler.pkl                    ← StandardScaler untuk klasifikasi
+│   ├── feature_cols.json             ← Daftar fitur klasifikasi
+│   ├── kmeans_weapons.pkl            ← Model K-Means clustering senjata
+│   ├── scaler_weapons.pkl            ← Scaler untuk clustering senjata
+│   └── pca_weapons.pkl               ← PCA model clustering senjata
 │
-├── supervised_learning_valorant.ipynb    ← 📓 Notebook Studi Kasus 1
-├── unsupervised_learning_valorant.ipynb  ← 📓 Notebook Studi Kasus 2
+├── supervised_learning_valorant.ipynb    ← 📓 Notebook Studi Kasus 1 (Match Outcome Prediction)
+├── unsupervised_learning_valorant.ipynb  ← 📓 Notebook Studi Kasus 2 (Weapon Clustering)
 ├── app.py                                ← 🖥️ Gradio App (standalone)
 └── README.md                             ← Dokumentasi ini
 ```
@@ -93,7 +95,7 @@ jupyter notebook unsupervised_learning_valorant.ipynb
 python app.py
 ```
 
-Buka browser di: [http://127.0.0.1:7860](http://127.0.0.1:7861)
+Buka browser di: [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
 ---
 
@@ -121,7 +123,7 @@ Memprediksi apakah sebuah tim akan **Menang** atau **Kalah** dalam pertandingan 
 ### Algoritma yang Dibandingkan
 - ✅ **Logistic Regression**
 - ✅ **SVM (RBF Kernel)**
-- ✅ **Random Forest** ← *(biasanya terbaik)*
+- ✅ **Random Forest** ← *(terbaik)*
 - ✅ **Gradient Boosting**
 
 ### Evaluasi
@@ -136,24 +138,23 @@ Memprediksi apakah sebuah tim akan **Menang** atau **Kalah** dalam pertandingan 
 ## 📌 Studi Kasus 2 — Unsupervised Learning
 
 ### Objektif
-Mengelompokkan pemain profesional VCT 2025 ke dalam cluster gaya bermain menggunakan **K-Means Clustering**.
+Mengelompokkan 20 senjata Valorant ke dalam cluster archetype berdasarkan profil performa (harga, fire rate, amunisi, dan damage di berbagai jarak) menggunakan **K-Means Clustering**.
 
 ### Fitur yang Digunakan
-`avg_acs`, `avg_kda`, `avg_adr`, `avg_kast`, `avg_hs`, `avg_fk`, `avg_fd`, `avg_rating`
+`Price`, `FireRate`, `Ammo`, `ReserveAmmo`, `Damage_Head_0-30m`, `Damage_Body_0-30m`, `Damage_Legs_0-30m`, `Damage_Head_30-50m`, `Damage_Body_30-50m`, `Damage_Legs_30-50m`, dll.
 
-### Hasil Clustering (3 Cluster)
-| Cluster | Nama | Karakteristik |
-|---------|------|---------------|
-| 0 | 🔥 **Aggressive Entry Fragger** | First Kills tinggi, ACS tinggi, agresif mencari duel |
-| 1 | 🛡️ **Passive Support / Anchor** | KAST % tinggi, konsisten, jarang first entry |
-| 2 | ⭐ **Elite Clutch / Top Duelist** | Rating tertinggi, ACS tertinggi, dominan di semua situasi |
+### Hasil Clustering (3 Cluster Archetype Senjata)
+| Cluster | Archetype | Karakteristik & Contoh Senjata |
+|---------|-----------|--------------------------------|
+| **Cluster 0** | ⭐ **Precision / High-Damage** | Head damage sangat tinggi, harga mahal, fire rate rendah (*Operator, Vandal, Guardian*) |
+| **Cluster 1** | ⚡ **Rapid Fire / Aggressive** | Fire rate sangat tinggi, ammo besar, damage per peluru rendah (*Spectre, Stinger, Frenzy, Ares, Odin*) |
+| **Cluster 2** | ⚖️ **Balanced / All-Round** | Keseimbangan antara damage, harga, dan fire rate (*Ghost, Sheriff, Classic, Phantom*) |
 
 ### Metode Evaluasi Clustering
-- **Elbow Method** (Inertia)
-- **Silhouette Score**
-- **Davies-Bouldin Index**
-- **PCA 2D Visualization**
-- **Radar Chart** per Cluster
+- **Elbow Method** (Inertia) — Menentukan jumlah cluster $k=3$ optimal
+- **Silhouette Score** — Mengukur tingkat pemisahan antar cluster
+- **Davies-Bouldin Index** — Mengukur rasio separasi dan dispersi cluster
+- **PCA 2D Visualization** — Reduksi dimensi untuk visualisasi sebaran 20 senjata dalam grafik 2D
 
 ---
 
@@ -175,9 +176,9 @@ Antarmuka interaktif yang memungkinkan pengguna memasukkan statistik tim secara 
 |--------|-----------|
 | **Mata Kuliah** | Fundamen Sains Data |
 | **Tema** | Competitive Gaming & Esports |
-| **Dataset Utama** | Valorant VCT Champions 2025 |
-| **Sumber Dataset** | [Kaggle 1] (https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset) [Kaggle 2] (https://www.kaggle.com/datasets/aarishmughal/valorant-weapons-stats-latest)   |
+| **Dataset Utama** | Valorant VCT Champions 2025 | Valorant Weapon Stats |
+| **Sumber Dataset** | [Kaggle 1] (https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset)   [Kaggle 2](https://www.kaggle.com/datasets/aarishmughal/valorant-weapons-stats-latest)) |
 | **Teknologi** | Python, scikit-learn, Pandas, Matplotlib, Seaborn, Gradio |
 ---
 
-*Dataset dikumpulkan dari platform Kaggle untuk keperluan edukasi dan penelitian.*
+*Dataset dikumpulkan dari VLR.gg dan didistribusikan melalui platform Kaggle untuk keperluan edukasi dan penelitian.*
