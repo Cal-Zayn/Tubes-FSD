@@ -17,8 +17,7 @@ Proyek ini mengimplementasikan dua pendekatan Machine Learning pada dataset pert
 ## 📊 Sumber Dataset (Real / Publik)
 
 ### Dataset 1 — VCT Champions 2025 Match Data
-- **Platform**: [Kaggle](https://www.kaggle.com/datasets/thedevastator/valorant-champion-tour-2021-2026-data)
-- **Penyedia Data Asli**: [VLR.gg](https://www.vlr.gg) — platform statistik esports Valorant terpercaya
+- **Platform**: [Kaggle]([https://www.kaggle.com/datasets/thedevastator/valorant-champion-tour-2021-2026-data](https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset))
 - **Konten**: Data statistik pertandingan tim (skor, win/loss, economy) dan performa pemain individual (ACS, ADR, rating, KAST, headshot %) dari VCT Champions 2025
 
 ### Dataset 2 — Valorant Weapons Statistics
@@ -177,8 +176,8 @@ Antarmuka interaktif yang memungkinkan pengguna memasukkan statistik tim secara 
 | **Mata Kuliah** | Fundamen Sains Data |
 | **Tema** | Competitive Gaming & Esports |
 | **Dataset Utama** | Valorant VCT Champions 2025 |
-| **Sumber Dataset** | [Kaggle] (https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset)   [VLR.gg](https://www.vlr.gg) |
+| **Sumber Dataset** | [Kaggle 1] (https://www.kaggle.com/datasets/kierru/valorant-vct-champions-2025-dataset) [Kaggle 2] (https://www.kaggle.com/datasets/aarishmughal/valorant-weapons-stats-latest)   |
 | **Teknologi** | Python, scikit-learn, Pandas, Matplotlib, Seaborn, Gradio |
 ---
 
-*Dataset dikumpulkan dari VLR.gg dan didistribusikan melalui platform Kaggle untuk keperluan edukasi dan penelitian.*
+*Dataset dikumpulkan dari platform Kaggle untuk keperluan edukasi dan penelitian.*
